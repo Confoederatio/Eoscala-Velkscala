@@ -11,6 +11,8 @@
 
 [![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/Australis-0/Eoscala-Velkscala?style=for-the-badge) ![](https://img.shields.io/github/downloads/Australis-0/Eoscala-Velkscala/total?style=for-the-badge)
 
+- E-mail: [vf.confoederatio@gmail.com](mailto:vf.confoederatio@gmail.com)
+
 **Abstract.**
 
 Eoscala 1.0/Velkscala 0.5 are twin projects focusing on the global historical modelling of demographic and economic data overtime at a 5-arcminute resolution (4320x2160, WGS84 Equirectangular). These rasters are currently provided at 1000-year intervals from 10000BC to 1AD, at 100-year intervals from 1AD to 1700AD, at 10-year intervals from 1700AD to 1950AD, and at 1-year intervals from 1950AD to 2023AD. Eoscala's data is reliable to 2022AD, and Velkscala's data to 2023AD.
