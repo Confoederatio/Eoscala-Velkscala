@@ -48,7 +48,7 @@ Velkscala's file directories are contained within `./velkscala/`, and follow a H
 - `tot_irri`: Irrigated Area (km^2/cell)
 - `tot_rainfed`: Rainfed Non-Rice Cropland (km^2/cell)
 - `tot_rice`: Rice Cropland (km^2/cell)
-
+<br><br>
 - `popc_`: Total Population (pop/cell)
 - `popd_`: Population Density (pop/km^2)
 - `rurc_`: Rural Population (pop/cell)
