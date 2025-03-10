@@ -7,6 +7,7 @@
 
 <div align = "center">-</div>
 <br>
+<img src = "https://i.postimg.cc/m2xCLYYh/crd-logo.png" height = "64">
 
 [![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/Australis-0/Eoscala-Velkscala?style=for-the-badge) ![](https://img.shields.io/github/downloads/Australis-0/Eoscala-Velkscala/total?style=for-the-badge)
 
