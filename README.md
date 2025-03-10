@@ -9,7 +9,7 @@
 <br>
 <img src = "https://i.postimg.cc/m2xCLYYh/crd-logo.png" height = "64">
 
-[![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/Australis-0/Eoscala-Velkscala?style=for-the-badge) ![](https://img.shields.io/github/downloads/Australis-0/Eoscala-Velkscala/total?style=for-the-badge)
+[![Join our community!](https://img.shields.io/discord/548994743925997570?label=Discord&style=for-the-badge)](https://discord.gg/89kQY2KFQz) ![](https://img.shields.io/github/languages/code-size/Confoederatio/Eoscala-Velkscala?style=for-the-badge) ![](https://img.shields.io/github/downloads/Confoederatio/Eoscala-Velkscala/total?style=for-the-badge)
 
 - E-mail: [vf.confoederatio@gmail.com](mailto:vf.confoederatio@gmail.com)
 
@@ -22,7 +22,7 @@ This database is subject to future routine updates to improve model and data acc
 **Data & Papers.**
 
 Eoscala 1.0/Velkscala 0.5.
-- [📝 Paper](https://github.com/Australis-0/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Australis-0/Eoscala-Velkscala/tree/main/eoscala) | [👥 Velkscala 0.5 Rasters](https://github.com/Australis-0/Eoscala-Velkscala/tree/main/velkscala)
+- [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala)
   
   - Note: The current model includes the full source-code, but is not yet cross-compatible and fully operable on most devices. Use source code with caution. 2000BC data is not currently provided.
  
@@ -63,8 +63,8 @@ Velkscala's file directories are contained within `./velkscala/`, and follow a H
 Relevant model weighting data for Eoscala ML models, including the base OLS HYDE-SEDAC model, may be found in the `./models/` folder.
 
 Regional subdivisions mentioned in papers may be found as follows:
-- [Eoscala Regions](https://github.com/Australis-0/Eoscala-Velkscala/blob/main/subdivisions/regional_subdivisions.png)
-- [McEvedy Subdivisions](https://github.com/Australis-0/Eoscala-Velkscala/blob/main/subdivisions/mcevedy_subdivisions.png)
-- [World Bank Subdivisions](https://github.com/Australis-0/Eoscala-Velkscala/blob/main/subdivisions/world_bank_subdivisions.png)
+- [Eoscala Regions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/regional_subdivisions.png)
+- [McEvedy Subdivisions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/mcevedy_subdivisions.png)
+- [World Bank Subdivisions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/world_bank_subdivisions.png)
 
 Their JSON values are currently hardcoded in source, with future plans for modularisation.
