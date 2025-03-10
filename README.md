@@ -1,6 +1,6 @@
 # Eoscala/Velkscala
 
-![](https://i.postimg.cc/P5ncBfd9/eoscala-gdp-ppp-1850-visualisation.png)
+![https://github.com/Australis-0/Eoscala-Velkscala/blob/main/eoscala/gdp_ppp_rasters/gdp_ppp_1850.png](https://i.postimg.cc/P5ncBfd9/eoscala-gdp-ppp-1850-visualisation.png)
 
 ### <div align = "center">Global Economic and Population Data, 10000BC-2023AD.</div>
 <div align = "center">Figure 1. GDP (PPP) in FY2000 International Dollars, 100s in AD1850.</div>
