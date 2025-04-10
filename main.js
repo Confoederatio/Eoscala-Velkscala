@@ -9,6 +9,7 @@ process.on('unhandledRejection', function (reason, p) {
 //File directories to load into Eoscala
 global.load_order = {
   load_directories: [
+    "common",
     "core",
     "UF"
   ],
@@ -47,11 +48,12 @@ global.main = {
 
 //Load all scripts
 FileManager.loadAllScripts();
+global.log.prefix = "[Eoscala]";
 
 //Global CLI handling
 {
   function clearRequireCache () {
-      console.log("Reloading project files...");
+      log.info("Reloading project files...");
       Object.keys(require.cache).forEach((key) => {
           delete require.cache[key];
       });
@@ -102,14 +104,14 @@ FileManager.loadAllScripts();
       output: process.stdout,
   });
   //Log init settings
-  console.log(`[Eoscala] Initialised with:`);
-  console.log(`[Eoscala] - RAM allocation: ${v8.getHeapStatistics().heap_size_limit/1024/1024} MB`);
+  log.info(`[Eoscala] Initialised with:`);
+  log.info(`[Eoscala] - RAM allocation: ${v8.getHeapStatistics().heap_size_limit/1024/1024} MB`);
 
   function handleCLI () {
     //Run Eoscala frame
     cli.question("[Eoscala] > ", (input_string) => {
         if (input_string.toLowerCase() === "exit") {
-          console.log("Exiting Eoscala.");
+          log.info("Exiting Eoscala.");
 
           //Break CLI
           cli.close();
@@ -131,5 +133,8 @@ FileManager.loadAllScripts();
   }
 }
 
-//Start CLI
+//Start CLI; startup process
 handleCLI();
+log.info(`Calling startup process.`);
+startup();
+log.info(`Startup process complete.`);
