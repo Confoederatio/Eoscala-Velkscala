@@ -15,17 +15,23 @@
   
       //Declare local instance variables
       var gdp_ppp_file_path = `${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_prefix}${year}${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_suffix}`;
-      var nordhaus_gdp_obj = getGlobalNordhausGDP_PPP();
+      if (!fs.existsSync(gdp_ppp_file_path))
+        gdp_ppp_file_path = `${config.defines.common.output_file_paths.OLS_potential_economic_activity_prefix}${year}${config.defines.common.output_file_paths.OLS_potential_economic_activity_suffix}`;
+      var nordhaus_gdp_obj = main.eoscala.nordhaus_gdp_obj;
 
       var actual_gdp = nordhaus_gdp_obj[year]/100; //Make sure this in $100s to prevent overflow
       var gdp_ppp_image = loadNumberRasterImage(gdp_ppp_file_path);
-      console.log(`Scaling ${year} to Nordhaus GDP PPP (2000$)..`);
-      console.log(`- Loaded ${gdp_ppp_file_path}`);
+      log.info(`Scaling ${year} to Nordhaus GDP PPP (2000$)..`);
+      log.info(`- Loaded ${gdp_ppp_file_path}`);
       var output_file_path = `${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_prefix}${year}${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_suffix}`;
-      var sum_gdp = 0;
   
       //Guard clause if GDP (PPP) doesn't exist
       if (isNaN(actual_gdp) || returnSafeNumber(actual_gdp) == 0) return;
+      var sum_gdp = getImageSum(gdp_ppp_image);
+
+      var global_scalar = actual_gdp/sum_gdp;
+      log.info(`- Global Scalar:`, global_scalar);
+      log.info(`- Actual GDP:`, actual_gdp, `Sum GDP:`, sum_gdp);
 
       //Save raster image
       saveNumberRasterImage({
@@ -41,14 +47,13 @@
 
           if (local_value != undefined && local_value != -9999)
             local_value *= global_scalar;
-          sum_gdp += local_value;
           
           //Return statement
           return local_value;
         }
       });
 
-      console.log(`.PNG output file written to ${output_file_path}`);
+      log.info(`.PNG output file written to ${output_file_path}`);
 
       //Return statement
       return sum_gdp*100;
@@ -66,7 +71,7 @@
   
       //Iterate over all hyde_years
       for (var i = 0; i < hyde_years.length; i++) try {
-        modifyObject(return_obj, hyde_years[i], scaleRasterToNordhaus(hyde_years[i]));
+        modifyValue(return_obj, hyde_years[i], scaleRasterToNordhaus(hyde_years[i]));
       } catch (e) {
         console.error(`scaleRastersToNordhaus(): Error for Year ${hyde_years[i]}`);
         console.error(e);
@@ -80,35 +85,38 @@
   //Statistical functions
   {
     /**
-     * getGlobalNordhausGDP_PPP() - Returns an object dictionary of total global GDP (PPP) in 2000$ for all HYDE years.
+     * loadGlobalNordhausGDP_PPP() - Returns an object dictionary of total global GDP (PPP) in 2000$ for all HYDE years.
      * 
      * @returns {Object<number, number>}
      */
-    global.getGlobalNordhausGDP_PPP = function () {
+    global.loadGlobalNordhausGDP_PPP = function () {
       //Declare local instance variables
       var hyde_years = config.velkscala.hyde.hyde_years;
       var nordhaus_obj = config.eoscala.statistics["gdp_ppp_global_nordhaus_-10000-1990_1990$"]; //Billions of 1990$
       var world_bank_obj = config.eoscala.statistics["gdp_ppp_global_world_bank_1990-2023_2021$"]; //Trillions of 2021$
+
+      var local_nordhaus_obj = JSON.parse(JSON.stringify(nordhaus_obj));
+      var local_world_bank_obj = JSON.parse(JSON.stringify(world_bank_obj));
   
       //Iterate over all_nordhaus_keys and multiply by SDR deflator to convert 1990$ to 2000$. Apply the same for world_bank_obj
-      var all_nordhaus_keys = Object.keys(nordhaus_obj);
-      var all_world_bank_keys = Object.keys(world_bank_obj);
+      var all_nordhaus_keys = Object.keys(local_nordhaus_obj);
+      var all_world_bank_keys = Object.keys(local_world_bank_obj);
       var nordhaus_conversion = 1.2171767028627838*1000000000;
       var worldbank_conversion = 0.7011657662780779*1000000000*1000;
   
       for (var i = 0; i < all_nordhaus_keys.length; i++)
-        nordhaus_obj[all_nordhaus_keys[i]] *= nordhaus_conversion;
+        local_nordhaus_obj[all_nordhaus_keys[i]] *= nordhaus_conversion;
       for (var i = 0; i < all_world_bank_keys.length; i++)
-        world_bank_obj[all_world_bank_keys[i]] *= worldbank_conversion;
-      nordhaus_obj = mergeObjects(nordhaus_obj, world_bank_obj, { overwrite: true });
+        local_world_bank_obj[all_world_bank_keys[i]] *= worldbank_conversion;
+      local_nordhaus_obj = mergeObjects(local_nordhaus_obj, local_world_bank_obj, { overwrite: true });
   
-      //Interpolate nordhaus_obj over all HYDE_years
-      nordhaus_obj = cubicSplineInterpolationObject(nordhaus_obj, { 
+      //Interpolate local_nordhaus_obj over all HYDE_years
+      local_nordhaus_obj = cubicSplineInterpolationObject(local_nordhaus_obj, { 
         years: hyde_years 
       });
   
       //Return statement
-      return nordhaus_obj;
+      return local_nordhaus_obj;
     };
   }
 }
@@ -127,13 +135,16 @@
   
       //Declare local instance variables
       var gdp_ppp_file_path = `${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_prefix}${year}${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_suffix}`;
+      if (!fs.existsSync(gdp_ppp_file_path))
+        gdp_ppp_file_path = `${config.defines.common.output_file_paths.OLS_potential_economic_activity_prefix}${year}${config.defines.common.output_file_paths.OLS_potential_economic_activity_suffix}`;
+
       var world_bank_subdivisions_image = loadWorldBankSubdivisions(config.defines.common.input_file_paths.world_bank_subdivisions);
   
       //NOTE: main.countries.<country_key>.gdp_ppp contains country GDP PPPs
       var all_countries_keys = Object.keys(main.countries);
       var gdp_ppp_image = loadNumberRasterImage(gdp_ppp_file_path);
-      console.log(`Scaling ${year} to Maddison (2000$)..`);
-      console.log(`- Loaded ${gdp_ppp_file_path}`);
+      log.info(`Scaling ${year} to Maddison (2000$)..`);
+      log.info(`- Loaded ${gdp_ppp_file_path}`);
   
       //Iterate over all countries to set things up
       for (var i = 0; i < all_countries_keys.length; i++) {
@@ -152,11 +163,11 @@
           var number = arg1_number;
 
           //Declare local instance variables
-          var local_country = main.countries[
+          var local_country = main.countries[[
             world_bank_subdivisions_image.data[index],
             world_bank_subdivisions_image.data[index + 1],
             world_bank_subdivisions_image.data[index + 2]
-          ].join(",");
+          ].join(",")];
 
           if (local_country)
             local_country.sum_gdp_ppp += number;
@@ -179,7 +190,7 @@
   
                 if (actual_gdp_ppp != undefined && sum_gdp_ppp != undefined) {
                   local_country.maddison_scalar = actual_gdp_ppp/(sum_gdp_ppp*100); //Convert from $100s
-                  console.log(`Set Maddison Scalar for ${all_countries_keys[i]} to:`, local_country.maddison_scalar);
+                  log.info(`Set Maddison Scalar for ${all_countries_keys[i]} to:`, local_country.maddison_scalar);
                 }
               } catch (e) {
                 console.error(`Error dealing with country: `, all_countries_keys[i], local_country);
@@ -188,14 +199,17 @@
         }
       }
 
+      log.info(`Standardising to Maddison for ${year}:`);
+
       //Adjust raster image to Maddison
       saveNumberRasterImage({
         file_path: gdp_ppp_file_path,
         height: gdp_ppp_image.height,
         width: gdp_ppp_image.width,
-        function: function (arg0_index) {
+        function: function (arg0_index, arg1_number) {
           //Convert from parameters
           var index = arg0_index;
+          var number = arg1_number;
 
           //Declare local instance variables
           var local_value = gdp_ppp_image.data[index];
@@ -211,9 +225,7 @@
       });
   
       //Write file
-      console.log(`Standardising to Maddison for ${year}:`);
-      console.log(`- ${gdp_ppp_file_path} ..`);
-      fs.writeFileSync(gdp_ppp_file_path, pngjs.PNG.sync.write(png));
+      log.info(`- ${gdp_ppp_file_path} ..`);
     };
     
     /**
@@ -257,7 +269,7 @@
       if (maddison_name) {
         var inside_domain = false;
   
-        //Iterate over all maddison estimates and log in populated values before interpolation
+        //Iterate over all Maddison estimates and log in populated values before interpolation
         for (var i = 0; i < main.maddison_estimates.length; i++) {
           var local_value = main.maddison_estimates[i][maddison_name];
   
@@ -290,8 +302,8 @@
           for (var i = starting_year; i <= end_year; i++)
             local_values[i] = cubicSplineInterpolation(years, values, i);
         } catch (e) {
-          console.log(country_obj.maddison_name);
-          console.log(e);
+          log.info(country_obj.maddison_name);
+          log.info(e);
         }
       }
   

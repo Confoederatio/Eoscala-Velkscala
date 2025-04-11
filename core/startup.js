@@ -11,6 +11,10 @@
     //Eoscala
     //Initialise main object
     main = {};
+    main.eoscala = {
+      //GDP (PPP) - World
+      nordhaus_gdp_obj: loadGlobalNordhausGDP_PPP()
+    };
     main.hyde_years = hyde_years;
     main.hyde_years_length = hyde_years_length;
     main.hyde_years_index = hyde_years_index;

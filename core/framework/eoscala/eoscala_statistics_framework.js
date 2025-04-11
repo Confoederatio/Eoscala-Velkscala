@@ -1,58 +1,31 @@
 //Initialise functions
 {
-  global.printAdjustedGDP_PPP = function () {
+  global.printAdjustedGDP_PPP = function (arg0_year) {
+    //Convert from parameters
+    var year = returnSafeNumber(arg0_year);
+
+    //Declare local instance variables
+    var local_gdp_ppp_sum = getImageSum(`${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_prefix}${year}${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_suffix}`);
+
+    log.info(`${year} Global GDP (PPP) in 2000$: ${parseNumber(local_gdp_ppp_sum*100)}`);
+
+    //Return statement
+    return local_gdp_ppp_sum;
+  };
+
+  global.printAdjustedGDP_PPPs = function () {
     //Declare local instance variables
     var hyde_years = config.velkscala.hyde.hyde_years;
 
     //Iterate over all hyde_years
-    for (var i = 0; i < hyde_years.length; i++) try {
-      var local_gdp_ppp_sum = getImageSum(`${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_prefix}${hyde_years[i]}${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_suffix}`);
-
-      console.log(`${hyde_years[i]} Global GDP (PPP) in 2000$: ${parseNumber(local_gdp_ppp_sum*100)}`);
-    } catch (e) {}
+    for (var i = 0; i < hyde_years.length; i++)
+      printAdjustedGDP_PPP(hyde_years[i]);
   };
 
-  global.printAdjustedGDP_PPPByRegion = function () {
+  global.printAdjustedGDP_PPPsByRegion = function () {
     //Declare local instance variables
     var hyde_years = config.velkscala.hyde.hyde_years;
-    var regions_obj = {
-      northern_america: {
-        colour: [87, 122, 175]
-      },
-      latin_america: {
-        colour: [71, 165, 101]
-      },
-      europe: {
-        colour: [47, 97, 170]
-      },
-      eastern_europe_and_russia: {
-        colour: [20, 114, 30]
-      },
-      central_asia: {
-        colour: [41, 193, 175]
-      },
-      middle_east: {
-        colour: [198, 130, 129]
-      },
-      maghreb_egypt: {
-        colour: [239, 188, 112]
-      },
-      sub_saharan_africa: {
-        colour: [155, 101, 77]
-      },
-      oceania: {
-        colour: [0, 205, 143]
-      },
-      indian_subcontinent: {
-        colour: [214, 144, 83]
-      },
-      southeast_asia: {
-        colour: [97, 144, 163]
-      },
-      eastasia: {
-        colour: [173, 62, 62]
-      }
-    };
+    var regions_obj = config.eoscala.history.regions;
     var regional_subdivisions_file_path = config.defines.common.input_file_paths.regional_subdivisions;
     var regional_subdivisions_image = pngjs.PNG.sync.read(fs.readFileSync(regional_subdivisions_file_path));
 
@@ -77,8 +50,6 @@
       //Iterate over all pixels to fetch all region GDP PPPs
       for (var x = 0; x < local_gdp_ppp_image.width*local_gdp_ppp_image.height; x++) {
         var local_index = x*4; //RGBA index
-        var local_x = x % local_gdp_ppp_image.width;
-        var local_y = Math.floor(x/local_gdp_ppp_image.width);
 
         var local_data = local_gdp_ppp_image.data[x];
         var local_key = [

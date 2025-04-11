@@ -5,10 +5,6 @@
     var year = parseInt(arg0_year);
     var options = (arg1_options) ? arg1_options : {};
 
-    //Make sure McEvedy is loaded first
-    main.population = {};
-    loadMcEvedy();
-
     //Declare local instance variables
     var hyde_population_file_path = `${config.defines.common.output_file_paths.hyde_folder}popc_${getHYDEYearName(year)}_number.png`;
     var hyde_population_percentage_file_path = `${config.defines.common.output_file_paths.hyde_folder}popc_${getHYDEYearName(year)}_percentage.png`;
@@ -17,7 +13,7 @@
     var mcevedy_obj = main.population.mcevedy;
     var mcevedy_subdivisions_file_path = config.defines.common.input_file_paths.mcevedy_subdivisions;
 
-    var all_mc_evedy_keys = Object.keys(mcevedy_obj);
+    var all_mcevedy_keys = Object.keys(mcevedy_obj);
     var population_image = loadNumberRasterImage(hyde_population_file_path);
     var population_percentage_image = pngjs.PNG.sync.read(fs.readFileSync(hyde_population_percentage_file_path));
     var mcevedy_subdivisions_image = pngjs.PNG.sync.read(fs.readFileSync(mcevedy_subdivisions_file_path));
@@ -46,24 +42,24 @@
     }
 
     //Compute McEvedy scalars for each country
-    for (var i = 0; i < all_mc_evedy_keys.length; i++) {
-      var local_country = mcevedy_obj[all_mc_evedy_keys[i]];
+    for (var i = 0; i < all_mcevedy_keys.length; i++) {
+      var local_country = mcevedy_obj[all_mcevedy_keys[i]];
       
       if (local_country) {
         //Make sure cached .hyde_scalar is always removed before parsing
         delete local_country.hyde_scalar;
 
         if (local_country.population)
-          if (local_country.population[year.toString()] && local_country.hyde_population) {
+          if (local_country.population[year.toString()] != undefined && local_country.hyde_population != undefined) {
             try {
               var actual_population = local_country.population[year.toString()];
               var hyde_population = local_country.hyde_population[year.toString()];
 
-              console.log(`${all_mc_evedy_keys[i]}: Actual population: `, actual_population, `Hyde population: `, hyde_population);
+              console.log(`${all_mcevedy_keys[i]}: Actual population: `, actual_population, `Hyde population: `, hyde_population);
               if (actual_population != undefined && hyde_population != undefined)
                 local_country.hyde_scalar = actual_population/hyde_population;
             } catch (e) {
-              console.error(`Error dealing with country: `, all_mc_evedy_keys[i], local_country);
+              console.error(`Error dealing with country: `, all_mcevedy_keys[i], local_country);
               console.error(e);
             }
           } else {
@@ -163,6 +159,24 @@
     fs.writeFileSync(hyde_urbc_file_path, pngjs.PNG.sync.write(new_urbc_image));
   };
 
+  global.clampHYDERastersToMcEvedy = function (arg0_do_not_percentage_weight) {
+    //Convert from parameters
+    var do_not_percentage_weight = arg0_do_not_percentage_weight;
+
+    //Declare local instance variables
+    var hyde_years = config.velkscala.hyde.hyde_years;
+
+    //Iterate over all hyde_years
+    for (var i = 0; i < hyde_years.length; i++)
+      if (hyde_years[i] <= 1500) try {
+        if (!do_not_percentage_weight)
+          clampHYDEToMcEvedy(hyde_years[i], { percentage_weighting: true });
+        clampHYDEToMcEvedy(hyde_years[i]);
+      } catch (e) {
+        console.log(e);
+      }
+  };
+
   global.fixHYDEUrbanAreas = function (arg0_geomean_underweight) {
     //Convert from parameters
     var geomean_underweight = (arg0_geomean_underweight) ?
@@ -260,11 +274,11 @@
     var hyde_years = config.velkscala.hyde.hyde_years;
 
     //Perform polynomial interpolation on McEvedy data
-    var all_mc_evedy_keys = Object.keys(main.population.mcevedy);
+    var all_mcevedy_keys = Object.keys(main.population.mcevedy);
 
-    //Iterate over all_mc_evedy_keys
-    for (var i = 0; i < all_mc_evedy_keys.length; i++) {
-      var local_country = main.population.mcevedy[all_mc_evedy_keys[i]];
+    //Iterate over all_mcevedy_keys
+    for (var i = 0; i < all_mcevedy_keys.length; i++) {
+      var local_country = main.population.mcevedy[all_mcevedy_keys[i]];
 
       if (local_country.population) {
         //Iterate over local_country.population
@@ -288,36 +302,26 @@
           for (var x = 0; x < hyde_years.length; x++)
             if (hyde_years[x] >= years[0] && hyde_years[x] <= years[years.length - 1])
               local_country.population[hyde_years[x]] = cubicSplineInterpolation(years, values, hyde_years[x]);
+
+        //Iterate over all hyde_years and set to 0 if first local_country.population year is < 0.0001
+        var first_population_value = local_country.population[years[0]];
+
+        if (first_population_value < 0.0001)
+          for (var x = 0; x < hyde_years.length; x++)
+            if (hyde_years[x] <= years[0])
+             local_country.population[hyde_years[x]] = 0;
       }
     }
 
     //Set RGB aliases
-    for (var i = 0; i < all_mc_evedy_keys.length; i++) {
-      var local_country = main.population.mcevedy[all_mc_evedy_keys[i]];
+    for (var i = 0; i < all_mcevedy_keys.length; i++) {
+      var local_country = main.population.mcevedy[all_mcevedy_keys[i]];
 
       if (local_country.colour) {
-        main.population.mcevedy[local_country.colour.join(",")] = main.population.mcevedy[all_mc_evedy_keys[i]];
+        main.population.mcevedy[local_country.colour.join(",")] = main.population.mcevedy[all_mcevedy_keys[i]];
       } else {
-        console.warn(`${all_mc_evedy_keys[i]} has no colour!`);
+        console.warn(`${all_mcevedy_keys[i]} has no colour!`);
       }
     }
-  };
-
-  global.runHYDEMcEvedy = function (arg0_do_not_percentage_weight) {
-    //Convert from parameters
-    var do_not_percentage_weight = arg0_do_not_percentage_weight;
-
-    //Declare local instance variables
-    var hyde_years = config.velkscala.hyde.hyde_years;
-
-    //Iterate over all hyde_years
-    for (var i = 0; i < hyde_years.length; i++)
-      if (hyde_years[i] <= 1500) try {
-        if (!do_not_percentage_weight)
-          clampHYDEToMcEvedy(hyde_years[i], { percentage_weighting: true });
-        clampHYDEToMcEvedy(hyde_years[i]);
-      } catch (e) {
-        console.log(e);
-      }
   };
 }

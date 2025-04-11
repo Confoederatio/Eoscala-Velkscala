@@ -35,13 +35,22 @@
         var predicted_value = 0;
 
         //Compute predicted value based on HYDE stocks and coefficients
-        valid_hyde_keys.forEach((key) => {
+        for (var i = 0; i < valid_hyde_keys.length; i++) {
+          var key = valid_hyde_keys[i];
+          
           var coefficient = returnSafeNumber(coefficients[key], 1);
           var hyde_value = returnSafeNumber(hyde_images[key].data[index]);
           var weighted_contribution = hyde_value*coefficient;
+          
+          //Predicted value should be 0 if popc_ is 0, since uninhabited areas have no economic activity
+          if (key == "popc_")
+            if (hyde_value == 0) {
+              predicted_value = undefined;
+              break;
+            }
 
           predicted_value += weighted_contribution;
-        });
+        }
 
         //Return statement
         if (predicted_value)

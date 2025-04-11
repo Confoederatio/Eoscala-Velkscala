@@ -11,7 +11,8 @@
     var file_path = arg0_file_path;
 
     //Declare local instance variables
-    var image = loadNumberRasterImage(file_path);
+    var image = (typeof file_path == "string") ? 
+      loadNumberRasterImage(file_path) : file_path;
     var total_sum = 0;
 
     //Iterate over image
@@ -129,7 +130,7 @@
 
     for (var i = 0; i < image_obj.data.length; i++)
       if (options.function)
-        options.function(i, image_obj.data[i]);
+        options.function(i*4, image_obj.data[i]);
   };
 
   /**
@@ -158,19 +159,19 @@
     //Iterate over options.height; options.width
     for (var i = 0; i < options.height; i++)
       for (var x = 0; x < options.width; x++) {
-        var local_index = (i*options.width + x)*4; //RGBA index
+        var local_index = (i*options.width + x); //RGBA index to be multiplied by 4
 
-        saveNumberToPixel(image_obj, local_index, options.function(local_index));
+        saveNumberToPixel(png, local_index, options.function(local_index, png.data[local_index]));
       }
 
     //Write PNG file
-    png.pack().pipe(fs.createWriteStream(options.file_path))
+    fs.writeFileSync(options.file_path, pngjs.PNG.sync.write(png));
 
     //Return statement
     return {
       width: options.width,
       height: options.height,
-      data: pixel_values
+      data: png.data
     };
   };
 
