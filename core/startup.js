@@ -8,8 +8,12 @@
     var hyde_years_length = hyde_years.length;
     var hyde_years_index = 0;
 
-    //Eoscala
+    //Initialise config
+    //Velkscala
+    loadHYDEConfig();
+
     //Initialise main object
+    //Eoscala
     main = {};
     main.eoscala = {
       //GDP (PPP) - World

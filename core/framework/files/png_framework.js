@@ -161,7 +161,7 @@
       for (var x = 0; x < options.width; x++) {
         var local_index = (i*options.width + x); //RGBA index to be multiplied by 4
 
-        saveNumberToPixel(png, local_index, options.function(local_index, png.data[local_index]));
+        saveNumberToPixel(png, local_index, options.function(local_index));
       }
 
     //Write PNG file
@@ -173,6 +173,75 @@
       height: options.height,
       data: png.data
     };
+  };
+  
+  /**
+   * savePercentageRasterImage() - Saves a percentage raster image to a file based on a number raster image.
+   * @param {String} arg0_input_file_path - The file path to the number raster image to save the percentage raster image from.
+   * @param {String} arg1_output_file_path - The file path to save the percentage raster image to.
+   * 
+   * @returns {Object}
+   */
+  global.savePercentageRasterImage = function (arg0_input_file_path, arg1_output_file_path) {
+    //Convert from parameters
+    var input_file_path = arg0_input_file_path;
+    var output_file_path = arg1_output_file_path;
+
+    //Declare local instance variables
+    var input_image_obj = loadNumberRasterImage(input_file_path);
+    var max_index = -1;
+    var max_value = 0;
+    
+    //1. Fetch max_value
+    operateNumberRasterImage({
+      file_path: input_file_path,
+      width: input_image_obj.width,
+      height: input_image_obj.height,
+      function: function (arg0_index, arg1_number) {
+        //Convert from parameters
+        var index = arg0_index;
+        var number = arg1_number;
+
+        //Set max_value
+        if (max_value < number) {
+          max_index = index;
+          max_value = number;
+        }
+      }
+    });
+    
+    log.info(`max_value = ${max_value}, index = ${max_index}`);
+
+    //2. Save percentage raster image
+    var png = new pngjs.PNG({
+      height: input_image_obj.height,
+      width: input_image_obj.width,
+      filterType: -1
+    });
+    
+    //Iterate over all rows and columns
+    for (var i = 0; i < input_image_obj.height; i++)
+      for (var x = 0; x < input_image_obj.width; x++) {
+        var index = (i*input_image_obj.width + x);
+        var local_index = index*4; //RGBA index
+        var local_value = input_image_obj.data[index];
+
+        var local_g = Math.min(Math.round((local_value/max_value)*255), 255);
+        var rgba = (local_value) ? 
+          [0, local_g, 0, 255] : [0, 0, 0, 0];
+
+        //Set pixel values
+        png.data[local_index] = rgba[0];
+        png.data[local_index + 1] = rgba[1];
+        png.data[local_index + 2] = rgba[2];
+        png.data[local_index + 3] = rgba[3];
+      }
+
+    //Write PNG file
+    fs.writeFileSync(output_file_path, pngjs.PNG.sync.write(png));
+
+    //Return statement
+    return png;
   };
 
   /**

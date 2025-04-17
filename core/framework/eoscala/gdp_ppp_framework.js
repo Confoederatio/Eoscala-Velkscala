@@ -3,6 +3,23 @@
 {
   //Raster functions
   {
+    global.rebuildGDP_PPP = function () {
+      adjustRastersFromHYDEToMcEvedy();
+      eoscalaGeneratePotentialEconomicActivityRasters();
+      scaleGDP_PPPRasters();
+      printAdjustedGDP_PPPsByRegion();
+      fs.writeFileSync('./output/eoscala/eoscala_regions.json', JSON.stringify(config.eoscala.history.regions, null, 2), 'utf8');
+    };
+    
+    /**
+     * scaleGDP_PPPRasters() - Scales all GDP (PPP) rasters to actual GDP (PPP) in 2000$, 100s.
+     */
+    global.scaleGDP_PPPRasters = function () {
+      scaleRastersToNordhaus(); //1. Scale to Global GDP first to remove distortions
+      scaleRastersToMaddison(); //2. Country-level scaling
+      scaleRastersToNordhaus(); //3. Rescale to realign with Global GDP
+    };
+
     /**
      * scaleRasterToNordhaus() - Scales a raster image of GDP (PPP) to Nordhaus Global GDP (PPP) 2000$. Returns the total global GDP for that year.
      * @param {number} arg0_year - The year to scale the raster image to.
@@ -135,6 +152,8 @@
   
       //Declare local instance variables
       var gdp_ppp_file_path = `${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_prefix}${year}${config.defines.common.output_file_paths.OLS_nordhaus_gdp_ppp_suffix}`;
+      var output_file_path = JSON.parse(JSON.stringify(gdp_ppp_file_path));
+
       if (!fs.existsSync(gdp_ppp_file_path))
         gdp_ppp_file_path = `${config.defines.common.output_file_paths.OLS_potential_economic_activity_prefix}${year}${config.defines.common.output_file_paths.OLS_potential_economic_activity_suffix}`;
 
@@ -203,21 +222,26 @@
 
       //Adjust raster image to Maddison
       saveNumberRasterImage({
-        file_path: gdp_ppp_file_path,
+        file_path: output_file_path,
         height: gdp_ppp_image.height,
         width: gdp_ppp_image.width,
-        function: function (arg0_index, arg1_number) {
+        function: function (arg0_index) {
           //Convert from parameters
           var index = arg0_index;
-          var number = arg1_number;
 
           //Declare local instance variables
+          var byte_index = index*4;
+          var local_country = main.countries[[
+            world_bank_subdivisions_image.data[byte_index],
+            world_bank_subdivisions_image.data[byte_index + 1],
+            world_bank_subdivisions_image.data[byte_index + 2]
+          ].join(",")];
           var local_value = gdp_ppp_image.data[index];
 
           //Adjust to Maddison if possible
           if (local_country)
             if (local_country.maddison_scalar != undefined)
-              local_value = ((local_value*100)*local_country.maddison_scalar)/100; //Convert to and from $100s
+              local_value = local_value*local_country.maddison_scalar;
 
           //Return statement
           return local_value;
