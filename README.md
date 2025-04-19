@@ -22,7 +22,7 @@ This database is subject to future routine updates to improve model and data acc
 **Data & Papers.**
 
 Eoscala 1.0/Velkscala 0.5.
-- [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.0 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2) | [👥 Velkscala 0.5 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
+- [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.2 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2) | [👥 Velkscala 0.7 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
   
   - Note: The current model includes the full source-code, but is not yet cross-compatible and fully operable on most devices. Use source code with caution. 2000BC data is not currently provided.
  
