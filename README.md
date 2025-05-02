@@ -15,14 +15,18 @@
 
 **Abstract.**
 
-Eoscala 1.2/Velkscala 0.7 are twin projects focusing on the global historical modelling of demographic and economic data overtime at a 5-arcminute resolution (4320x2160, WGS84 Equirectangular). These rasters are currently provided at 1000-year intervals from 10000BC to 1AD, at 100-year intervals from 1AD to 1700AD, at 10-year intervals from 1700AD to 1950AD, and at 1-year intervals from 1950AD to 2023AD. Eoscala's data is reliable to 2022AD, and Velkscala's data to 2023AD.
+Eoscala/Velkscala are twin projects focusing on the global historical modelling of demographic and economic data overtime at a 5-arcminute resolution (4320x2160, WGS84 Equirectangular). These rasters are currently provided at 1000-year intervals from 10000BC to 1AD, at 100-year intervals from 1AD to 1700AD, at 10-year intervals from 1700AD to 1950AD, and at 1-year intervals from 1950AD to 2023AD. Eoscala's data is reliable to 2022AD, and Velkscala's data to 2023AD.
 
 This database is subject to future routine updates to improve model and data accuracy, as well as to expand the scope of available gridded raster data. Make sure to read each release paper for the full methodology.
 
 **Data & Papers.**
 
+Eoscala 1.2/Velkscala 0.7.
+- [📈 Eoscala 1.2 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2) | [👥 Velkscala 0.7 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
+Eoscala 1.1/Velkscala 0.6.
+- [📦 Release](https://github.com/Confoederatio/Eoscala-Velkscala/releases/tag/eoscala-1.1-velkscala-0.6)
 Eoscala 1.0/Velkscala 0.5.
-- [📝 Paper](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/Eoscala%201.0-Velkscala%200.5%20-%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present.pdf) | [📈 Eoscala 1.2 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/eoscala_1.2) | [👥 Velkscala 0.7 Rasters](https://github.com/Confoederatio/Eoscala-Velkscala/tree/main/velkscala_0.7)
+- [📝 Paper](https://confoederatio.org/papers/Eoscala%201.0_Velkscala%200.5_%20A%20Gridded%20Reconstruction%20of%20Global%20GDP%20and%20Population%20from%2010000BC%20to%20the%20Present-4.pdf) | [📦 Release](https://github.com/Confoederatio/Eoscala-Velkscala/releases/tag/eoscala-1.0-velkscala-0.5)
  
 **Decoding and Encoding.**
 
