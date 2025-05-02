@@ -66,9 +66,9 @@ Velkscala's file directories are contained within `./velkscala/`, and follow a H
 
 Relevant model weighting data for Eoscala ML models, including the base OLS HYDE-SEDAC model, may be found in the `./models/` folder.
 
-Regional subdivisions mentioned in papers may be found as follows:
+Regional subdivisions mentioned in papers may be found as follows as unique RGBA-coded ID rasters.
 - [Eoscala Regions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/regional_subdivisions.png)
 - [McEvedy Subdivisions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/mcevedy_subdivisions.png)
 - [World Bank Subdivisions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/world_bank_subdivisions.png)
 
-Their JSON values are currently hardcoded in source, with future plans for modularisation.
+Note that custom subdivisions are currently unavailable, though you can script your own analysis and statistical visualisation functions. R statistical tie-ins are available on the main production repository at [https://github.com/Confoederatio/Eoscala-Velkscala-Production](https://github.com/Confoederatio/Eoscala-Velkscala-Production).
