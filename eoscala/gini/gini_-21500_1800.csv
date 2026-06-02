@@ -1,0 +1,1932 @@
+Society,City/Site,Region,Polity,Year,Latitude,Longitude,Income Gini,Wealth Gini,Sources
+,,,Ghana,1900,8.03,-1.08,0.36,,Aboagye & Bolt (2018)
+,,,Ghana,1910,8.03,-1.08,0.38,,Aboagye & Bolt (2018)
+,,,Ghana,1920,8.03,-1.08,0.45,,Aboagye & Bolt (2018)
+,,,Ghana,1930,8.03,-1.08,0.48,,Aboagye & Bolt (2018)
+,,,Ghana,1940,8.03,-1.08,0.5,,Aboagye & Bolt (2018)
+,,,Argentina,1870,-38.41,-63.62,0.65,,Astorga-Junqueira (2017)
+,,,Argentina,1930,-38.41,-63.62,0.63,,Astorga-Junqueira (2017)
+,,,Brazil,1900,-14.24,-51.93,0.57,,Bertola et al. (2010)
+,,,Uruguay,1900,-32.52,-55.77,0.55,,Bertola et al. (2010)
+,,,Brazil,1940,-14.24,-51.93,0.63,,Bertola et al. (2010)
+,,,Uruguay,1940,-32.52,-55.77,0.51,,Bertola et al. (2010)
+,,,Kenya,1910,-0.02,37.9,0.63,,Bigsten (1986)
+,,,Kenya,1910,-0.02,37.9,0.52,,Bigsten (1986)
+,,,Kenya,1920,-0.02,37.9,0.6,,Bigsten (1986)
+,,,Kenya,1930,-0.02,37.9,0.66,,Bigsten (1986)
+,,,Kenya,1940,-0.02,37.9,0.7,,Bigsten (1986)
+,,,Botswana,1900,-22.33,24.68,0.36,,Bolt & Hillbom (2016)
+,,,Botswana,1910,-22.33,24.68,0.35,,Bolt & Hillbom (2016)
+,,,Botswana,1920,-22.33,24.68,0.31,,Bolt & Hillbom (2016)
+,,,Botswana,1930,-22.33,24.68,0.29,,Bolt & Hillbom (2016)
+,,,Botswana,1940,-22.33,24.68,0.35,,Bolt & Hillbom (2016)
+,,,Jamaica,1830,18.11,-77.3,0.55,,Burnard et al. (2019)
+,,,Mexico,1900,23.63,-102.55,0.49,,Castaneda-Garza & Bengtsson (2020)
+,,,Mexico,1920,23.63,-102.55,0.55,,Castaneda-Garza & Bengtsson (2020)
+,,,Mexico,1940,23.63,-102.55,0.57,,Castaneda-Garza & Bengtsson (2020)
+,,,Mexico,1950,23.63,-102.55,0.58,,Castaneda-Garza & Bengtsson (2020)
+,,,Badari Early Dynastic,-3700,29.59,31.25,,0.38,"Castillos 1998, https://www.egyptologyforum.org/bbs/uruguay/Castillos,_Inequality_in_Egyptian_predynastic_cemeteries,_1998.pdf"
+,,,Maadi Early Dynastic,-3100,29.58,31.15,,0.5,"Castillos 1998, https://www.egyptologyforum.org/bbs/uruguay/Castillos,_Inequality_in_Egyptian_predynastic_cemeteries,_1998.pdf"
+,,,Abydos Early Dynastic,-2900,28.11,31.55,,0.77,"Castillos 1998, https://www.egyptologyforum.org/bbs/uruguay/Castillos,_Inequality_in_Egyptian_predynastic_cemeteries,_1998.pdf"
+,,,Sakkara Early Dynastic,-2900,29.52,31.13,,0.61,"Castillos 1998, https://www.egyptologyforum.org/bbs/uruguay/Castillos,_Inequality_in_Egyptian_predynastic_cemeteries,_1998.pdf"
+,,,Uganda,1900,1,32,0.4,,"de Haas (2021), https://academic.oup.com/ereh/article/26/2/255/6290253"
+,,,Uganda,1910,1,32,0.42,,"de Haas (2021), https://academic.oup.com/ereh/article/26/2/255/6290253"
+,,,Uganda,1920,1,32,0.5,,"de Haas (2021), https://academic.oup.com/ereh/article/26/2/255/6290253"
+,,,Uganda,1930,1,32,0.47,,"de Haas (2021), https://academic.oup.com/ereh/article/26/2/255/6290253"
+,,,Mexico,1890,23.63,-102.55,0.43,,"Fitzgerald (2008),  https://doi.org/10.1002/jid.1511Digital Object Identifier (DOI)"
+,,,Mexico,1930,23.63,-102.55,0.5,,"Fitzgerald (2008),  https://doi.org/10.1002/jid.1511Digital Object Identifier (DOI)"
+,,,South Africa,1820,-30.56,22.94,0.78,,"Fourie & von Fintel (2011) , https://eprints.lse.ac.uk/113838/1/Economic_inequality_in_Latin_America_and_Africa_1650_to_1950_Can_a_comparison_of_historical_trajectories_help_to_understand_underdevelopment.pdf"
+,,,South Africa,1720,-30.56,22.94,0.79,,"Fourie & von Fintel (2011), https://www.tandfonline.com/doi/full/10.1080/20780389.2011.582990"
+,,,South Africa,1750,-30.56,22.94,0.76,,"Fourie & von Fintel (2011), https://www.tandfonline.com/doi/full/10.1080/20780389.2011.582990"
+,,,South Africa,1790,-30.56,22.94,0.74,,"Fourie & von Fintel (2011), https://www.tandfonline.com/doi/full/10.1080/20780389.2011.582990"
+,,,South Africa,1870,-30.56,22.94,0.74,,"Fourie & von Fintel (2011), https://www.tandfonline.com/doi/full/10.1080/20780389.2011.582990"
+,Ohalo II,,,-21500,32.72,35.57,,0.1827956989,GINI Project Database
+,Hayonim Cave,,,-14981,32.92,35.22,,0.250462963,GINI Project Database
+,Qarassa3,,,-14190,32.84,36.41,,0.116996148,GINI Project Database
+,Wadi Faynan 16,,,-10600,38.22,41.24,,0.2737124829,GINI Project Database
+,Hallan Çemi Tepesi,,,-9700,30.62,35.51,,0.4339172391,GINI Project Database
+,Çayönü,,,-9500,32.03,35.48,,0.1515151515,GINI Project Database
+,Jerf el Ahmar,,,-9500,36.38,38.18,,0.2058823529,GINI Project Database
+,Gilgal I,,,-9450,38.22,39.73,,0.2263374486,GINI Project Database
+,"Abu Salem G 08, Ramat Harif, G VIII",,,-8800,30.51,34.55,,0.6107236914,GINI Project Database
+,Asana,,,-8500,32.72,34.97,,0.1150097466,GINI Project Database
+,Ganj Dareh,,,-8500,34.27,47.48,,0.3096878806,GINI Project Database
+,Nahal Oren,,,-8500,30.44,35.44,,0.2641509434,GINI Project Database
+,Çayönü,,,-8400,38.35,34.23,,0.3840961538,GINI Project Database
+,Aşıklı Höyük,,,-8350,38.22,39.73,,0.3067112783,GINI Project Database
+,Shkārat Msaied,,,-8250,38.35,34.23,,0.212677231,GINI Project Database
+,Aşıklı Höyük,,,-8000,-17.04,-70.63,,0.2549593496,GINI Project Database
+,Canhasan III,,,-7650,34.77,33.16,,0.2894243641,GINI Project Database
+,Parekklesia-Shillourokambos,,,-7600,37.26,33.33,,0.3132079238,GINI Project Database
+,Can Hasan III,,,-7565,35.09,40.4,,0.2688222841,GINI Project Database
+,Bouqras,,,-7500,37.26,33.33,,0.1982723159,GINI Project Database
+,Beidha,,,-7130,30.37,35.45,,0.1189317012,GINI Project Database
+,Çatalhöyük,,,-7100,37.67,32.83,,0.2357827476,GINI Project Database
+,Khirokitia,,,-7000,36.5,39.09,,0.2525252525,GINI Project Database
+,Asana,,,-6750,37.64,30.16,,0.08147915028,GINI Project Database
+,Mavropigi,,,-6600,34.8,33.34,,0.2004310345,GINI Project Database
+,Xiaojingshan,,,-6550,40.45,21.73,,0.1692307692,GINI Project Database
+,Mehrgarh,,,-6500,40.35,34.77,,0.2114856271,GINI Project Database
+,Tell Sabi Abyad,,,-6455,40.59,22.25,,0.1950374715,GINI Project Database
+,Kuruçay Höyük,,,-6410,36.84,117.53,,0.3535913591,GINI Project Database
+,Büyük Güllücek,,,-6350,34.12,43.9,,0.2792743295,GINI Project Database
+,Nea Nikomedeia,,,-6250,29.38,67.61,,0.346907016,GINI Project Database
+,Ikeda B Iseki,,,-6200,36.73,117.34,,0.1857923497,GINI Project Database
+,Tell es Sawwan,,,-6150,38.16,57.96,,0.1079607415,GINI Project Database
+,Xihe,,,-6150,38.19,58.35,,0.273768614,GINI Project Database
+,Čopan-Tepe,,,-6000,42.51,25.91,,0.3571276822,GINI Project Database
+,Džejtun,,,-6000,43.19,26.65,,0.4368653928,GINI Project Database
+,Karanovo Bebaungsphase III,,,-6000,35.16,138.89,,0.2716763006,GINI Project Database
+,Ovcharovo-gorata,,,-6000,39.36,22.84,,0.2013806706,GINI Project Database
+,Sesklo,,,-5900,36,60,,0.2819751754,GINI Project Database
+,Chagylly,,,-5650,38.9,38.73,,0.3377384632,GINI Project Database
+,Çavi Tarlası,,,-5600,49.92,10.14,,0.494929065,GINI Project Database
+,BH210,,,-5500,41.72,27.23,,0.04773623227,GINI Project Database
+,BH983,,,-5500,50.3,8.79,,0.1487314646,GINI Project Database
+,CA1225,,,-5500,48.95,8.96,,0.3288672351,GINI Project Database
+,CA1707,,,-5500,41.72,27.23,,0.1779654092,GINI Project Database
+,CO1125,,,-5500,50.92,6.88,,0.1126977015,GINI Project Database
+,CO1349,,,-5500,29.38,67.61,,0.1291274674,GINI Project Database
+,CO26,,,-5500,34.1,45.12,,0.1460385579,GINI Project Database
+,CO754,,,-5500,47.76,8.8,,0.1573402616,GINI Project Database
+,CR1737,,,-5500,-17.04,-70.63,,0.2101514659,GINI Project Database
+,CR4741,,,-5500,48.82,12.81,,0.1846977869,GINI Project Database
+,Drenovac,,,-5500,43.76,21.43,,0.2253928148,GINI Project Database
+,Mehrgarh,,,-5500,41.93,25.57,,0.2235091134,GINI Project Database
+,NA1312,,,-5500,41.93,25.57,,0.1449313354,GINI Project Database
+,NA1766,,,-5500,44.31,21.41,,0.1514274625,GINI Project Database
+,NA681,,,-5500,47.42,26.22,,0.1691046007,GINI Project Database
+,Schwanfeld,,,-5500,44.03,18.14,,0.2725203606,GINI Project Database
+,SU872,,,-5500,43.21,21.36,,0.3053967231,GINI Project Database
+,SW2369,,,-5500,44.76,20.47,,0.1501867815,GINI Project Database
+,Aşağı Pınar,,,-5400,39.36,22.89,,0.3758306451,GINI Project Database
+,Bruchenbrücken,,,-5400,44.02,20.83,,0.2073408526,GINI Project Database
+,Vaihingen,,,-5400,44.89,19.75,,0.1694311172,GINI Project Database
+,Zagheh,,,-5370,44.1,18.14,,0.3588086729,GINI Project Database
+,Belovode,,,-5350,45.05,20.43,,0.1852772561,GINI Project Database
+,Aşağı Pınar,,,-5300,44.57,20.15,,0.3070894177,GINI Project Database
+,Banjica,,,-5300,39.39,22.75,,0.3097297297,GINI Project Database
+,Dimini,,,-5300,43.19,26.65,,0.3546325879,GINI Project Database
+,Divostin,,,-5300,43.19,26.65,,0.1832753959,GINI Project Database
+,Forsterbahnried,,,-5300,43.21,26.55,,0.1861792072,GINI Project Database
+,Gomolava,,,-5300,43.21,26.55,,0.3283705542,GINI Project Database
+,Hlebozavoda layer I,,,-5300,43.21,26.55,,0.2226190476,GINI Project Database
+,Hlebozavoda layer II,,,-5300,43.52,26.6,,0.07635327635,GINI Project Database
+,Obre II,,,-5300,35.82,49.98,,0.1486238532,GINI Project Database
+,Opovo,,,-5300,44.03,18.14,,0.09289617486,GINI Project Database
+,Stubline,,,-5300,43.25,26.57,,0.1979081929,GINI Project Database
+,Tell Abada,,,-5300,44.57,20.15,,0.2236006342,GINI Project Database
+,Visviki,,,-5300,44.57,20.15,,0.2952380952,GINI Project Database
+,Köln-Lindenthal,,,-5200,44.57,20.15,,0.3520865031,GINI Project Database
+,Plocnik,,,-5200,44.57,20.15,,0.2048875382,GINI Project Database
+,Stephansposching,,,-5200,44.57,20.15,,0.2463841068,GINI Project Database
+,Ikenai Iseki,,,-5100,43.19,26.65,,0.5274434486,GINI Project Database
+,Shimokamata Iseki,,,-5100,43.19,26.65,,0.232614112,GINI Project Database
+,Tenjin Iseki,,,-5100,43.19,26.65,,0.2653489069,GINI Project Database
+,Baia-În Muchie,,,-5050,43.19,26.65,,0.4896095074,GINI Project Database
+,Altyn-Tepe,,,-5000,43.19,26.65,,0.227613466,GINI Project Database
+,Jiangzhai,,,-5000,43.21,26.55,,0.4662987581,GINI Project Database
+,Okolište phase 2,,,-5000,43.21,26.55,,0.107314836,GINI Project Database
+,Ovcharovo phase I,,,-4900,43.21,26.55,,0.1330698287,GINI Project Database
+,Ovcharovo phase II,,,-4900,43.21,26.55,,0.2561983471,GINI Project Database
+,Polyanitsa phase I,,,-4900,43.52,26.6,,0.2131556387,GINI Project Database
+,Polyanitsa phase II,,,-4900,43.52,26.6,,0.1865232975,GINI Project Database
+,Polyanitsa phase III,,,-4900,43.25,26.57,,0.2166628934,GINI Project Database
+,Radingrad phase I,,,-4900,43.25,26.57,,0.1099787686,GINI Project Database
+,Targovishte I,,,-4900,36.8,34.6,,0.1228420317,GINI Project Database
+,Okolište phase 3,,,-4850,50.85,6.36,,0.2166666667,GINI Project Database
+,Golyamo Delchevo phase III,,,-4800,44.57,20.15,,0.2513464991,GINI Project Database
+,Golyamo Delchevo phase IV,,,-4800,44.57,20.15,,0.2203665043,GINI Project Database
+,Golyamo Delchevo phase V,,,-4800,44.57,20.15,,0.1592039801,GINI Project Database
+,Golyamo Delchevo phase VI,,,-4800,43.19,26.65,,0.1092925987,GINI Project Database
+,Golyamo Delchevo phase VII,,,-4800,43.19,26.65,,0.1720125786,GINI Project Database
+,Mersin-Yumuktepe,,,-4800,43.19,26.65,,0.4556296859,GINI Project Database
+,Ovcharovo phase III,,,-4800,43.21,26.55,,0.2367363344,GINI Project Database
+,Ovcharovo phase IV,,,-4800,43.52,26.6,,0.3667481663,GINI Project Database
+,Ovcharovo phase V,,,-4800,43.25,26.57,,0.3252496434,GINI Project Database
+,Ovcharovo phase VI,,,-4800,36.86,60.43,,0.3413014608,GINI Project Database
+,Ovcharovo phase VII,,,-4800,34.38,109.2,,0.1651673264,GINI Project Database
+,Polyanitsa phase IV,,,-4800,34.71,32.86,,0.2830692324,GINI Project Database
+,Polyanitsa phase V,,,-4800,48.82,30.72,,0.3788011813,GINI Project Database
+,Polyanitsa phase VI,,,-4800,43.67,28.54,,0.3379030211,GINI Project Database
+,Polyanitsa phase VII,,,-4800,43.52,26.6,,0.3400763359,GINI Project Database
+,Radingrad phase II,,,-4800,38.17,140.85,,0.2753623188,GINI Project Database
+,Radingrad phase III,,,-4800,47.75,27.02,,0.2571976967,GINI Project Database
+,Sotira-Teppes,,,-4800,44.13,26.47,,0.3282893392,GINI Project Database
+,Targovishte II,,,-4800,44.13,26.47,,0.1642351901,GINI Project Database
+,Targovishte III,,,-4800,44.13,26.47,,0.2121904762,GINI Project Database
+,Imakumano Iseki,,,-4700,44.13,26.47,,0.2700993677,GINI Project Database
+,Golyamo Delchevo phase IX,,,-4650,41.93,24.97,,0.2039215686,GINI Project Database
+,Golyamo Delchevo phase VIII,,,-4650,44.57,20.15,,0.2546929316,GINI Project Database
+,Golyamo Delchevo phase X,,,-4650,44.57,20.15,,0.1397624039,GINI Project Database
+,Inden 1,,,-4650,44.57,20.15,,0.3518153262,GINI Project Database
+,Ovcharovo phase IX,,,-4650,44.57,20.15,,0.2864234301,GINI Project Database
+,Ovcharovo phase VIII,,,-4650,44.57,20.15,,0.1177181533,GINI Project Database
+,Ovcharovo phase X,,,-4650,44.57,20.15,,0.1890775891,GINI Project Database
+,Polyanitsa phase VIII,,,-4650,47.15,26.96,,0.2929470764,GINI Project Database
+,Radingrad phase IV,,,-4650,43.19,26.65,,0.08971962617,GINI Project Database
+,Radingrad phase V,,,-4650,43.19,26.65,,0.1770072993,GINI Project Database
+,Targovishte IV,,,-4650,44.2,26.51,,0.2591006424,GINI Project Database
+,Căscioarele layer 1,,,-4600,36.5,43.26,,0.2030741237,GINI Project Database
+,Căscioarele layer 2,,,-4600,47.86,28.08,,0.2030741237,GINI Project Database
+,Căscioarele layer I,,,-4600,40.26,140.57,,0.2030741237,GINI Project Database
+,Căscioarele layer II,,,-4600,47.77,26.28,,0.2030741237,GINI Project Database
+,Dolnoslav layer I,,,-4600,37,60,,0.2012780516,GINI Project Database
+,Hăbăşeşti,,,-4600,35.94,117.08,,0.2348083339,GINI Project Database
+,Raduvanu layer 2,,,-4600,35,34.06,,0.140662506,GINI Project Database
+,Traian-Dealul Fîntînilor layer III,,,-4600,48.31,28.77,,0.1542553191,GINI Project Database
+,Paralimni-Nissia,,,-4550,47.16,26.96,,0.1374146321,GINI Project Database
+,Trusesti,,,-4550,38.22,41.24,,0.3044473044,GINI Project Database
+,Hrebenyukiv Yar,,,-4530,46.84,26.58,,0.2499819742,GINI Project Database
+,Akča-Tepe,,,-4500,48.42,28.87,,0.2744785499,GINI Project Database
+,Durankulak phase IV,,,-4500,48.32,28.77,,0.217544317,GINI Project Database
+,Nakanoya Matsubara Iseki,,,-4500,48.21,28.6,,0.308097417,GINI Project Database
+,Tepe Gawra,,,-4500,48.42,28.86,,0.5761010745,GINI Project Database
+,Golyamo Delchevo phase XI,,,-4450,48.04,9.67,,0.2033898305,GINI Project Database
+,Golyamo Delchevo phase XII,,,-4450,47.96,27.15,,0.1578947368,GINI Project Database
+,Golyamo Delchevo phase XIII,,,-4450,36.5,43.26,,0.1419753086,GINI Project Database
+,Golyamo Delchevo phase XIV,,,-4450,48.34,28.77,,0.24,GINI Project Database
+,Golyamo Delchevo phase XV,,,-4450,48.97,30.62,,0.1583333333,GINI Project Database
+,Golyamo Delchevo phase XVI,,,-4450,49.16,30.7,,0.1344656759,GINI Project Database
+,Ovcharovo phase XI,,,-4450,36.29,138.86,,0.1339712919,GINI Project Database
+,Ovcharovo phase XII,,,-4450,48.53,29.35,,0.2210442619,GINI Project Database
+,Putinesti 3,,,-4400,35.34,116.98,,0.1787176382,GINI Project Database
+,Adâncata-Dealul Lipovanului A,,,-4350,47.7,9.01,,0.5285059246,GINI Project Database
+,Dawenkou,,,-4350,47.77,26.28,,0.2613636364,GINI Project Database
+,Haryachkivka 8,,,-4330,35.45,116.77,,0.2364246641,GINI Project Database
+,Habasesti,,,-4313,47.01,6.97,,0.2435431738,GINI Project Database
+,Değirmentepe,,,-4300,48.86,27.16,,0.3282263767,GINI Project Database
+,Norşuntepe,,,-4300,48.56,30.75,,0.2497706652,GINI Project Database
+,Wangyin,,,-4300,48.27,29.4,,0.3571656559,GINI Project Database
+,Zabolotne,,,-4250,48.8,30.68,,0.2188356246,GINI Project Database
+,Haryachkivka 7,,,-4230,48.64,30.55,,0.2189403567,GINI Project Database
+,Ternivka,,,-4220,48.86,30.73,,0.164815232,GINI Project Database
+,Vilshanka,,,-4220,47.17,7.67,,0.2992429121,GINI Project Database
+,Yedian,,,-4216,36.23,138.83,,0.3888888889,GINI Project Database
+,Aichbühl,,,-4200,35.86,138.39,,0.1779396462,GINI Project Database
+,Ripiceni-Holm,,,-4200,48.02,27.34,,0.2216582183,GINI Project Database
+,Tepe Gawra,,,-4200,47.18,8.01,,0.4417321163,GINI Project Database
+,Adâncata-Dealul Lipovanului B,,,-4150,47.18,8.01,,0.2341382142,GINI Project Database
+,Haryachkivka 3,,,-4100,48.81,30.53,,0.2461903558,GINI Project Database
+,Veselyj Kut,,,-4070,48.21,27.11,,0.2352128714,GINI Project Database
+,Chizhivka,,,-4050,48.9,30.54,,0.2031467009,GINI Project Database
+,Beizhuang,,,-4000,48.76,30.38,,0.2063820018,GINI Project Database
+,Hassek Höyük,,,-4000,47.59,8.93,,0.5762867647,GINI Project Database
+,Hauterive-Champréveyres,,,-3974,48.45,29.5,,0.4516070784,GINI Project Database
+,Trostyanchyk,,,-3970,48.82,30.4,,0.2203194992,GINI Project Database
+,Stolniceni 1,,,-3955,48.85,30.59,,0.2445922679,GINI Project Database
+,Hlybochock,,,-3950,38.62,39.47,,0.2960164653,GINI Project Database
+,Maidanetske,,,-3950,48.85,30.49,,0.2335435993,GINI Project Database
+,Nebelivka,,,-3950,48.73,30.43,,0.232525563,GINI Project Database
+,Talianki,,,-3950,38.73,141.06,,0.1985135835,GINI Project Database
+,Talne 3,,,-3950,47.91,28.67,,0.1328545781,GINI Project Database
+,Volodymyrivka,,,-3920,47.1,7.21,,0.158479222,GINI Project Database
+,Hornstaad-Hörnle IA,,,-3917,48.41,28.75,,0.2510219055,GINI Project Database
+,Bilyj Kamin,,,-3910,37.75,38.93,,0.1965077823,GINI Project Database
+,Trinca,,,-3894,46.85,6.72,,0.197972253,GINI Project Database
+,Moshuriv 1,,,-3850,48.43,28.76,,0.1998681592,GINI Project Database
+,"Aeschi SO, Burgäschisee-Ost",,,-3830,37.97,120.62,,0.1033975246,GINI Project Database
+,Dobrovody,,,-3800,48.15,10.95,,0.2306069619,GINI Project Database
+,"Egolzwil LU ""Station 4a""",,,-3800,46.93,7.12,,0.1508452984,GINI Project Database
+,"Egolzwil LU ""Station 4d""",,,-3800,47.1,7.21,,0.2291706206,GINI Project Database
+,Kakura Kaidzuka,,,-3800,47.5,9.43,,0.3354229663,GINI Project Database
+,Vijtivka,,,-3750,33.56,35.37,,0.3066904702,GINI Project Database
+,Apolyanka,,,-3710,32.76,35.23,,0.2632218333,GINI Project Database
+,Pfyn-Breitenloo,,,-3708,48.06,9.61,,0.2224168126,GINI Project Database
+,Cunicea 3,,,-3700,31.9,65.52,,0.2539114614,GINI Project Database
+,Moshuriv 2,,,-3695,47.94,28.64,,0.303760704,GINI Project Database
+,Kosenivka,,,-3690,36.15,38.06,,0.2959738633,GINI Project Database
+,Rohy,,,-3670,32.21,35.99,,0.1597421312,GINI Project Database
+,Sidon-Dakerman,,,-3600,47.36,8.55,,0.2317333713,GINI Project Database
+,Yiftahel,,,-3600,34.82,32.4,,0.3752900232,GINI Project Database
+,Sutz-Lattrigen Hauptstation innen,,,-3582,35.35,139.98,,0.1749464668,GINI Project Database
+,Krynychky,,,-3580,35.96,138.19,,0.318933244,GINI Project Database
+,Kisnycya,,,-3570,34.81,32.41,,0.2570459119,GINI Project Database
+,Concise - E6,,,-3543,36.5,139.03,,0.2154583461,GINI Project Database
+,Jebel al-Mutawwaq,,,-3500,35.56,139.58,,0.1738763046,GINI Project Database
+,Kissonerga-Mosphilia,,,-3500,34.73,32.59,,0.4352055685,GINI Project Database
+,Lemba-Lakkous,,,-3500,35.86,139.52,,0.2974967709,GINI Project Database
+,Mundigak,,,-3500,35.8,138.39,,0.265840357,GINI Project Database
+,Souskiou-Laona,,,-3500,35.12,138.95,,0.2948604401,GINI Project Database
+,Pestenacker,,,-3495,35.8,138.41,,0.1417721519,GINI Project Database
+,Akyuu Iseki,,,-3465,35.56,140.17,,0.3098591549,GINI Project Database
+,Douchuuzakaue,,,-3465,31.28,35.12,,0.3137679367,GINI Project Database
+,Murten-Pantschau,,,-3428,40.97,141.33,,0.1854447439,GINI Project Database
+,Asana,,,-3395,32.25,45.05,,0.1269230769,GINI Project Database
+,Sutz-Lattrigen Riedstation,,,-3393,35.56,139.61,,0.1491999098,GINI Project Database
+,Arbon Bleiche 3,,,-3383,37.27,140.99,,0.2529665588,GINI Project Database
+,Miharada Iseki (Middle Jomon),,,-3360,35.56,140.17,,0.2335168869,GINI Project Database
+,Saikachido,,,-3360,34.93,117.4,,0.2252122088,GINI Project Database
+,Tominosawa 2 Iseki,,,-3360,36.78,117.33,,0.4585160679,GINI Project Database
+,Tsukidematsu,,,-3360,36.47,40.84,,0.224398498,GINI Project Database
+,Cunicea 3,,,-3340,38.48,140.92,,0.2150867954,GINI Project Database
+,Habuba Kebira South,,,-3300,45.44,5.52,,0.3265425514,GINI Project Database
+,Bad Buchau - Torwiesen II,,,-3283,35.52,139.56,,0.2739942984,GINI Project Database
+,Nishinohara Iseki,,,-3280,34.8,32.4,,0.2038664323,GINI Project Database
+,Hunte 1 aelt mittl,,,-3200,45.44,5.52,,0.2012251964,GINI Project Database
+,Hunte 1 jueng,,,-3200,52.54,8.33,,0.2483636216,GINI Project Database
+,Haramchinogyokoukoumae,,,-3160,52.54,8.33,,0.1544696752,GINI Project Database
+,Izuyamadai Iseki,,,-3160,47.36,8.55,,0.1780869445,GINI Project Database
+,Ondashi Iseki,,,-3160,37.98,46,,0.1693498452,GINI Project Database
+,Zürich-Mozartstrasse Horgen Schicht 3,,,-3119,-17.04,-70.63,,0.1339220015,GINI Project Database
+,Ariyoshi-Kita,,,-3080,47.25,8.78,,0.1683626718,GINI Project Database
+,Arad,,,-3000,35.17,117.06,,0.5396810629,GINI Project Database
+,Babamae Iseki,,,-3000,36.65,39.5,,0.1941541834,GINI Project Database
+,Jianxin,,,-3000,27.33,68.13,,0.3640810622,GINI Project Database
+,Jiaojia,,,-3000,36.41,40.81,,0.2711026162,GINI Project Database
+,JO879,,,-3000,35.63,117.19,,0.1093867334,GINI Project Database
+,Kamatori,,,-3000,35.8,138.46,,0.1837360951,GINI Project Database
+,PL21,,,-3000,35.64,140.13,,0.2202666927,GINI Project Database
+,PL23,,,-3000,36.39,40.81,,0.1746184568,GINI Project Database
+,Jirogamae,,,-2910,27.33,68.13,,0.1632653061,GINI Project Database
+,Abu Salabikh,,,-2900,30.77,34.57,,0.3100420702,GINI Project Database
+,Chlorakas-Palloures,,,-2900,-10.89,-77.52,,0.4667441386,GINI Project Database
+,Yanik Tepe,,,-2900,33.75,44.75,,0.1596814263,GINI Project Database
+,Kaminohara Iseki,,,-2780,36.09,38.14,,0.1964119292,GINI Project Database
+,Mochigasaki,,,-2780,36.03,38.07,,0.1795829713,GINI Project Database
+,Uchinodai 1 Iseki,,,-2780,35.55,140.17,,0.3439560594,GINI Project Database
+,Kamifukasawa Iseki,,,-2750,35.36,119.51,,0.2110091743,GINI Project Database
+,Tell al-Raqā'i,,,-2750,27.33,68.13,,0.2486737401,GINI Project Database
+,"Charavines - Lac de Paladru, le premier vilage",,,-2669,40.98,141.35,,0.4341512941,GINI Project Database
+,"Charavines - Lac de Paladru, deuxieme occupation",,,-2612,36.5,139.03,,0.5126196693,GINI Project Database
+,Zürich-Mozartstrasse Schnurkeramik Schicht 2,,,-2605,36.33,42.49,,0.2544247788,GINI Project Database
+,Caral,,,-2600,27.33,68.13,,0.4539585105,GINI Project Database
+,Ximengzhuang,,,-2600,33.75,44.75,,0.2871966794,GINI Project Database
+,Yinjiacheng,,,-2600,35.58,119.57,,0.3445850914,GINI Project Database
+,Kokanezawa,,,-2590,35.02,33.32,,0.1595672752,GINI Project Database
+,Ooishitai Iseki,,,-2590,36.84,119.14,,0.2700680272,GINI Project Database
+,Tell Chuera,,,-2562,27.33,68.13,,0.6938215891,GINI Project Database
+,Miharada Iseki (Late Jomon),,,-2540,43.65,-106.84,,0.2289719626,GINI Project Database
+,Hombrechtikon - Feldbach West,,,-2523,42.56,-104.97,,0.09410973868,GINI Project Database
+,Beer Resisim,,,-2500,42.57,-104.98,,0.3776781266,GINI Project Database
+,Mohenjo-daro,,,-2500,35.02,33.32,,0.3246750054,GINI Project Database
+,Mohenjo-daro,,,-2500,44.97,-108.27,,0.4380398897,GINI Project Database
+,Tell Melebiye,,,-2500,44.41,-107.66,,0.4097445285,GINI Project Database
+,Lujiakou,,,-2456,43.53,-105.24,,0.1919642857,GINI Project Database
+,Tell Halawa A,,,-2450,43.61,-105.19,,0.1928545388,GINI Project Database
+,Tell Selenkahiye,,,-2450,43.13,-105.87,,0.3396843452,GINI Project Database
+,Tell Taya,,,-2450,43.16,-105.97,,0.175985163,GINI Project Database
+,Donghaiyu,,,-2400,43.05,-105.86,,0.1368421053,GINI Project Database
+,Mohenjo-daro,,,-2400,43.34,-106.05,,0.3160697327,GINI Project Database
+,Tell Bderi,,,-2400,42.25,-106.55,,0.3569593148,GINI Project Database
+,Tell Asmar,,,-2350,41.78,-107.32,,0.5084266486,GINI Project Database
+,Liangchengzhen,,,-2300,27.33,68.13,,0.1908023483,GINI Project Database
+,Mohenjo-daro,,,-2300,42.7,-106.79,,0.3929884743,GINI Project Database
+,Tell Asmar,,,-2250,43.1,-107.09,,0.5312636166,GINI Project Database
+,Mohenjo-daro,,,-2200,43.24,-107.26,,0.233470357,GINI Project Database
+,Takenouchi Iseki,,,-2200,42.4,-110.36,,0.2957613815,GINI Project Database
+,Cnoc Stanger Reay,,,-2194,42.25,-107.53,,0.1169690502,GINI Project Database
+,Marki Alonia,,,-2150,31.87,131.37,,0.2448430493,GINI Project Database
+,Gournia,,,-2100,36.65,-108.2,,0.3415917184,GINI Project Database
+,Marki Alonia,,,-2100,33.31,44.47,,0.286002886,GINI Project Database
+,Lairg,,,-2012,38.85,35.63,,0.2215959102,GINI Project Database
+,LA16198,,,-2000,32.64,36.66,,0.07100923099,GINI Project Database
+,Mohenjo-daro,,,-2000,30.96,46.1,,0.2995638043,GINI Project Database
+,Tell Zheir,,,-2000,35.69,140.14,,0.4433244555,GINI Project Database
+,Kültepe-Kanesh,,,-1927,35.11,25.79,,0.7303821145,GINI Project Database
+,Tell Harmal,,,-1900,48.05,9.64,,0.462655724,GINI Project Database
+,Ur,,,-1850,34.46,41.59,,0.7152164676,GINI Project Database
+,LA110946,,,-1795,46.85,6.72,,0.3238927203,GINI Project Database
+,Siedlung Forschner Phase 1,,,-1767,35.3,25.16,,0.1166452717,GINI Project Database
+,Knossos,,,-1750,35.06,24.79,,0.861631914,GINI Project Database
+,Haradum,,,-1749,35.1,26.26,,0.3312661499,GINI Project Database
+,Ayia Triada,,,-1700,34.87,25.71,,0.6871646719,GINI Project Database
+,Kommos,,,-1700,35.19,25.91,,0.2833052277,GINI Project Database
+,Malia,,,-1700,35.19,25.86,,0.7532871625,GINI Project Database
+,Palaikastro,,,-1700,35.66,-107.06,,0.3558551525,GINI Project Database
+,Zakros,,,-1700,58.56,-3.81,,0.7073643285,GINI Project Database
+,Concise-Sous Colachoz E12,,,-1645,57.99,-4.4,,0.2444771723,GINI Project Database
+,Chryssi,,,-1625,36.88,-107.84,,0.1448858185,GINI Project Database
+,Mochlos,,,-1625,35.28,25.46,,0.3114074704,GINI Project Database
+,Pseira,,,-1625,35.37,44.25,,0.2533349027,GINI Project Database
+,Hampshire Easton Lane Excavations,,,-1600,36.43,38.28,,0.3072377192,GINI Project Database
+,LA81172,,,-1600,36.22,38.13,,0.1375767728,GINI Project Database
+,"Neolithic, Bronze Age, Iron Age, Romano-British, Saxon and medieval settlement activity at Cotswold Community School south east of Shorncote, Somerford Keynes.",,,-1600,35.01,24.76,,0.1863733144,GINI Project Database
+,"Sharpridge Farm, Rockley 1 AIP",,,-1600,35.2,26.28,,0.09333950582,GINI Project Database
+,Stansted Airport 1 AIP MTCP Site,,,-1600,51.07,-1.29,,0.204279668,GINI Project Database
+,Tell Munbaqa,,,-1600,51.66,-1.95,,0.3026055705,GINI Project Database
+,Tremough AIP,,,-1600,51.47,-1.8,,0.1520695861,GINI Project Database
+,"Leuchars, Pitlethie Road",,,-1509,51.88,0.25,,0.5118166667,GINI Project Database
+,Nuzi,,,-1500,27.65,30.9,,0.7810312061,GINI Project Database
+,"Bestwall Quarry Archaeological Project, Field R, Bronze Age settlement",,,-1470,50.17,-5.13,,0.1827151492,GINI Project Database
+,Tell Bazi,,,-1450,50.69,-2.09,,0.2803713922,GINI Project Database
+,Tell El Amarna,,,-1372,35.6,35.78,,0.8754534739,GINI Project Database
+,"Dunch Hill, Wiltshire",,,-1366,36.5,39.09,,0.3547235424,GINI Project Database
+,Paul Mason,,,-1250,56.38,-2.88,,0.09208962641,GINI Project Database
+,Ugarit,,,-1230,34.67,32.91,,0.6704818383,GINI Project Database
+,Bosiliack,,,-1206,31.47,35.85,,0.3326029353,GINI Project Database
+,Springfield Lyons,,,-1206,31.21,34.97,,0.5550928022,GINI Project Database
+,Episkopi Bamboula,,,-1200,51.24,-1.71,,0.1525057383,GINI Project Database
+,Khirbet al-Lahun,,,-1200,47.37,8.67,,0.3165881737,GINI Project Database
+,SAS 115,,,-1200,46.92,6.83,,0.1764705882,GINI Project Database
+,SAS 119,,,-1200,50.15,-5.6,,0.1982109228,GINI Project Database
+,SAS 132,,,-1200,51.75,0.51,,0.3074285714,GINI Project Database
+,Tell Masos,,,-1200,31.28,35.87,,0.2012133468,GINI Project Database
+,Tell Sabi Abyad,,,-1195,54.62,-128.43,,0.5960275137,GINI Project Database
+,"Bestwall Quarry Archaeological Project, Field R, Bronze Age settlement",,,-1150,46.94,6.85,,0.3816336806,GINI Project Database
+,Black Patch: Bronze Age settlement,,,-1150,46.92,6.83,,0.289553685,GINI Project Database
+,"Foster's Field, Tinney's Lane, Sherborne",,,-1150,32.1,34.8,,0.4019960672,GINI Project Database
+,Gwithian Merged,,,-1150,46.92,6.83,,0.3232652742,GINI Project Database
+,"Hampshire Bronze Age settlement and Iron Age funerary site, Adanac Park",,,-1150,50.81,0.12,,0.4804948589,GINI Project Database
+,Hampshire Easton Lane Excavations,,,-1150,50.95,-2.51,,0.4004563482,GINI Project Database
+,"Huntsman's Quarry, Kemerton",,,-1150,50.23,-5.38,,0.4823609944,GINI Project Database
+,"King's Dyke West, Whittlesey",,,-1150,50.94,-1.47,,0.0414822822,GINI Project Database
+,"Neolithic, Bronze Age, Iron Age, Romano-British, Saxon and medieval settlement activity at Cotswold Community School south east of Shorncote, Somerford Keynes.",,,-1150,51.07,-1.29,,0.3443720325,GINI Project Database
+,"Rainham Road, [Scott and Albyn's Farm], South Hornchurch {Bronze Age settlement}",,,-1150,52.03,-2.09,,0.1815476524,GINI Project Database
+,Reading Business Park,,,-1150,52.57,-0.17,,0.4183533044,GINI Project Database
+,The Rhee Lakeside AIP,,,-1150,51.66,-1.95,,0.4296659988,GINI Project Database
+,CR325,,,-1100,51.53,0.19,,0.1267930996,GINI Project Database
+,Wasserburg Buchau 1,,,-1100,51.43,-0.99,,0.1944683908,GINI Project Database
+,Wasserburg Buchau 2,,,-1100,52.38,0.03,,0.2722194007,GINI Project Database
+,Tell Qasile,,,-1051,46.92,6.83,,0.1870134,GINI Project Database
+,CH-MF-9,,,-1050,46.92,6.83,,0.278248974,GINI Project Database
+,Khirbat al-Mudayna al-Aliya,,,-1050,32.29,35.34,,0.1520382384,GINI Project Database
+,Greifensee-Böschen,,,-1047,48.06,9.63,,0.1841957255,GINI Project Database
+,Bevaix Sud 1,,,-1011,48.06,9.63,,0.1580993521,GINI Project Database
+,Cortaillod-Est,,,-1010,50.69,-2.09,,0.2688495425,GINI Project Database
+,Bevaix Sud 2,,,-1004,31.89,35.22,,0.1336700337,GINI Project Database
+,Tell el-Far'ah (North),,,-1000,31.24,34.84,,0.1426385889,GINI Project Database
+,Tell en-Nasbeh,,,-1000,52.56,-0.18,,0.2390222799,GINI Project Database
+,Bevaix Sud 3,,,-985,35.88,36.63,,0.1330607109,GINI Project Database
+,Bevaix Sud 4,,,-970,19.2,-98.88,,0.1342957472,GINI Project Database
+,Bevaix Sud 5,,,-960,37.1,36.68,,0.1184236453,GINI Project Database
+,ANYEONGNI,,,-950,35.46,43.26,,0.2518248175,GINI Project Database
+,BANSONGNI,,,-950,31.24,34.84,,0.2166563595,GINI Project Database
+,BONGMYEONGDONG,,,-950,31.46,34.91,,0.1565478384,GINI Project Database
+,BONGSEOLLI,,,-950,36.43,43.35,,0.2718638702,GINI Project Database
+,BULDANGDONG,,,-950,37.77,24.86,,0.232732293,GINI Project Database
+,BUNHYANGNI,,,-950,32.32,35.56,,0.1766233766,GINI Project Database
+,BUPYEONG,,,-950,35.11,25.87,,0.1836966394,GINI Project Database
+,BUSONGDONG 242-73,,,-950,36.27,36.59,,0.2474747475,GINI Project Database
+,CHILSEONGNI,,,-950,38.2,26.03,,0.2752534113,GINI Project Database
+,CHUDONGNI,,,-950,36.32,127.07,,0.1219926889,GINI Project Database
+,DAEGONGNI,,,-950,37.2,127.07125,,0.2639372118,GINI Project Database
+,DAEJEONGDONG,,,-950,36.65,127.46,,0.1705744431,GINI Project Database
+,DAEPYEONGNI,,,-950,36.13,126.77,,0.2177368299,GINI Project Database
+,DAEYARI,,,-950,36.8,127.1,,0.2979046243,GINI Project Database
+,DANGJEONGNI,,,-950,36.33,126.89,,0.2970409712,GINI Project Database
+,DONGCHEONDONG,,,-950,35.97,127,,0.1829863971,GINI Project Database
+,DOSAMNI,,,-950,35.96,127,,0.2185173282,GINI Project Database
+,DUGYERI,,,-950,34.98,127.58,,0.1959619952,GINI Project Database
+,GAGOKDONG,,,-950,36.06,126.77,,0.2253557198,GINI Project Database
+,GALDU I,,,-950,34.86,127.44,,0.1770132608,GINI Project Database
+,GALDU II,,,-950,36.32,127.32,,0.1610705596,GINI Project Database
+,GEUMGOK,,,-950,35.22,127.96,,0.1931818182,GINI Project Database
+,GEUMGYERI,,,-950,35.63,127.96,,0.3251874419,GINI Project Database
+,GOYANGCHON,,,-950,36.1,126.65,,0.06040268456,GINI Project Database
+,GUNDONG,,,-950,35.94,128.56,,0.1489261451,GINI Project Database
+,GUNGDONG,,,-950,36.02,126.73,,0.1433801098,GINI Project Database
+,GUSEONGDONG,,,-950,36.27,127.26,,0.1258148631,GINI Project Database
+,GWANCHANGNI,,,-950,34.98,127.48,,0.2821356505,GINI Project Database
+,GWISALLI,,,-950,34.79,126.89,,0.2263501892,GINI Project Database
+,HAGAMNI,,,-950,34.79,126.89,,0.2314192102,GINI Project Database
+,HWANGSALLI BUNTO,,,-950,35.12,126.74,,0.2994017487,GINI Project Database
+,HYOJA4,,,-950,34.73,126.58,,0.2685221354,GINI Project Database
+,HYOJA5,,,-950,35.08,126.51,,0.2261647778,GINI Project Database
+,HYUAMNI,,,-950,35.3,126.55,,0.1687109187,GINI Project Database
+,IBAMNI,,,-950,36.36,127.34,,0.1597839073,GINI Project Database
+,IGEUMDONG,,,-950,36.37,127.37,,0.1748451292,GINI Project Database
+,JAGAERI I,,,-950,36.38,126.58,,0.231938397,GINI Project Database
+,JAGAERI II,,,-950,36.5,127.11,,0.2414428243,GINI Project Database
+,JANGCHEOLLI,,,-950,36.38,126.94,,0.1127924898,GINI Project Database
+,JEUNGSALLI,,,-950,34.43,126.57,,0.1940278611,GINI Project Database
+,JILLARI,,,-950,35.81,127.1,,0.2819486625,GINI Project Database
+,JUKCHEONGNI GA,,,-950,35.81,127.1,,0.1150793651,GINI Project Database
+,MAJEON,,,-950,36.7,126.55,,0.1909483855,GINI Project Database
+,MAJEONIII,,,-950,36.25,127.27,,0.1884344332,GINI Project Database
+,MANGWOLCHON,,,-950,34.95,128.11,,0.2812920592,GINI Project Database
+,MANSURI,,,-950,36.79,126.68,,0.09857035365,GINI Project Database
+,MYEONGAMNI,,,-950,36.8,126.67,,0.2292129287,GINI Project Database
+,NABONGNI,,,-950,34.75,126.58,,0.2778787721,GINI Project Database
+,NONGSAN,,,-950,36.25,127,,0.3103548575,GINI Project Database
+,OECHON,,,-950,35.67,128.75,,0.2939698492,GINI Project Database
+,OJIRI,,,-950,36.24,126.56,,0.1281762295,GINI Project Database
+,OKGOKDONG,,,-950,37.83,23.8,,0.2673267327,GINI Project Database
+,ONGNAMNI,,,-950,35.31,126.56,,0.1348934551,GINI Project Database
+,OSEONGNI,,,-950,35.83,127.1,,0.2120746994,GINI Project Database
+,SAMILLI,,,-950,35.52,127.15,,0.1609477124,GINI Project Database
+,SANGCHOLLI 9-13 JISEONGMYO MIT SEONSA,,,-950,36.64,127.33,,0.2257104874,GINI Project Database
+,SANGSEODONG,,,-950,36.82,127.06,,0.2473326867,GINI Project Database
+,SANJEONG,,,-950,51.5,0.41,,0.2016363801,GINI Project Database
+,SANUIRI,,,-950,36.28,126.86,,0.2119866815,GINI Project Database
+,SAWOLLI,,,-950,35.88,127.46,,0.2665801849,GINI Project Database
+,SEOBYEONDONG,,,-950,51.66,-1.95,,0.1312280702,GINI Project Database
+,SEONGCHEOLLI WACHON,,,-950,35.2,126.88,,0.2942056075,GINI Project Database
+,SINBANGDONG,,,-950,35.28,127.31,,0.1512304251,GINI Project Database
+,SINCHON_MANGGONGNI,,,-950,35.82,128.73,,0.252593361,GINI Project Database
+,SINPUNG,,,-950,36.04,126.68,,0.2477042723,GINI Project Database
+,SOMYEONG,,,-950,36.1,126.69,,0.3407558413,GINI Project Database
+,SONGCHEONDONG 2GA,,,-950,35.5,126.58,,0.3485371466,GINI Project Database
+,SONGGUNGNI,,,-950,35.22,127.97,,0.1666428741,GINI Project Database
+,SOSADONG,,,-950,36.43,127.42,,0.1960470085,GINI Project Database
+,SSANGCHEONGNI,,,-950,35.11,126.75,,0.2021758569,GINI Project Database
+,SUMUN,,,-950,36.36,127.07,,0.1627571211,GINI Project Database
+,TONGJEONG,,,-950,35.29,127.96,,0.1598804632,GINI Project Database
+,UNDANGNI,,,-950,35.93,128.6,,0.1718443207,GINI Project Database
+,UNGOKDONG,,,-950,35.04,126.51,,0.1942938387,GINI Project Database
+,WOLGIRI,,,-950,36.78,127.13,,0.2312451663,GINI Project Database
+,WOLSEONGDONG 1275,,,-950,35.14,128.48,,0.1654993515,GINI Project Database
+,WOLSEONGDONG 1300,,,-950,34.8,126.84,,0.1753349989,GINI Project Database
+,WONSURI,,,-950,35.13,126.48,,0.2320185615,GINI Project Database
+,YEONGCHEON,,,-950,35.86,127.13,,0.1872672071,GINI Project Database
+,YEONGDEUNGDONG,,,-950,36.26,127.03,,0.2108623798,GINI Project Database
+,YEOUIGOK,,,-950,36.99,127.12,,0.2292134831,GINI Project Database
+,YONGSAN TAMNIPDONG,,,-950,36.65,127.34,,0.09208731241,GINI Project Database
+,YULHARI,,,-950,35.19,126.83,,0.2191899878,GINI Project Database
+,Altar de Sacrificios,,,-900,35.02,126.42,,0.4436849754,GINI Project Database
+,Assur,,,-900,35.27,126.56,,0.8952133789,GINI Project Database
+,Beer-Sheba,,,-900,34.99,126.69,,0.2584798995,GINI Project Database
+,El Trapiche,,,-900,35.9,27.76,,0.3530545411,GINI Project Database
+,Tell Mastuma,,,-900,36.1,126.77,,0.311993438,GINI Project Database
+,Çatal Höyük (Amuq Valley),,,-850,35.82,128.53,,0.3847502974,GINI Project Database
+,Must Farm,,,-850,35.82,128.53,,0.1356284658,GINI Project Database
+,Tell es Sa'idiyeh,,,-850,36.02,127.09,,0.02830188679,GINI Project Database
+,Beer-Sheba,,,-800,54.18,-0.6,,0.3381080959,GINI Project Database
+,Mucking South Ring: Late Bronze Age,,,-800,35.1,126.69,,0.2135925409,GINI Project Database
+,"Neolithic, Bronze Age, Iron Age, Romano-British, Saxon and medieval settlement activity at Cotswold Community School south east of Shorncote, Somerford Keynes.",,,-800,35.96,126.98,,0.2357714413,GINI Project Database
+,Stanwick,,,-800,35.91,127.49,,0.308642221,GINI Project Database
+,Tell Beit Mirsim,,,-800,36.42,127.4,,0.2081118474,GINI Project Database
+,Tell Billa,,,-800,35.17,128.82,,0.4072177771,GINI Project Database
+,West Heslerton Site 1,,,-800,32.54,44.43,,0.5852115569,GINI Project Database
+,Zincirli Höyük,,,-800,30.96,46.1,,0.7794896821,GINI Project Database
+,Zagora,,,-760,39.75,35.06,,0.3197238659,GINI Project Database
+,Kavousi Kastro,,,-750,48.1,9.42,,0.2121539015,GINI Project Database
+,Biskupin,,,-700,52.79,17.74,,0.05794858927,GINI Project Database
+,Emporio,,,-700,48.1,9.42,,0.3609083536,GINI Project Database
+,Lathouriza,,,-700,39.88,20.75,,0.356113627,GINI Project Database
+,Vroulia,,,-650,37.98,23.72,,0.1126626969,GINI Project Database
+,Babylon,,,-626,37.74,24.05,,0.8386665502,GINI Project Database
+,Ur,,,-625,36.82,-107.74,,0.6515276782,GINI Project Database
+,Heuneburg IVb2,,,-600,37.83,23.78,,0.2805577072,GINI Project Database
+,Taxila,,,-600,19.29,-99.02,,0.4557003968,GINI Project Database
+,Thorikos,,,-600,40.3,23.36,,0.278887233,GINI Project Database
+,Vitsa,,,-600,36.02,-108.68,,0.3662921348,GINI Project Database
+,Kerkenes Dağ,,,-585,37.31,23.15,,0.5770997088,GINI Project Database
+,Heuneburg IVa1,,,-530,NA,NA,,0.4635559057,GINI Project Database
+,Athens,,,-500,52.33,-0.57,,0.3252615845,GINI Project Database
+,Gb-To-TA103,,,-500,33.75377778,72.82688889,,0.1390565094,GINI Project Database
+,Gc-To-27,,,-500,35.38,140.01,,0.1550615528,GINI Project Database
+,Gc-To-28,,,-500,20.99,-89.76,,0.2723667131,GINI Project Database
+,Gc-To-9,,,-500,35.18,25.66,,0.1012566518,GINI Project Database
+,XO-LF-2,,,-500,39.44,20.55,,0.6242709939,GINI Project Database
+,HWASULLI,,,-450,42.26,-106.55,,0.1500622794,GINI Project Database
+,Kaimoto Iseki,,,-450,33.43,130.56,,0.2211546841,GINI Project Database
+,Kitamuta,,,-450,52.75,-3.15,,0.3844797178,GINI Project Database
+,OEDODONG2,,,-450,54.31,-130.46,,0.1223698782,GINI Project Database
+,SAMYANGDONG,,,-450,54.36,-130.48,,0.1320819113,GINI Project Database
+,Olynthos,,,-432,54.37,-130.48,,0.1843077318,GINI Project Database
+,Halai Axonides,,,-425,54.34,-130.27,,0.2639511202,GINI Project Database
+,Blagdon Park 2,,,-400,33.58,130.36,,0.2775353586,GINI Project Database
+,"Cat's water, Fengate",,,-400,51.26,-1.07,,0.3081929163,GINI Project Database
+,Cleveland Farm,,,-400,50.83,-0.43,,0.3162083751,GINI Project Database
+,East Kent Access (Zone 6 and 7),,,-400,52.57,-0.21,,0.3104743228,GINI Project Database
+,"Fenny Lock, Milton Keynes",,,-400,51.65,-1.9,,0.3698517298,GINI Project Database
+,Halieis,,,-400,51.32,1.35,,0.09875183554,GINI Project Database
+,Knapwell Plantation,,,-400,52,-0.71,,0.1630247327,GINI Project Database
+,LA70667,,,-400,52.22,-0.07,,0.2451046877,GINI Project Database
+,Lato,,,-400,33.4,130.56,,0.2243012243,GINI Project Database
+,"Titnore Lane, Goring-by-Sea",,,-400,55.08,-1.66,,0.3663092046,GINI Project Database
+,Xtobo,,,-400,34.87,25.71,,0.5376710304,GINI Project Database
+,NM-H-51-55,,,-390,40.81,14.35,,0.3111890667,GINI Project Database
+,NM-H-62-99,,,-390,37.39,25.27,,0.4102564103,GINI Project Database
+,Elea,,,-350,33.47,130.52,,0.2193732194,GINI Project Database
+,Enokida Iseki,,,-350,33.24,126.34,,0.2760180995,GINI Project Database
+,Fumiwaki Iseki,,,-350,33.48,126.44,,0.2457129152,GINI Project Database
+,Kamagami Iseki,,,-350,33.52,126.59,,0.2680145804,GINI Project Database
+,Kyuu Kibi Chuugakkou Koutei Iseki,,,-350,35.1,135.99,,0.2306805075,GINI Project Database
+,Ooitai,,,-350,34.63,138.18,,0.3903301887,GINI Project Database
+,Takinokuchimukoudai Iseki,,,-350,51.16,-2.73,,0.103649635,GINI Project Database
+,"Collfryn, Llansantffraid Deuddwr, Powys",,,-340,40.75,14.49,,0.2066941298,GINI Project Database
+,Chryssi,,,-314,36.62,138.27,,0.5310305376,GINI Project Database
+,Herculaneum,,,-314,35.4,140.05,,0.2239211074,GINI Project Database
+,Chunhuayum,,,-300,35.46,140.11,,0.3792124598,GINI Project Database
+,Cival,,,-300,34.07,135.21,,0.6076701136,GINI Project Database
+,Dos Aguadas,,,-300,19.57,-98.87,,0.5377999022,GINI Project Database
+,Dura Europos,,,-300,19.59,-98.84,,0.4504686589,GINI Project Database
+,Ixcoche,,,-300,50.16,-5.58,,0.4718823276,GINI Project Database
+,Nishijinmachi Iseki,,,-300,35.1,135.99,,0.4245472837,GINI Project Database
+,"Ructstalls Hill, Basingstoke",,,-300,50.91,-2.11,,0.2102065614,GINI Project Database
+,TX-TF-1,,,-250,52.05,-0.69,,0.6729508197,GINI Project Database
+,TX-TF-4,,,-250,52.38,0.02,,0.6159903474,GINI Project Database
+,Uxbenka,,,-250,17.36,-89.25,,0.3860748826,GINI Project Database
+,Ootani,,,-235,55.03,-1.63,,0.3083832335,GINI Project Database
+,Duncan Tract,,,-200,52.6,-1.19,,0.140969163,GINI Project Database
+,Ootsuka Iseki,,,-200,52.34,0.07,,0.2291444333,GINI Project Database
+,Ostia,,,-200,52.41,0.24,,0.6688371798,GINI Project Database
+,Pompeii,,,-200,52.86,-1.31,,0.6073544974,GINI Project Database
+,Yearwood MW,,,-200,51.19,-0.15,,0.1832406569,GINI Project Database
+,Hattori Iseki,,,-175,41.76,12.29,,0.3020881365,GINI Project Database
+,Kabagayahara Iseki,,,-175,50.72,-2.45,,0.4370860927,GINI Project Database
+,Gb-To-78,,,-160,34.75,40.73,,0.1675170561,GINI Project Database
+,Brasstown Valley,,,-150,51.13,0.85,,0.1152380952,GINI Project Database
+,Hickory Log,,,-150,51.11,0.88,,0.2564102564,GINI Project Database
+,Delos,,,-146,53.81,-0.22,,0.545093038,GINI Project Database
+,Barton Field,,,-100,17.26,-89.38,,0.3763373191,GINI Project Database
+,Belling Law,,,-100,36.35,-86.11,,0.2289701999,GINI Project Database
+,"Bodrifty, Mulfra Hill",,,-100,54.56,-0.93,,0.2891472513,GINI Project Database
+,Brauncewell Limestone Quarry,,,-100,50.73,-1.55,,0.1634960272,GINI Project Database
+,Broughton Manor Farm,,,-100,52.28,-0.86,,0.4297245601,GINI Project Database
+,"Burton Constable, Ellerby (Easington to Ganstead Plot 9)",,,-100,54.5,-1.06,,0.2438396469,GINI Project Database
+,Camp Ground,,,-100,57.1,-153.24,,0.2345301757,GINI Project Database
+,Catcote,,,-100,57.1,-153.24,,0.4022289767,GINI Project Database
+,Chysauster,,,-100,57.1,-153.24,,0.3055984239,GINI Project Database
+,Clay Lane,,,-100,53.82,-0.43,,0.3752452125,GINI Project Database
+,"Crossgates, Seamer",,,-100,51.89,0.26,,0.2239072257,GINI Project Database
+,Dalton Parlours,,,-100,54.43,-1.33,,0.5026682692,GINI Project Database
+,Dinorben,,,-100,52.57,-0.61,,0.2611180124,GINI Project Database
+,East Brunton,,,-100,55.03,-1.65,,0.2451752022,GINI Project Database
+,"Enderby, Enclosure I",,,-100,33.52,130.44,,0.5178609626,GINI Project Database
+,Glastonbury Lake Village,,,-100,54.31,-130.46,,0.4406774282,GINI Project Database
+,Haddenham Iron Age settlement,,,-100,51.9,0.01,,0.4910896263,GINI Project Database
+,Hartburn,,,-100,35.55,139.58,,0.2201593646,GINI Project Database
+,Hattori Iseki,,,-100,16.48,-90.52,,0.2229584527,GINI Project Database
+,"Heslington East, Areas A1 and A2",,,-100,16.49,-90.54,,0.3892669207,GINI Project Database
+,Hurst Lane Reservoir,,,-100,51.74,0.68,,0.3504363273,GINI Project Database
+,Kilton Thorpe,,,-100,53.76,-0.85,,0.06129641284,GINI Project Database
+,Lockington,,,-100,52.31,0.63,,0.1286459568,GINI Project Database
+,Low Park Corner Chippenham,,,-100,51.76,-0.38,,0.1986794718,GINI Project Database
+,Lukurmata,,,-100,54.24,-130.38,,0.1738600341,GINI Project Database
+,Marcham/Frilford,,,-100,52.25,-0.76,,0.291006424,GINI Project Database
+,Mucking,,,-100,54.24,-0.43,,0.4398926655,GINI Project Database
+,Murton High Crags,,,-100,52.51,-1.71,,0.2465100727,GINI Project Database
+,North East Horley,,,-100,55.17,-1.87,,0.344993627,GINI Project Database
+,"Parc Bryn Cegin, Llandygai",,,-100,53.95,-1.03,,0.3280647648,GINI Project Database
+,Park Brow,,,-100,52.29,0.45,,0.1158076681,GINI Project Database
+,"Park Farm East, Ashford",,,-100,55.74,-2.06,,0.2860663788,GINI Project Database
+,Porthmeor,,,-100,35.38,140.01,,0.4852655564,GINI Project Database
+,Poundbury,,,-100,53.65,-1.06,,0.2769107643,GINI Project Database
+,"Shepherd Lane, Woodmansey (Ganstead to Asselby Plots 53 and 55)",,,-100,55.07,-2.14,,0.2971134431,GINI Project Database
+,Stanwick,,,-100,52.43,0.74,,0.5071767084,GINI Project Database
+,Takinokuchimukoudai Iseki,,,-100,52.41,0.74,,0.445043183,GINI Project Database
+,"Teesside to Saltend Ethylene Pipeline, Site 713, Manor Cottage, East Rounton",,,-100,53.81,-0.09,,0.2983346872,GINI Project Database
+,"Topham Farm, Sykehouse",,,-100,54.61,-1.39,,0.3203391548,GINI Project Database
+,West Brunton,,,-100,51.9,0.01,,0.2465880433,GINI Project Database
+,West Gunnar Peak,,,-100,53.78,-0.19,,0.2569904762,GINI Project Database
+,West Stow,,,-100,51.19,-0.15,,0.3732727991,GINI Project Database
+,"Brisley Farm, Ashford",,,-75,54.55,-1.58,,0.2977595815,GINI Project Database
+,"Furfield Quarry, Boughton Monchelsea",,,-75,51.24,0.55,,0.4667087808,GINI Project Database
+,Stansted 85-91 (ACS),,,-75,55.19,-2.49,,0.2520931142,GINI Project Database
+,"Black Dike, North Cave (Ganstead to Asselby Plots 131, 132, 133 and 134)",,,-50,53.78,-0.68,,0.5960597826,GINI Project Database
+,"Brandywell, Sproatley (Easington to Ganstead Plots 25 and 26)",,,-50,50.16,-5.54,,0.5647327808,GINI Project Database
+,"Carn Euny, Sancreed, Cornwall",,,-50,51.74,0.68,,0.5579108548,GINI Project Database
+,Heybridge,,,-50,52.41,0.24,,0.3593192155,GINI Project Database
+,Ix Kuku'il,,,-50,53.21,-4.11,,0.4250129297,GINI Project Database
+,Lymington,,,-50,50.83,-0.37,,0.1816841288,GINI Project Database
+,Moulton Park,,,-50,51.98,-2.15,,0.2186688312,GINI Project Database
+,"Percy Rigg, Kildale",,,-50,51.76,-0.38,,0.204496788,GINI Project Database
+,"Thorpe Hall, Eastrington (Ganstead to Asselby Plots 182 and 184)",,,-50,51.51,0.38,,0.6038674033,GINI Project Database
+,Wakerley (Britannia site),,,-50,53.66,0.11,,0.4201776361,GINI Project Database
+,Braughing,,,-15,51.36,-1.08,,0.231878089,GINI Project Database
+,"Aldborough Gas Storage Facility, Aldborough",,,0,52.33,-0.57,,0.1866086957,GINI Project Database
+,"Grimstock Hill, Coleshill",,,0,51.75,-0.36,,0.145949214,GINI Project Database
+,Biddenham Loop Farmstead 6/8/10/14,,,1,52.67,-2.64,,0.2603598691,GINI Project Database
+,Gokayama Iseki,,,1,36.24,138.48,,0.1981580735,GINI Project Database
+,Hirano,,,1,35.56,138.55,,0.2322563903,GINI Project Database
+,Hiratsukayamanoue Iseki,,,1,33.39,130.66,,0.2337666398,GINI Project Database
+,Kayahara and Okuindai Iseki-gun,,,1,35.39,133.33,,0.203960396,GINI Project Database
+,Kuriya Iseki,,,1,35.76,140.13,,0.3888875188,GINI Project Database
+,Land North of Brockworth,,,1,35.2,137.03,,0.1785676477,GINI Project Database
+,Marcaya,,,1,35.82,139.57,,0.4145319413,GINI Project Database
+,Nagasaka Iseki,,,1,35.49,133.68,,0.2307692308,GINI Project Database
+,Nishiharaotsuka Iseki,,,1,32,131.46,,0.2165898618,GINI Project Database
+,Roxby Site 2,,,1,36.56,138.12,,0.1974030532,GINI Project Database
+,Rudston,,,1,34.76,138.01,,0.5484543244,GINI Project Database
+,Sanbayashi Iseki,,,1,36.63,138.26,,0.2350742499,GINI Project Database
+,Shimonaka Iseki,,,1,34.85,137.4,,0.2603375527,GINI Project Database
+,Shinonoi Iseki-gun,,,1,35.68,138.65,,0.2344518191,GINI Project Database
+,Shoubugaya Iseki,,,1,54.27,-130.43,,0.1808469308,GINI Project Database
+,South-East of Tewkesbury Area C,,,1,53.06,-0.46,,0.1516102896,GINI Project Database
+,Takano Iseki,,,1,55.19,-1.69,,0.167495588,GINI Project Database
+,Thorpe Thewles,,,1,51.36,-1.08,,0.2480336317,GINI Project Database
+,Tre'r Creiri,,,1,54.33,-130.46,,0.3295373156,GINI Project Database
+,Whitton Lodge,,,1,53.9,-1.39,,0.2985160859,GINI Project Database
+,Yamanooku Iseki,,,1,55.07,-2.13,,0.26910271,GINI Project Database
+,Yokomachi,,,1,50.72,-3.53,,0.2611683849,GINI Project Database
+,Gb-To-46,,,10,52.15,-0.38,,0.0932955527,GINI Project Database
+,Gorhambury,,,20,54.68,-1.24,,0.4944378698,GINI Project Database
+,"Langeled Receiving Facilities, Easington",,,25,51.5,0.41,,0.2945644434,GINI Project Database
+,Fison Way,,,40,50.18,-5.59,,0.1135802469,GINI Project Database
+,Fishbourne Palace,,,43,35.13,-86.58,,0.9297929363,GINI Project Database
+,Gorhambury,,,43,54.36,-130.47,,0.4778377022,GINI Project Database
+,Orsett 'Cock',,,43,53.27,-3.55,,0.5659833704,GINI Project Database
+,Braughing,,,45,-16.44,-68.71,,0.1357636706,GINI Project Database
+,A421 Water End East (Site 8),,,50,54.11,-0.19,,0.583879746,GINI Project Database
+,"Brandon Road, Thetford, 1964-6",,,50,52.33,-0.57,,0.3130686874,GINI Project Database
+,Cleveland Farm,,,50,52.13,-0.52,,0.4086500396,GINI Project Database
+,East Kent Access (Zone 20),,,50,41.76,12.29,,0.5868421053,GINI Project Database
+,Faverdale,,,50,53.03,-2.24,,0.1664695764,GINI Project Database
+,Heybridge,,,50,51.43,-3.32,,0.4444019139,GINI Project Database
+,Hurst Lane Reservoir,,,50,50.84,-0.81,,0.1594169366,GINI Project Database
+,"Langdale Hale, Earith, Colne Fen",,,50,52.52,0.13,,0.4880918221,GINI Project Database
+,North East Horley,,,50,34.99,-83.86,,0.2262921348,GINI Project Database
+,Silchester,,,50,50.1,-5.63,,0.4861915223,GINI Project Database
+,Silchester,,,50,54.33,-130.35,,0.5839020614,GINI Project Database
+,Stanwick,,,50,34.26,-84.46,,0.310648765,GINI Project Database
+,Holditch,,,60,51.66,-1.37,,0.6488731699,GINI Project Database
+,Gc-To-52,,,70,51.85,-2.16,,0.3760605043,GINI Project Database
+,Walton le Dale,,,70,54.08,-0.34,,0.3968439509,GINI Project Database
+,Healam Bridge,,,75,52.38,0.02,,0.1944444444,GINI Project Database
+,"High Wold, Bempton Lane, Bridlington",,,75,53.37,-2.59,,0.4403449928,GINI Project Database
+,Kempston,,,75,34.07,-5.55,,0.5671167032,GINI Project Database
+,"Middle Gunnar Peak, Barrasford",,,75,51.34,1.34,,0.3007507508,GINI Project Database
+,Monkton,,,75,54.52,-2.6,,0.3112485526,GINI Project Database
+,Exeter,,,80,52.38,0.03,,0.4834354845,GINI Project Database
+,Piercebridge,,,80,50.79,-3.23,,0.2268935602,GINI Project Database
+,"Silchester, Insula IX",,,80,53.76,-0.85,,0.3312987444,GINI Project Database
+,St Albans Early,,,80,52.05,-0.76,,0.3784740174,GINI Project Database
+,Wroxeter,,,80,52.97,-4.42,,0.169924812,GINI Project Database
+,Gb-To-70,,,90,53.75,-2.68,,0.06337044055,GINI Project Database
+,Ostia,,,98,51.75,-0.36,,0.4582422079,GINI Project Database
+,Catsgore,,,100,35.59,138.62,,0.1780810378,GINI Project Database
+,"Ewe Close, Crosby Ravensworth",,,100,35.58,138.58,,0.5143624716,GINI Project Database
+,La Ciénaga,,,100,51.65,-1.9,,0.3270047895,GINI Project Database
+,"Pegswood Moor, Morpeth",,,100,50.72,-2.44,,0.1557963607,GINI Project Database
+,Pomeroy Wood/Gittisham Forge/Nag's Head Culvert,,,100,51.36,-1.08,,0.177887941,GINI Project Database
+,"Rudstone Dale, Newbald (Ganstead to Asselby Plots 103 and 104)",,,100,-14.81,-74.83,,0.3529411765,GINI Project Database
+,"Thorpe Hall, Eastrington (Ganstead to Asselby Plots 182 and 184)",,,100,54.51,-1.87,,0.2598099959,GINI Project Database
+,Volubilis,,,100,52.12,-0.52,,0.70805584,GINI Project Database
+,Gb-To-89,,,110,51.71,-1.96,,0.1929619722,GINI Project Database
+,Gb-To-9,,,110,51.03,-2.7,,0.1188835642,GINI Project Database
+,Camp Ground,,,120,53.02,-4.3,,0.593222383,GINI Project Database
+,Stonea Grange,,,125,54.24,-1.5,,0.649070342,GINI Project Database
+,Barnsley Park,,,140,52.31,-0.6,,0.2427421322,GINI Project Database
+,"Wilderspool, Warrington",,,140,53.8,-0.61,,0.405251939,GINI Project Database
+,Atlatongo,,,150,51.36,-1.08,,0.6054411313,GINI Project Database
+,Beadlam villa,,,150,54.52,-0.82,,0.5103008869,GINI Project Database
+,Catsgore,,,150,51.03,-2.7,,0.49552498,GINI Project Database
+,Cefn Graeanog II,,,150,51.34,1.3,,0.07761385504,GINI Project Database
+,CU-CL-41,,,150,54.25,-1.03,,0.1830065359,GINI Project Database
+,Dorchester,,,150,53.65,-0.62,,0.1917372881,GINI Project Database
+,Dorchester,,,150,52.67,-2.64,,0.4989162843,GINI Project Database
+,Greta Bridge vicus,,,150,52.21,-1.87,,0.2377270391,GINI Project Database
+,McNichol Creek,,,150,50.72,-3.53,,0.1226158038,GINI Project Database
+,Santa Maria Maquixco el Bajo,,,150,51.75,-1.88,,0.4079059474,GINI Project Database
+,"Silchester, Insula IX",,,150,53.37,-2.59,,0.4853313352,GINI Project Database
+,St Albans Early,,,150,54.39,-1.66,,0.3831297927,GINI Project Database
+,TE-CL-10,,,150,50.72,-2.44,,0.5633015873,GINI Project Database
+,TE-CL-20,,,150,52.31,-0.6,,0.3321587973,GINI Project Database
+,TE-CL-23,,,150,-16.81,-68.67,,0.4461983104,GINI Project Database
+,TE-CL-25,,,150,51.66,-2.28,,0.2520599623,GINI Project Database
+,TE-CL-30,,,150,54.33,-130.34,,0.4889155183,GINI Project Database
+,TE-CL-31,,,150,52.33,-0.57,,0.6099815833,GINI Project Database
+,TE-CL-32,,,150,50.63,-2.07,,0.4819700214,GINI Project Database
+,TE-CL-4,,,150,51.3,-2.45,,0.3916853933,GINI Project Database
+,TE-CL-40,,,150,51.88,-1.17,,0.3145299145,GINI Project Database
+,TE-CL-41,,,150,51.75,-0.36,,0.2094017094,GINI Project Database
+,TE-CL-42,,,150,53.35,-4.26,,0.4150557621,GINI Project Database
+,TE-CL-45,,,150,16.48,-90.58,,0.2295623452,GINI Project Database
+,TE-CL-46,,,150,51.36,-1.08,,0.5551443951,GINI Project Database
+,TE-CL-73,,,150,51.71,-1.96,,0.4332497026,GINI Project Database
+,Teotihuacan,,,150,52.38,0.02,,0.3543960145,GINI Project Database
+,Trethurgy,,,150,51.43,-2.68,,0.4104803493,GINI Project Database
+,Winterton Villa,,,150,21.24,-89.24,,0.5587816527,GINI Project Database
+,Wroxeter,,,150,50.37,-4.76,,0.6875748503,GINI Project Database
+,Alcester,,,160,16.24,-89.07,,0.5619444047,GINI Project Database
+,Cirencester,,,160,54.54,-1.67,,0.185665362,GINI Project Database
+,Exeter,,,160,19.69,-98.9,,0.782757841,GINI Project Database
+,Wood Corner (MK64),,,175,19.59,-99.04,,0.2199588207,GINI Project Database
+,Camerton,,,180,-26.8,-65.66,,0.3026458505,GINI Project Database
+,Khonkho Wankane,,,180,19.69,-98.9,,0.1362090104,GINI Project Database
+,Catterick,,,200,19.62,-98.99,,0.225809896,GINI Project Database
+,Higham Ferrers OA,,,200,19.81,-98.89,,0.2248016365,GINI Project Database
+,Higham Ferrers OA,,,200,19.76,-98.91,,0.3559371933,GINI Project Database
+,Kingscote,,,200,19.66,-98.77,,0.4055040198,GINI Project Database
+,Stanwick,,,200,19.72,-98.84,,0.6461232604,GINI Project Database
+,Suwajiri,,,200,19.73,-98.84,,0.3231064238,GINI Project Database
+,Yonekurayama B,,,200,19.73,-98.84,,0.2126245847,GINI Project Database
+,St Albans Late,,,210,19.64,-98.92,,0.5063445691,GINI Project Database
+,Alchester,,,240,19.8,-98.87,,0.4379248658,GINI Project Database
+,Bucknowle,,,250,19.79,-98.86,,0.2888613093,GINI Project Database
+,Cirencester,,,250,19.78,-98.86,,0.3025168257,GINI Project Database
+,Din Lligwy,,,250,19.78,-98.84,,0.2095336967,GINI Project Database
+,Silchester,,,250,19.78,-98.84,,0.4391310052,GINI Project Database
+,"Wilderspool, Warrington",,,250,19.79,-98.79,,0.4897908572,GINI Project Database
+,Camp Ground,,,270,19.68,-98.85,,0.4341127211,GINI Project Database
+,Gatcombe,,,270,16.27,-89.13,,0.3049357674,GINI Project Database
+,Backhoe Village,,,300,36.95,-107.6,,0.2388140162,GINI Project Database
+,Boundary Village,,,300,51.82,-0.81,,0.3432459677,GINI Project Database
+,Burnt House Village/Wagon Hound Alcove,,,300,52.45,1.72,,0.2230050863,GINI Project Database
+,Caldwell Village,,,300,50.94,-0.96,,0.2695871662,GINI Project Database
+,Confluence Site,,,300,51.27,-1.07,,0.4124698864,GINI Project Database
+,Ephraim 1 (Witch's Knoll),,,300,52.43,1.38,,0.4111142481,GINI Project Database
+,Felter Hill,,,300,51.5,0.41,,0.2470038291,GINI Project Database
+,Garrison Site,,,300,52.99,-0.43,,0.4379051842,GINI Project Database
+,MacLeod Site,,,300,55.59,-2.07,,0.2891491985,GINI Project Database
+,Overlook Site,,,300,52.3,0.67,,0.362885442,GINI Project Database
+,Sunstone Village,,,300,55.57,-2.1,,0.4040452819,GINI Project Database
+,Wholeplace Village,,,300,52.75,-0.92,,0.3379984663,GINI Project Database
+,Wide Hollow,,,300,-8.13,-78.99,,0.1995136067,GINI Project Database
+,Altun Ha,,,400,-17.24,-70.98,,0.5815286543,GINI Project Database
+,Aylesbury-Chalgrove,,,400,35.98,-107.89,,0.1271317829,GINI Project Database
+,Bloodmoor Hill,,,400,33.19,-111.92,,0.1784672501,GINI Project Database
+,Chalton,,,400,37.35,-108.63,,0.2920639472,GINI Project Database
+,Cowdery's Down,,,400,17.76,-88.35,,0.2804990285,GINI Project Database
+,Flixton Park Quarry,,,400,39.82,-109.88,,0.3017515924,GINI Project Database
+,Moche,,,400,39.98,-109.18,,0.739828037,GINI Project Database
+,Mucking,,,400,40.4,-109.81,,0.2000694341,GINI Project Database
+,Quarrington,,,400,16.87,-96.36,,0.3166101695,GINI Project Database
+,Thirlings,,,400,NA,NA,,0.1650732951,GINI Project Database
+,West Stow,,,400,-8.08,-78.91,,0.2324854975,GINI Project Database
+,Yeavering,,,400,40.42,-109.21,,0.3469114696,GINI Project Database
+,Albino Village,,,450,16.93,-96.18,,0.2059701493,GINI Project Database
+,Eye Kettleby,,,450,17.04,-96.77,,0.2420306966,GINI Project Database
+,Snaketown 29,,,450,39.82,-110.02,,0.2491837242,GINI Project Database
+,Brasstown Valley,,,500,40.49,-109.39,,0.1514550265,GINI Project Database
+,El Palmillo,,,500,17.97,-88.37,,0.3916644435,GINI Project Database
+,Mitla Fortress,,,500,20.3,-89.83,,0.3646941055,GINI Project Database
+,Monte Albán,,,500,16.39,-90.21,,0.3432944646,GINI Project Database
+,Omo M12,,,500,17.68,-89.84,,0.3406815027,GINI Project Database
+,Dillard Site,,,570,33.19,-111.92,,0.1806601042,GINI Project Database
+,Pusilha,,,571,16.11,-89.18,,0.4498487655,GINI Project Database
+,Shabik'eshchee Village,,,580,52.45,0.62,,0.2818681319,GINI Project Database
+,Aguateca,,,600,34.99,-83.86,,0.4489543419,GINI Project Database
+,BH704,,,600,52.75,-1.72,,0.4576998175,GINI Project Database
+,CA1030,,,600,16.47,-90.6,,0.2168723477,GINI Project Database
+,CA1329,,,600,16.47,-90.55,,0.1056537102,GINI Project Database
+,CA1617,,,600,38.48,-90.25,,0.1168292511,GINI Project Database
+,CA1780,,,600,53.62,-0.68,,0.306963979,GINI Project Database
+,CA2657,,,600,17.34,-89.22,,0.1265992656,GINI Project Database
+,CA89,,,600,52.31,-0.59,,0.1706881679,GINI Project Database
+,CO1403,,,600,17.31,-89.27,,0.2303949628,GINI Project Database
+,CO1410,,,600,17.39,-89.23,,0.1319079269,GINI Project Database
+,Colha,,,600,17.29,-89.23,,0.6447735919,GINI Project Database
+,CR112,,,600,18.42,-88.79,,0.1188545465,GINI Project Database
+,CR324,,,600,13.86,-90.17,,0.2893069373,GINI Project Database
+,El Caoba,,,600,16.46,-90.5,,0.3177375069,GINI Project Database
+,El Pabellon,,,600,16.32,-88.83,,0.3872235955,GINI Project Database
+,Fish Lake,,,600,17.09,-88.99,,0.1092476124,GINI Project Database
+,Gallindo,,,600,17.48,-92.05,,0.917958773,GINI Project Database
+,Hamontun,,,600,52.47,-0.43,,0.5439583959,GINI Project Database
+,Holmul,,,600,38.52,-90.2,,0.673726266,GINI Project Database
+,Holmul North,,,600,17.33,-88.76,,0.5384490803,GINI Project Database
+,Ko,,,600,17.22,-89.62,,0.6718566733,GINI Project Database
+,Kohunlich,,,600,16.5,-90.61,,0.6648395364,GINI Project Database
+,La Nueva,,,600,51.81,-1.31,,0.61509423,GINI Project Database
+,Los Puerquitos,,,600,17.08,-89.4,,0.2748019017,GINI Project Database
+,NA1128,,,600,36.04,-108.03,,0.1690326926,GINI Project Database
+,Nakbe,,,600,19.6,-99.06,,0.6490100934,GINI Project Database
+,Nim Li Punit,,,600,19.57,-98.86,,0.3402661189,GINI Project Database
+,Pacbitun,,,600,18.8,-99.3,,0.4829191008,GINI Project Database
+,Palenque,,,600,19.91,-99.19,,0.7375556356,GINI Project Database
+,Range,,,600,38.76,-112.1,,0.1160081054,GINI Project Database
+,Saturday Creek,,,600,38.82,-111.19,,0.6815640269,GINI Project Database
+,SH34,,,600,39.33,-111.58,,0.1884304087,GINI Project Database
+,Tikal,,,600,38.93,-114.03,,0.54744867,GINI Project Database
+,Vega de la Pista,,,600,16.28,-88.96,,0.3453335834,GINI Project Database
+,Yaxha,,,600,37.77,-111.63,,0.5736971901,GINI Project Database
+,"Brandon, Staunch Meadow",,,650,33.19,-111.92,,0.2913116971,GINI Project Database
+,Catholme,,,650,38.63,-111.46,,0.1671335201,GINI Project Database
+,Cottenham,,,650,37.57,-108.55,,0.342519685,GINI Project Database
+,CU-ET-39,,,650,52.3,0.13,,0.4682461716,GINI Project Database
+,Flixborough,,,650,18.22,-88.58,,0.107674144,GINI Project Database
+,Higham Ferrers,,,650,16.31,-88.87,,0.2506822612,GINI Project Database
+,Polebrook,,,650,36.92,-107.45,,0.411634757,GINI Project Database
+,TX-ET-4,,,650,33.46,-112.14,,0.5270346628,GINI Project Database
+,Xkipche,,,650,36.06,-107.96,,0.4565186426,GINI Project Database
+,Xochicalco,,,650,15.93,-92.01,,0.4845986826,GINI Project Database
+,Yarnton,,,650,20.18,-89.65,,0.1798389502,GINI Project Database
+,ZU-ET-12,,,650,37.39,-108.65,,0.6333742666,GINI Project Database
+,Las Colinas,,,700,57.1,-153.24,,0.2906254313,GINI Project Database
+,Lubaantun,,,700,33.45,-112,,0.31279302,GINI Project Database
+,Nohmul,,,700,18.34,-88.45,,0.5821082017,GINI Project Database
+,Snaketown SW,,,700,33.46,-112.12,,0.1798310578,GINI Project Database
+,Xnaheb,,,700,51.9,-1.15,,0.3280215661,GINI Project Database
+,Xundhurgaal,,,700,50.79,0.09,,0.3791297341,GINI Project Database
+,Aventura,,,750,52.56,-0.26,,0.7544305129,GINI Project Database
+,Snaketown 29,,,750,51.28,-2.78,,0.4377926537,GINI Project Database
+,29SJ628,,,760,51.32,-1.46,,0.2384615385,GINI Project Database
+,Grass Mesa Village,,,760,53.28,-0.33,,0.2919896641,GINI Project Database
+,SAS 35,,,770,50.84,-1.11,,0.3781659389,GINI Project Database
+,Bancos Village,,,787,52.35,-0.53,,0.269681742,GINI Project Database
+,Rosario,,,800,51.75,0.51,,0.6434212407,GINI Project Database
+,Sayil,,,800,38.69,-90.03,,0.5214516488,GINI Project Database
+,"Bicester, Chape Street",,,850,38.66,-90.06,,0.2803617571,GINI Project Database
+,Bishopstone,,,850,38.63,-90.15,,0.219151671,GINI Project Database
+,Botolph Bridge,,,850,38.52,-90.2,,0.2938053097,GINI Project Database
+,Cheddar,,,850,33.45,-112,,0.3938053097,GINI Project Database
+,Faccombe Netherton,,,850,36.07,-107.96,,0.2826456498,GINI Project Database
+,Goltho,,,850,32.45,-110.97,,0.2722727273,GINI Project Database
+,Portchester Castle,,,850,37.08,-88.49,,0.3014150442,GINI Project Database
+,Raunds,,,850,33.19,-111.92,,0.1957070707,GINI Project Database
+,Springfield Lyons,,,850,19.94,-99.2,,0.4030769231,GINI Project Database
+,Stix and Leaves,,,850,19.91,-99.21,,0.3212589074,GINI Project Database
+,La Lomita,,,860,19.89,-99.15,,0.1865795845,GINI Project Database
+,Pueblo Bonito,,,875,38.74,-90.14,,0.1241297935,GINI Project Database
+,BBB Motor,,,900,38.65,-90.07,,0.2011204482,GINI Project Database
+,Cahokia,,,900,38.46,-90.26,,0.1930701457,GINI Project Database
+,Chan Chan,,,900,38.63,-90.15,,0.5884839138,GINI Project Database
+,East St. Louis Mounds,,,900,38.48,-90.24,,0.1991108902,GINI Project Database
+,Range,,,900,38.56,-89.84,,0.06592956593,GINI Project Database
+,ZU-LT-75,,,900,38.56,-89.84,,0.4967355891,GINI Project Database
+,ZU-LT-81,,,900,38.52,-90.2,,0.5978191148,GINI Project Database
+,ZU-LT-87,,,900,36.7,-108.03,,0.6097590729,GINI Project Database
+,La Lomita Pequeña,,,907,44.93,-108.09,,0.2662379132,GINI Project Database
+,La Lomita Pequeña,,,936,43.55,-105.29,,0.3243914855,GINI Project Database
+,Honeybee,,,950,43.99,-105.37,,0.3934631689,GINI Project Database
+,Snaketown SW,,,950,44.4,-105.45,,0.3920193868,GINI Project Database
+,25CC17,,,1000,43.66,-105.26,,0.4246171548,GINI Project Database
+,25DO2,,,1000,43.62,-105.21,,0.427638513,GINI Project Database
+,25TS2,,,1000,43.92,-105.42,,0.1514714368,GINI Project Database
+,Glenwood,,,1000,43.09,-105.92,,0.2251061549,GINI Project Database
+,Honokalani,,,1000,43.06,-105.93,,0.4094065657,GINI Project Database
+,Jewell,,,1000,41.87,-106.74,,0.3238503985,GINI Project Database
+,Kawaihai 2,,,1000,42.26,-106.54,,0.4844166855,GINI Project Database
+,Kawaipapa,,,1000,36.86,-86.06,,0.645681656,GINI Project Database
+,Keahuolu,,,1000,42.75,-106.95,,0.6668617234,GINI Project Database
+,Kincaid,,,1000,44.92,-107.86,,0.5983606557,GINI Project Database
+,Kincaid,,,1000,-8.11,-79.07,,0.4426426426,GINI Project Database
+,Mohopilo,,,1000,38.57,-89.91,,0.5045500506,GINI Project Database
+,Morris,,,1000,38.54,-89.82,,0.2667255075,GINI Project Database
+,Pahoehoe,,,1000,38.58,-90.1,,0.4539522203,GINI Project Database
+,SunWatch,,,1000,40.92,-96.14,,0.1671451864,GINI Project Database
+,Wakiu,,,1000,41.29,-96.17,,0.1957089809,GINI Project Database
+,SAS 54,,,1020,42.15,-96.55,,0.1419753086,GINI Project Database
+,Pueblo Alto,,,1040,38.6,-90.07,,0.2947035207,GINI Project Database
+,Alexander Jacob,,,1050,38.66,-90.06,,0.3693263258,GINI Project Database
+,Beaver (Bradshaw Mound),,,1050,38.57,-90.14,,0.2629201994,GINI Project Database
+,Beaver (George Mounds),,,1050,38.46,-90.26,,0.3824789988,GINI Project Database
+,Cahokia,,,1050,38.63,-90.15,,0.3567804744,GINI Project Database
+,Divers,,,1050,38.58,-90.15,,0.2162162162,GINI Project Database
+,East St. Louis Mounds,,,1050,41.18,-95.89,,0.2481133945,GINI Project Database
+,Faccombe Netherton,,,1050,38.57,-90.14,,0.7138075314,GINI Project Database
+,Five Finger Ridge,,,1050,38.54,-89.82,,0.3401501745,GINI Project Database
+,George Reeves,,,1050,38.55,-90.15,,0.02941176471,GINI Project Database
+,Grossmann,,,1050,43.87,-79.09,,0.1801380975,GINI Project Database
+,Innocents Ridge,,,1050,37.29,-87.55,,0.3316732012,GINI Project Database
+,J. Sprague,,,1050,38.52,-90.2,,0.2486215539,GINI Project Database
+,Kanosh,,,1050,38.68,-90.04,,0.2207661885,GINI Project Database
+,Kanosh,,,1050,38.87,-90.06,,0.3264946638,GINI Project Database
+,Knoebel,,,1050,57.1,-153.24,,0.1,GINI Project Database
+,Knoebel South,,,1050,38.28,-112.64,,0.1,GINI Project Database
+,Marysvale 7,,,1050,38.28,-112.64,,0.3732792879,GINI Project Database
+,Median Village,,,1050,38.57,-112.34,,0.1335765672,GINI Project Database
+,Nephi Mounds,,,1050,39.1,-111.03,,0.286359815,GINI Project Database
+,Paragonah Mounds,,,1050,38.82,-112.5,,0.2177541995,GINI Project Database
+,Parowan Mounds,,,1050,38.76,-112.49,,0.3643444925,GINI Project Database
+,Range,,,1050,38.44,-112.26,,0.1857923497,GINI Project Database
+,Round Spring Site,,,1050,37.81,-112.93,,0.3322992678,GINI Project Database
+,Snake Rock Village,,,1050,39.75,-111.85,,0.2870766054,GINI Project Database
+,Summit/Evan's Mound,,,1050,37.89,-112.77,,0.3632266646,GINI Project Database
+,Tattenhoe,,,1050,37.99,-113.43,,0.2151351351,GINI Project Database
+,Turner,,,1050,38.67,-111.42,,0.1660377358,GINI Project Database
+,Turner Look Site,,,1050,38.77,-111.35,,0.3483081629,GINI Project Database
+,Westbury,,,1050,37.8,-112.94,,0.2688888889,GINI Project Database
+,Wolf Village,,,1050,39.16,-109.43,,0.4344011605,GINI Project Database
+,Salmon Pueblo,,,1090,39.92,-111.9,,0.1235909207,GINI Project Database
+,78th Street,,,1100,36.78,-108.4,,0.1470588235,GINI Project Database
+,Cahokia,,,1100,51.32,-1.46,,0.4976935091,GINI Project Database
+,Centreville,,,1100,38.58,-90.15,,0.1452145215,GINI Project Database
+,Chan Chan,,,1100,35.42,-84.99,,0.7785888229,GINI Project Database
+,Divers,,,1100,37.16,-108.48,,0.2876712329,GINI Project Database
+,East St. Louis Mounds,,,1100,-6.47,-79.79,,0.1882487179,GINI Project Database
+,Fingers South,,,1100,52,-0.78,,0.07692307692,GINI Project Database
+,Fingers South,,,1100,52.02,-1.1,,0.138047138,GINI Project Database
+,Goose Ditch,,,1100,32.53,-111.42,,0.1725490196,GINI Project Database
+,Hiwassee Island,,,1100,37.08,-88.49,,0.1713684211,GINI Project Database
+,John H. Faust,,,1100,33.01,-87.63,,0.1853741497,GINI Project Database
+,Julien,,,1100,42.88,-95.36,,0.09962406015,GINI Project Database
+,Miller,,,1100,44.48,-100.53,,0.127444795,GINI Project Database
+,Range,,,1100,44.48,-100.53,,0.1985472155,GINI Project Database
+,Sican,,,1100,44.48,-100.53,,0.5212982416,GINI Project Database
+,Sponemann,,,1100,38.66,-90.06,,0.2612214864,GINI Project Database
+,Topoxte,,,1100,38.63,-90.15,,0.3814379311,GINI Project Database
+,Vaughn Branch,,,1100,38.58,-90.15,,0.1185897436,GINI Project Database
+,Wharram Percy,,,1100,38.55,-90.15,,0.2678449103,GINI Project Database
+,Cerro Prieto,,,1150,37.08,-88.49,,0.4790837135,GINI Project Database
+,La'gi,,,1150,38.74,-90,,0.1027857829,GINI Project Database
+,Loma Bajala,,,1150,38.9,-90.08,,0.1784357688,GINI Project Database
+,Moundville,,,1150,38.84,-90.03,,0.2203608247,GINI Project Database
+,Si'ndaskun,,,1150,39.72,-84.23,,0.1649835229,GINI Project Database
+,Town Creek,,,1150,35.56,-84.18,,0.1235555556,GINI Project Database
+,Shumway Pueblo,,,1180,35.18,-79.93,,0.1117021277,GINI Project Database
+,Oak Tree House,,,1190,8.78,48.89,,0.2392344498,GINI Project Database
+,13BV1,,,1200,37.4,-108.78,,236,GINI Project Database
+,39HU1,,,1200,43.62,-79.66,,0.3068663001,GINI Project Database
+,39ST224,,,1200,17.06,-89.42,,0.08064516129,GINI Project Database
+,39ST30,,,1200,-8.11,-79.07,,0.1505851756,GINI Project Database
+,39ST56,,,1200,33.63,-110.95,,0.1159322034,GINI Project Database
+,Cahokia,,,1200,44.32,-100.09,,0.2307692308,GINI Project Database
+,CH-AZ-127,,,1200,-19.51,-67.65,,0.3420490168,GINI Project Database
+,CH-AZ-128,,,1200,38.54,-89.81,,0.6359240069,GINI Project Database
+,CH-AZ-162,,,1200,-19.82,-67.74,,0.3630252101,GINI Project Database
+,CH-AZ-190,,,1200,57.1,-153.24,,0.5358432182,GINI Project Database
+,CH-AZ-280,,,1200,57.1,-153.24,,0.4659781288,GINI Project Database
+,Charali,,,1200,57.1,-153.24,,0.2484553599,GINI Project Database
+,Chiconautla,,,1200,57.1,-153.24,,0.5565983369,GINI Project Database
+,Cihuatecpan,,,1200,54.07,-0.69,,0.4696810375,GINI Project Database
+,CU-AZ-214,,,1200,-19.81,-67.68,,0.2098316756,GINI Project Database
+,CU-AZ-218,,,1200,43.8,-79.27,,0.4569716776,GINI Project Database
+,CU-AZ-247,,,1200,43.8,-79.27,,0.3,GINI Project Database
+,CU-AZ-254,,,1200,-19.88,-67.73,,0.3279761905,GINI Project Database
+,Cuitlahuac,,,1200,43.39,-79.83,,0.2331492984,GINI Project Database
+,East St. Louis Mounds,,,1200,-19.79,-67.72,,0.2518962076,GINI Project Database
+,Ecatepec,,,1200,-19.85,-67.55,,0.450834956,GINI Project Database
+,Fingers South,,,1200,-19.55,-67.69,,0.2563573883,GINI Project Database
+,Hitiuira,,,1200,-19.81,-67.75,,0.4920812849,GINI Project Database
+,Huanopatapampa,,,1200,43.86,-79.22,,0.2334346592,GINI Project Database
+,Huexotla,,,1200,-19.89,-67.59,,0.528290461,GINI Project Database
+,Hueypoxtla,,,1200,-19.76,-67.87,,0.4382716049,GINI Project Database
+,Incali,,,1200,43.2,-79.89,,0.2479606188,GINI Project Database
+,Ixtapaluca Viejo,,,1200,-19.63,-67.62,,0.3202945334,GINI Project Database
+,Jach'a Pucara,,,1200,43.03,-76.16,,0.281349156,GINI Project Database
+,Jilotzingo,,,1200,42.95,-80.59,,0.2,GINI Project Database
+,Jirira,,,1200,46.19,-101.25,,0.2132459445,GINI Project Database
+,Julien,,,1200,44.06,-99.25,,0.2408602151,GINI Project Database
+,Kincaid,,,1200,44.34,-79.73,,0.275862069,GINI Project Database
+,Lembke 2,,,1200,38.55,-90.15,,0.4109589041,GINI Project Database
+,Loyd,,,1200,35.61,-82.44,,0.1808035714,GINI Project Database
+,Marquiri,,,1200,57.1,-153.24,,0.2275728462,GINI Project Database
+,Murmuntani,,,1200,19.16,-98.9,,0.2949524381,GINI Project Database
+,Ngatimo & Marama,,,1200,19.17,-98.89,,0.3064171123,GINI Project Database
+,Olin,,,1200,19.19,-98.89,,0.133819242,GINI Project Database
+,Orongo & Haumoana,,,1200,19.25,-98.92,,0.465895172,GINI Project Database
+,Otumba,,,1200,19.25,-99,,0.6623435322,GINI Project Database
+,Pucara Loma,,,1200,19.61,-99.07,,0.2382151197,GINI Project Database
+,Pucara Loma Acalaya,,,1200,19.63,-99.07,,0.2535313901,GINI Project Database
+,Russell,,,1200,19.6,-99.06,,0.1518518519,GINI Project Database
+,SAS 105,,,1200,19.6,-99.04,,0.2173382173,GINI Project Database
+,SAS 126.1,,,1200,19.63,-99,,0.2692307692,GINI Project Database
+,SAS 133,,,1200,19.71,-98.7,,0.1011560694,GINI Project Database
+,SAS 53.2,,,1200,19.26,-99,,0.1292270531,GINI Project Database
+,SAS 81,,,1200,19.6,-99.06,,0.3286956522,GINI Project Database
+,Sivingani,,,1200,19.47,-98.86,,0.3092575334,GINI Project Database
+,TE-AZ-101,,,1200,19.91,-99.09,,0.5133084886,GINI Project Database
+,TE-AZ-103,,,1200,19.34,-98.89,,0.3660518041,GINI Project Database
+,TE-AZ-124,,,1200,19.85,-99.07,,0.5016247969,GINI Project Database
+,TE-AZ-13,,,1200,19.69,-98.76,,0.5767209011,GINI Project Database
+,TE-AZ-18,,,1200,19.73,-98.72,,0.2586623691,GINI Project Database
+,TE-AZ-19,,,1200,19.72,-98.71,,0.2345013477,GINI Project Database
+,TE-AZ-224,,,1200,19.79,-98.79,,0.4880189201,GINI Project Database
+,TE-AZ-27,,,1200,19.62,-98.94,,0.3298817294,GINI Project Database
+,TE-AZ-28,,,1200,19.71,-98.92,,0.2122065728,GINI Project Database
+,TE-AZ-37,,,1200,19.7,-98.9,,0.2798732778,GINI Project Database
+,TE-AZ-38,,,1200,19.78,-98.84,,0.0172095882,GINI Project Database
+,TE-AZ-40,,,1200,19.62,-98.88,,0.09389312977,GINI Project Database
+,TE-AZ-41,,,1200,19.62,-98.87,,0.2386397916,GINI Project Database
+,TE-AZ-43,,,1200,19.66,-98.73,,0.1882968664,GINI Project Database
+,TE-AZ-45,,,1200,19.65,-98.72,,0.2602075158,GINI Project Database
+,TE-AZ-5,,,1200,19.8,-98.86,,0.3971014493,GINI Project Database
+,TE-AZ-51,,,1200,19.8,-98.87,,0.2922204501,GINI Project Database
+,TE-AZ-57,,,1200,19.79,-98.87,,0.1590814512,GINI Project Database
+,TE-AZ-59,,,1200,19.78,-98.83,,0.3878205128,GINI Project Database
+,TE-AZ-71,,,1200,19.61,-98.95,,0.365682405,GINI Project Database
+,TE-AZ-73,,,1200,19.77,-98.84,,0.223717781,GINI Project Database
+,TE-AZ-74,,,1200,19.66,-98.76,,0.2987804878,GINI Project Database
+,TE-AZ-75,,,1200,19.64,-98.76,,0.4252298482,GINI Project Database
+,TE-AZ-76,,,1200,19.64,-98.77,,0.5258543361,GINI Project Database
+,TE-AZ-77,,,1200,19.67,-98.72,,0.4915954139,GINI Project Database
+,TE-AZ-78,,,1200,19.67,-98.7,,0.3871585872,GINI Project Database
+,TE-AZ-82,,,1200,19.66,-98.7,,0.4292785588,GINI Project Database
+,TE-AZ-83,,,1200,19.66,-98.7,,0.1523832071,GINI Project Database
+,TE-AZ-84,,,1200,19.68,-98.7,,0.3846153846,GINI Project Database
+,TE-AZ-85,,,1200,19.68,-98.69,,0.3107732989,GINI Project Database
+,TE-AZ-86,,,1200,19.68,-98.69,,0.3297805873,GINI Project Database
+,Tenochtitlan-Tlatelolco,,,1200,19.67,-98.69,,0.7534989576,GINI Project Database
+,Tepetlaoxtoc,,,1200,19.69,-98.69,,0.5428211963,GINI Project Database
+,Toqua,,,1200,19.66,-98.74,,0.296969697,GINI Project Database
+,TX-A-25,,,1200,19.65,-98.74,,0.4705882353,GINI Project Database
+,TX-A-26,,,1200,19.58,-98.8,,0.4716028857,GINI Project Database
+,TX-A-27,,,1200,19.59,-98.78,,0.701754386,GINI Project Database
+,TX-A-28,,,1200,19.57,-98.78,,0.4269178328,GINI Project Database
+,TX-A-30,,,1200,19.58,-98.77,,0.6660727406,GINI Project Database
+,TX-A-31,,,1200,19.56,-98.76,,0.4468951365,GINI Project Database
+,TX-A-32,,,1200,19.55,-98.77,,0.6735423542,GINI Project Database
+,TX-A-34,,,1200,19.55,-98.78,,0.6325392803,GINI Project Database
+,TX-A-38,,,1200,19.57,-98.77,,0.4466527571,GINI Project Database
+,TX-A-39,,,1200,19.56,-98.81,,0.4521732357,GINI Project Database
+,TX-A-40,,,1200,19.57,-98.76,,0.333916849,GINI Project Database
+,TX-A-59,,,1200,19.56,-98.83,,0.3870378822,GINI Project Database
+,TX-A-60,,,1200,19.48,-98.81,,0.3463476071,GINI Project Database
+,TX-A-69,,,1200,19.49,-98.8,,0.1921052632,GINI Project Database
+,TX-A-72,,,1200,19.52,-98.81,,0.2598690287,GINI Project Database
+,TX-A-73,,,1200,19.53,-98.79,,0.16,GINI Project Database
+,TX-A-76,,,1200,19.54,-98.77,,0.2773403325,GINI Project Database
+,TX-A-78,,,1200,19.51,-98.79,,0.215661104,GINI Project Database
+,TX-A-80,,,1200,19.5,-98.78,,0.4327242525,GINI Project Database
+,Xico,,,1200,19.49,-98.79,,0.3290467442,GINI Project Database
+,XO-AZ-47,,,1200,19.43,-99.13,,0.5477258168,GINI Project Database
+,XO-AZ-49,,,1200,19.59,-98.82,,0.4719482121,GINI Project Database
+,ZU-AZ-37,,,1200,19.28,-99.07,,0.3976945245,GINI Project Database
+,ZU-AZ-79,,,1200,19.29,-99.08,,0.16,GINI Project Database
+,ZU-AZ-99,,,1200,19.26,-98.93,,0.3918918919,GINI Project Database
+,Antrex,,,1250,19.98,-99.12,,0.2885364095,GINI Project Database
+,Matakawau Pa / Stingray Point Pa,,,1250,19.92,-99.05,,0.4109182156,GINI Project Database
+,Maungarei Pa/ Mt Wellington Pa,,,1250,19.9,-99.07,,0.5271576247,GINI Project Database
+,Maungawhau Pa / Mt Eden Pa,,,1250,18.78,-99.24,,0.4348159541,GINI Project Database
+,Meddler Point,,,1250,18.79,-99.25,,0.2740787834,GINI Project Database
+,Ngaungau Pa / Poor Hill,,,1250,-11.72,-75.6,,0.3670648409,GINI Project Database
+,Ohinerau Pa / Mt Hobson Pa,,,1250,-11.75,-75.6,,0.4956451097,GINI Project Database
+,Pa,,,1250,43.84,-79.25,,0.4499396864,GINI Project Database
+,Poutukiterangi Pa,,,1250,-24.45,-65.96,,0.5653710878,GINI Project Database
+,Sand Canyon,,,1250,-17.16,-70.92,,0.2806629834,GINI Project Database
+,Titikopuke Pa / Mt St John Pa,,,1250,-13.03,-76.49,,0.4860121166,GINI Project Database
+,Tlaxcallan,,,1250,19.33,-98.23,,0.1301159441,GINI Project Database
+,Warren Wilson,,,1250,-17.22,-70.93,,0.1217192849,GINI Project Database
+,Zacualpa,,,1250,15.1,-90.2,,0.4118572315,GINI Project Database
+,SAS 8,,,1280,-16.24,31.21,,0.3613198014,GINI Project Database
+,San Antonio,,,1290,20.79,-156,,0.2775202231,GINI Project Database
+,32SI19,,,1300,20.02,-155.82,,0.1861980831,GINI Project Database
+,39BF11,,,1300,20.75,-155.99,,0.2721148078,GINI Project Database
+,Agua Rica,,,1300,19.65,-156.03,,0.2747256147,GINI Project Database
+,Caillama,,,1300,20.64,-156.45,,0.271238531,GINI Project Database
+,Campo Grande,,,1300,19.32,-155.89,,0.3248583852,GINI Project Database
+,Capilco A,,,1300,20.79,-156,,0.119182802,GINI Project Database
+,Capillo,,,1300,44.43,-79.72,,0.252981509,GINI Project Database
+,Cauinal,,,1300,35.19,-85.14,,0.4920324689,GINI Project Database
+,Cerro Azul,,,1300,33.6,-83.27,,0.337016219,GINI Project Database
+,Cosapilla,,,1300,43.82,-79.31,,0.1864968976,GINI Project Database
+,Coweeta Creek,,,1300,-18.2,-68.36,,0.2355717984,GINI Project Database
+,Cuexcomate A,,,1300,-18.4,-69.58,,0.4920480203,GINI Project Database
+,Dallas,,,1300,-18.25,-68.45,,0.181698407,GINI Project Database
+,Elliot Village II,,,1300,-18.39,-69.57,,0.2828372139,GINI Project Database
+,Elliot Village III,,,1300,43.93,-78.84,,0.2192982456,GINI Project Database
+,Furnace Brook,,,1300,-18.48,-69.54,,0.3877154649,GINI Project Database
+,Great Zimbabwe,,,1300,-18.06,-68.75,,0.2556354916,GINI Project Database
+,Holly,,,1300,-18.4,-69.59,,0.4475213675,GINI Project Database
+,Huaihuarani,,,1300,-18.51,-69.53,,0.2490153924,GINI Project Database
+,Huaylillas,,,1300,-18.54,-69.53,,0.1216378739,GINI Project Database
+,Ireland,,,1300,43.92,-79.18,,0.1891891892,GINI Project Database
+,Julien,,,1300,46.68,-101.43,,0.161038961,GINI Project Database
+,Laco Alto,,,1300,45.71,-101.15,,0.1756211917,GINI Project Database
+,Lupica,,,1300,-19.52,-67.65,,0.2575166327,GINI Project Database
+,Muozi,,,1300,44.43,-79.73,,0.3670886076,GINI Project Database
+,New,,,1300,15.25,-90.6,,0.08852459016,GINI Project Database
+,Saxamar,,,1300,35.09,-83.38,,0.2139023848,GINI Project Database
+,Serena,,,1300,43.95,-79,,0.2587446679,GINI Project Database
+,Site V,,,1300,-17.38,31.24,,0.2323529412,GINI Project Database
+,Site XXVIIID,,,1300,35.56,-84.18,,0.3818565401,GINI Project Database
+,Site XXX1,,,1300,52.13,-131.01,,0.2093251533,GINI Project Database
+,Tastil,,,1300,52.11,-131,,0.224718457,GINI Project Database
+,Toqua,,,1300,-20.27,30.93,,0.176202119,GINI Project Database
+,Tunanmarca,,,1300,-18.14,32.64,,0.2463781458,GINI Project Database
+,Umpamalca,,,1300,-18.3,32.75,,0.4108433735,GINI Project Database
+,Ziwa,,,1300,NA,NA,,0.1466666667,GINI Project Database
+,Ziwa Site IV,,,1300,NA,NA,,0.2177514793,GINI Project Database
+,Estuquina,,,1321,-18.14,32.64,,0.29635052,GINI Project Database
+,Uren,,,1325,-18.3,32.75,,0.3476571429,GINI Project Database
+,Zvongombe South,,,1331,18.78,-99.24,,0.2198067633,GINI Project Database
+,Robb,,,1350,18.79,-99.25,,0.1990896831,GINI Project Database
+,Dyar,,,1375,18.88,-99.07,,0.3023255814,GINI Project Database
+,SAS 25,,,1395,-11.75,-75.57,,0.2603265233,GINI Project Database
+,32MO11,,,1400,-11.75,-75.51,,0.1678648001,GINI Project Database
+,39CO1,,,1400,57.1,-153.24,,0.07321493295,GINI Project Database
+,Alexandra,,,1400,43.89,-79.52,,0.1983114993,GINI Project Database
+,Ancopachane,,,1400,43.89,-79.51,,0.64434478,GINI Project Database
+,Carson,,,1400,-9.87,-76.82,,0.09288350026,GINI Project Database
+,Dunsmore,,,1400,-24.32,-65.76,,0.4122818975,GINI Project Database
+,Grandview,,,1400,-13.26,-72.26,,0.2516313118,GINI Project Database
+,La Huerta,,,1400,-18.47,-69.53,,0.4432611907,GINI Project Database
+,SAS 11,,,1400,-27.1,-109.29,,0.2854304636,GINI Project Database
+,SAS 112,,,1400,-23.46,-65.22,,0.2315634218,GINI Project Database
+,SAS 126.2,,,1400,-27.16,-109.39,,0.5315789474,GINI Project Database
+,SAS 140,,,1400,-27.19,-109.42,,0.158573854,GINI Project Database
+,SAS 77,,,1400,57.1,-153.24,,0.1979899497,GINI Project Database
+,SAS 87,,,1400,-19.56,-68.68,,0.3205673759,GINI Project Database
+,SAS 9,,,1400,42.67,-81.36,,0.2805280528,GINI Project Database
+,SAS 97.2,,,1400,35.32,-84.79,,0.306122449,GINI Project Database
+,White Lower,,,1400,46.98,-100.52,,0.143573382,GINI Project Database
+,Zacpeten,,,1400,33.44,-83.2,,0.3241009184,GINI Project Database
+,Kayuna Pampa,,,1420,34.99,-83.86,,0.391899477,GINI Project Database
+,Hatunmarca,,,1430,-36.61,175.78,,0.3755681818,GINI Project Database
+,Marca,,,1430,-36.89,174.85,,0.2517730496,GINI Project Database
+,Capilco B,,,1431,-36.88,174.76,,0.1638745483,GINI Project Database
+,Cuexcomate B,,,1431,-35.31,173.87,,0.2485160524,GINI Project Database
+,Nhunguza,,,1431,-36.88,174.79,,0.3214285714,GINI Project Database
+,Yautepec,,,1431,-36.88,175.17,,0.2078217073,GINI Project Database
+,Joseph Picard,,,1440,-35.41,174.36,,0.4042584115,GINI Project Database
+,9GE903,,,1450,-23.59,-65.4,,0.2514204545,GINI Project Database
+,Brasstown Valley,,,1450,43.47,-80.11,,0.2201098437,GINI Project Database
+,Huanuco Pampa,,,1450,-36.88,174.78,,0.5255347605,GINI Project Database
+,King,,,1450,36.78,-107.76,,0.1613560858,GINI Project Database
+,Morohuasi,,,1450,44.59,-78.89,,0.7081383714,GINI Project Database
+,Ollantaytambo,,,1450,43.85,-79.6,,0.2047711986,GINI Project Database
+,Pucará de Tilcara,,,1450,43.94,-79.17,,0.3031062344,GINI Project Database
+,Rymer,,,1450,43.83,-79.5,,0.233641902,GINI Project Database
+,LA72787,,,1470,34.2,-85.39,,0.2856761611,GINI Project Database
+,LA78171,,,1475,43.88,-79.48,,0.1943440439,GINI Project Database
+,Hope (N),,,1480,33.44,-83.2,,0.2038509837,GINI Project Database
+,Hope (S),,,1480,33.6,-83.27,,0.3063594141,GINI Project Database
+,32BL9,,,1500,16.99,-89.66,,0.1398705195,GINI Project Database
+,Raymond Reid,,,1500,43.01,-74.53,,0.2494373593,GINI Project Database
+,Southwold,,,1500,44.62,-78.93,,0.3297270849,GINI Project Database
+,Coulter,,,1515,57.1,-153.24,,0.162138906,GINI Project Database
+,9GE901,,,1520,57.1,-153.24,,0.07142857143,GINI Project Database
+,Dyar,,,1520,57.1,-153.24,,0.1173184358,GINI Project Database
+,Damiani,,,1525,57.1,-153.24,,0.178963314,GINI Project Database
+,Draper,,,1525,57.1,-153.24,,0.2560680051,GINI Project Database
+,Keffer,,,1525,57.1,-153.24,,0.1816894553,GINI Project Database
+,McNair,,,1525,57.1,-153.24,,0.2950915751,GINI Project Database
+,Antincurahuara,,,1550,36.8,-107.66,,0.3162139186,GINI Project Database
+,Benson,,,1550,36.85,-107.73,,0.2204197179,GINI Project Database
+,Garoga,,,1550,44.34,-79.69,,0.1607430341,GINI Project Database
+,Torata Alta,,,1570,43.96,-79.24,,0.3700168731,GINI Project Database
+,LA72746,,,1571,-17.08,-70.83,,0.3725529456,GINI Project Database
+,Molson,,,1580,-18.29,-68.45,,0.2772321429,GINI Project Database
+,Jean-Baptiste Lainé,,,1590,43.96,-79.24,,0.2562522628,GINI Project Database
+,Asiento San Antonio,,,1600,44.65,-79.57,,0.4019537736,GINI Project Database
+,Jean-Baptiste Lainé,,,1600,44.68,-79.66,,0.2332667333,GINI Project Database
+,Lower Chivos,,,1600,57.1,-153.24,,0.1931441192,GINI Project Database
+,Ojo de Cuervos,,,1600,43.38,-80.02,,0.2962488664,GINI Project Database
+,SW2613,,,1600,43.4,-80.02,,0.1066466313,GINI Project Database
+,Tinaja Ojo de Iitoy,,,1600,43.38,-80.05,,0.2534023498,GINI Project Database
+,Tule,,,1600,-21.52,-66.53,,0.2826188577,GINI Project Database
+,Upper Chivos,,,1600,31.75,-113.61,,0.2543763313,GINI Project Database
+,Bidmead,,,1610,31.67,-113.44,,0.1788020485,GINI Project Database
+,Ball,,,1615,31.76,-113.42,,0.2643683816,GINI Project Database
+,Chota-Tanase HI,,,1625,31.77,-113.6,,0.1559831783,GINI Project Database
+,Hood,,,1625,31.75,-113.6,,0.2069119287,GINI Project Database
+,Toqua,,,1625,35.55,-84.13,,0.1060518732,GINI Project Database
+,Townsend,,,1625,35.56,-84.18,,0.1623376623,GINI Project Database
+,Bogle I,,,1630,35.68,-83.78,,0.3060498221,GINI Project Database
+,Hamilton,,,1638,-19.38,31.68,,0.1635446686,GINI Project Database
+,Songo,,,1650,42.24,-107.54,,0.3,GINI Project Database
+,SAS 10,,,1665,46.46,-97.66,,0.5946617008,GINI Project Database
+,Chahclellah,,,1700,35.61,-84.23,,0.1553869701,GINI Project Database
+,Gitkaxdzawk,,,1700,45.59,-122.13,,0.1868806734,GINI Project Database
+,Gitsaex,,,1700,35.49,-107.31,,0.1503526169,GINI Project Database
+,Matendera,,,1700,35.49,-107.22,,0.2589147287,GINI Project Database
+,32RM1,,,1724,54.27,-130.37,,0.444078166,GINI Project Database
+,5 mi. W of Big Bead,,,1745,54.33,-130.34,,0.1494468989,GINI Project Database
+,Big Bead Mesa,,,1745,54.33,-130.41,,0.2592019762,GINI Project Database
+,Gb-To-28,,,1750,54.33,-130.34,,0.1377513559,GINI Project Database
+,Gb-To-6,,,1750,54.36,-130.48,,0.1507902807,GINI Project Database
+,Gb-To-7,,,1750,54.33,-130.42,,0.2802535057,GINI Project Database
+,Gb-To-8,,,1750,54.32,-130.4,,0.1426442269,GINI Project Database
+,Gc-To-51,,,1750,54.62,-128.43,,0.3001484321,GINI Project Database
+,Kitandacli,,,1750,54.62,-128.43,,0.4560689224,GINI Project Database
+,Laxmasxwm'ol,,,1750,-15.62,32.78,,0.340640479,GINI Project Database
+,Mialoquo,,,1760,47.28,-101.73,,0.1770334928,GINI Project Database
+,SAS 114,,,1784,57.1,-153.24,,0.3429951691,GINI Project Database
+,32ME15,,,1785,45.71,-101.15,,0.10240273,GINI Project Database
+,Qai'dju,,,1787,57.1,-153.24,,0.1688061646,GINI Project Database
+,SgA'ngwa-i,,,1787,52.22,-131.01,,0.2303619511,GINI Project Database
+,39CO9,,,1803,52.1,-131.22,,0.1778392379,GINI Project Database
+,32ME16,,,1830,47.28,-101.73,,0.2791926308,GINI Project Database
+,32ML2,,,1830,47.5,-101.49,,0.2119293594,GINI Project Database
+,DeSh 1,,,1840,48.82,-125.17,,0.2813738313,GINI Project Database
+,DeSh 2,,,1840,48.82,-125.17,,0.2125193199,GINI Project Database
+,DfDh 7,,,1840,48.85,-125.19,,0.3342385735,GINI Project Database
+,Orayvi,,,1871,35.88,-110.64,,0.322570998,GINI Project Database
+,Laqaya Uta,,,1890,-4,144.35,,0.207212437,GINI Project Database
+,Karundjo,,,1913,-4.24,142.86,,0.2574229921,GINI Project Database
+,Malu,,,1913,-19.84,-67.64,,0.2761359297,GINI Project Database
+,"Ak, Old Kwieftim village",,,1960,-3.6,141.78,,375,GINI Project Database
+,!Kung camps,,,1970,-19.05,21.02,,0.2707819927,GINI Project Database
+,"Yabio, Iatmul, Kararau village",,,1972,-4.21,143.34,,0.2047517825,GINI Project Database
+,"Iatmul, Kanganaman village",,,1974,-4.18,143.27,,0.217262181,GINI Project Database
+,"Yangoru Boiken, Sima village",,,1979,-3.62,143.32,,0.2244287639,GINI Project Database
+,Mushosho,,,Unknown,-18.9333,32.6667,,0.2238041913,GINI Project Database
+,,Latin America,,1490,-12.02,-77,0.22,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1510,-12.02,-77,0.32,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1550,-12.02,-77,0.35,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1650,-12.02,-77,0.48,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1720,-12.02,-77,0.58,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1760,-12.02,-77,0.47,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1790,-12.02,-77,0.47,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1850,-12.02,-77,0.52,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Latin America,,1890,-12.02,-77,0.65,,https://cepr.org/voxeu/columns/latin-american-inequality-1491
+,,Anatolia,,1510,39.55,32.51,,0.54,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1510,40.11,29.03,,0.72,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Kayseri,,,1510,38.43,35.29,,0.55,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1550,39.55,32.51,,0.56,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1550,40.11,29.03,,0.7,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Kayseri,,,1550,38.43,35.29,,0.3,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1590,39.55,32.51,,0.62,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1590,40.11,29.03,,0.73,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1590,38.37,27.26,,0.5,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1630,39.55,32.51,,0.63,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1630,40.11,29.03,,0.66,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1630,38.37,27.26,,0.58,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1670,39.55,32.51,,0.68,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1670,40.11,29.03,,0.62,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1670,38.37,27.26,,0.6,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1710,39.55,32.51,,0.75,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1710,40.11,29.03,,0.8,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Diyarbakır,,,1710,37.91,40.24,,0.78,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Kayseri,,,1710,38.43,35.29,,0.5,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1710,38.37,27.26,,0.7,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1750,39.55,32.51,,0.63,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1750,40.11,29.03,,0.78,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Diyarbakır,,,1750,37.91,40.24,,0.75,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Kayseri,,,1750,38.43,35.29,,0.55,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1750,38.37,27.26,,0.65,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1790,39.55,32.51,,0.75,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1790,40.11,29.03,,0.76,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Diyarbakır,,,1790,37.91,40.24,,0.72,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Kayseri,,,1790,38.43,35.29,,0.6,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1790,38.37,27.26,,0.68,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,,Anatolia,,1830,39.55,32.51,,0.66,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Bursa,,,1830,40.11,29.03,,0.73,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Diyarbakır,,,1830,37.91,40.24,,0.65,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Kayseri,,,1830,38.43,35.29,,0.65,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Manisa,,,1830,38.37,27.26,,0.7,https://www.semanticscholar.org/paper/Wealth-and-inequality-in-Ottoman-lands-in-the-early-Canbakal-Filiztekin/66595b39c32cf9437cbc8fc990651b311c01c18b
+,Olynthus,,,-375,40.296,23.354,,0.14,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Athens,,,-350,37.59,23.43,,0.4,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Delos,,,-350,37.23,25.16,,0.49,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Carthage,,,-200,36.85,10.32,,0.58,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Delos,,,-190,37.23,25.16,,0.38,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Ampurias,,,-150,42.08,3.07,,0.6,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Delos,,,-100,37.23,25.16,,0.35,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Herculaneum,,,75,40.81,14.35,,0.57,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,,Samnium,,100,41.08,14.47,,0.44,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,,Southern Gaul,,100,45.46,4.5,,0.61,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Athens,,,100,37.59,23.43,,0.55,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,Pergamum,,,100,39.07,27.11,,0.4,https://ehs.org.uk/wp-content/uploads/gravity_forms/81-c6209b5d7fd24ab01749635186ee4b18/2025/03/Review-of-Income-and-Wealth-2025-Battistoni-Assessing-Ancient-Inequalities-Hellenistic-Delos.pdf
+,,Alemannia,,400,48.16,8.59,,0.4,https://files.ehs.org.uk/wp-content/uploads/2020/11/29060833/2016-Conference-Booklet.pdf#page=20
+,,Alemannia,,700,48.16,8.59,,0.44,https://files.ehs.org.uk/wp-content/uploads/2020/11/29060833/2016-Conference-Booklet.pdf#page=20
+,"La Magdalena, Mexico",,,1492,19.28,-98.2,0.45,,https://gwern.net/doc/economics/2023-alfani.pdf
+,"Ocotelulco, Mexico",,,1492,19.33,-98.24,0.65,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Quiahuiztlan, Mexico",,,1492,19.66,-96.42,0.65,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Agustín, Mexico",,,1492,20.12,-98.89,0.35,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Andrés, Mexico",,,1492,19.05,-98.29,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Antonio, Mexico",,,1492,19.16,-99.57,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Bartolomé, Mexico",,,1492,19.32,-98.16,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Bernardino, Mexico",,,1492,19.33,-98.17,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Cristóbal, Mexico",,,1492,19.6,-99.05,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Damián, Mexico",,,1492,19.28,-98.27,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Felipe, Mexico",,,1492,19.33,-98.38,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Francisco, Mexico",,,1492,19.26,-98.16,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Jerónimo, Mexico",,,1492,19.24,-98.26,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San José, Mexico",,,1492,19.34,-98.07,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Juan, Mexico",,,1492,19.23,-98.25,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Lorenzo, Mexico",,,1492,19.22,-98.25,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Lucas, Mexico",,,1492,19.45,-98.23,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Mateo, Mexico",,,1492,19.36,-98.27,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Miguel, Mexico",,,1492,19.24,-98.34,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Nicolás, Mexico",,,1492,19.48,-97.94,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Pablo, Mexico",,,1492,19.12,-98.17,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Pedro, Mexico",,,1492,19.06,-98.31,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Rafael, Mexico",,,1492,20.19,-96.87,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Salvador, Mexico",,,1492,19.38,-98.09,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Sebastián, Mexico",,,1492,19.3,-98.23,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Simón, Mexico",,,1492,19.42,-98.21,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"San Tomás, Mexico",,,1492,19.42,-98.13,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Santa Ana, Mexico",,,1492,19.31,-98.19,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Santa Catarina, Mexico",,,1492,19.2,-98.21,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Santa Cruz, Mexico",,,1492,19.36,-98.15,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Santa María, Mexico",,,1492,19.38,-98.03,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Santa Úrsula, Mexico",,,1492,19.39,-98.16,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Teolocholco, Mexico",,,1492,19.24,-98.19,0.45,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Tepeticpac, Mexico",,,1492,19.34,-98.23,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Tepeyanco, Mexico",,,1492,19.24,-98.23,0.55,,https://doi.org/10.1038/s41562-023-01636-3 
+,"Tizatlan, Mexico",,,1492,19.33,-98.22,0.65,,https://doi.org/10.1038/s41562-023-01636-3 
+,,Warwickshire,,1720,52.33,-1.58,,0.78,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Yorkshire,,1725,54,-1.5,,0.78,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Hebei,,1738.5,38.93,115.7,,0.6,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,Northern Spain,1749,41.39,4.43,,0.78,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,Sweden,1750,59.2,18.5,,0.72,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Central Italy,,1750,42.8,12.5,,0.75,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Northwest Italy,,1750,45.4,8.5,,0.77,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Warwickshire,,1750,52.33,-1.58,,0.71,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Leicestershire,,1757,52.67,-1.17,,0.61,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Buckinghamshire,,1760,51.83,-0.83,,0.76,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Nottinghamshire,,1760,53.17,-1,,0.68,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Yorkshire,,1760,54,-1.5,,0.81,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Warwickshire,,1770,52.33,-1.58,,0.72,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Westmorland,,1770,54.47,-2.6,,0.48,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Buckinghamshire,,1780,51.83,-0.83,,0.73,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Nottinghamshire,,1780,53.17,-1,,0.74,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Yorkshire,,1780,54,-1.5,,0.76,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,Denmark,1789,55.4,12.34,,0.87,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Warwickshire,,1790,52.33,-1.58,,0.71,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,China,1800,39.88,116.4,,0.655,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,Finland,1800,60.21,24.94,,0.87,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,Japan,1800,35.69,139.75,,0.53,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Buckinghamshire,,1800,51.83,-0.83,,0.81,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Chubutosan,,1800,36,138,,0.61,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Chugoku,,1800,35.05,132.5,,0.53,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Hokuriku,,1800,37.25,137.17,,0.64,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Kanto,,1800,36,140,,0.49,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Kinki,,1800,35,135.5,,0.63,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Kyushu,,1800,33,131,,0.44,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Nottinghamshire,,1800,53.17,-1,,0.74,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Shikoku,,1800,33.75,133.5,,0.35,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Tohoku,,1800,39.7,141,,0.44,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Tokai,,1800,35,137.67,,0.49,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Westmorland,,1800,54.47,-2.6,,0.51,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Yorkshire,,1800,54,-1.5,,0.81,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,,England,1803,51.3,-0.17,,0.93,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Cumbria,,1805,54.5,-3,,0.63,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Warwickshire,,1815,52.33,-1.58,,0.75,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Nottinghamshire,,1820,53.17,-1,,0.73,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Yorkshire,,1820,54,-1.5,,0.78,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Nottinghamshire,,1840,53.17,-1,,0.75,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Yorkshire,,1840,54,-1.5,,0.8,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,,Hebei,,1930,38.93,115.7,,0.72,https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf
+,Barcelona,,,1375,41.38,2.17,0.61,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Castellón,,,1375,39.99,-0.05,0.58,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Mallorca,,,1375,39.69,3.02,0.67,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Sevilla,,,1375,37.39,-5.98,0.72,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Sevilla,,,1375,37.39,-5.98,0.65,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Valencia,,,1375,39.47,-0.38,0.6,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Valls,,,1375,41.29,1.25,0.63,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Castellón,,,1450,39.99,-0.05,0.53,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Castellón,,,1500,39.99,-0.05,0.49,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,Castellón,,,1600,39.99,-0.05,0.61,,https://library.oapen.org/viewer/web/viewer.html?file=/bitstream/handle/20.500.12657/56037/14215.pdf?sequence=1&isAllowed=y
+,,,Abbasid Caliphate,600,33.31,44.36,,0.27018,https://media.proquest.com/media/hms/ORIG/2/BU21H?_s=VRruhYmPmxnIuyRFqaoZVISHYR4%3D
+,Humayma,,,600,29.95,35.35,,0.34537,https://media.proquest.com/media/hms/ORIG/2/BU21H?_s=VRruhYmPmxnIuyRFqaoZVISHYR4%3D
+,Nahal Mitnan,,,600,30.63,34.48,,0.13333,https://media.proquest.com/media/hms/ORIG/2/BU21H?_s=VRruhYmPmxnIuyRFqaoZVISHYR4%3D
+,Tall Jawa,,,600,31.84,35.91,,0.24198,https://media.proquest.com/media/hms/ORIG/2/BU21H?_s=VRruhYmPmxnIuyRFqaoZVISHYR4%3D
+,Ctesiphon,,,620,33.09,44.58,,0.22169,https://media.proquest.com/media/hms/ORIG/2/BU21H?_s=VRruhYmPmxnIuyRFqaoZVISHYR4%3D
+,Hajiabad,,,620,28.31,54.42,,0.32715,https://media.proquest.com/media/hms/ORIG/2/BU21H?_s=VRruhYmPmxnIuyRFqaoZVISHYR4%3D
+,San Jose Mogote,,,-1100,17.17,-96.81,0.25,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Uxbenká,,,250,16.23,-88.98,,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Chunchucmil,,,400,20.64,-90.19,0.34,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Ix Kuku’il,,,400,16.2,-88.93,0.4,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Teotihuacan,,,400,19.69,-98.84,0.41,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,El Palmillo,,,500,16.85,-96.34,0.39,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Mitla Fortress,,,500,16.92,-96.31,0.36,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Monte Alban,,,500,17.04,-96.77,0.41,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Valley of Oaxaca sites,,,500,17.05,-96.72,0.38,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Caracol,,,600,16.76,-89.12,0.34,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Palenque,,,600,17.48,-92.05,0.44,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Uxul,,,600,17.86,-89.98,0.62,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Tikal,,,765,17.22,-89.62,0.62,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Mayapan,,,1200,20.63,-89.46,0.41,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Capilco,,,1480,18.84,-99.04,0.16,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Cuexcomate,,,1480,18.81,-99.05,0.25,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Yautepec,,,1480,18.88,-99.07,0.21,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,Tenochtitlan,,,1500,19.43,-99.13,0.3,,https://pmc.ncbi.nlm.nih.gov/articles/PMC7990175/
+,,East Anglia,,1540,52.63,1.3,,0.642,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Yomut (Charwa),,,,1965,38,55,,0.564,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Yomut (Chomur),,,,1965,36.9,54.07,,0.528,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Ju/'hoansi,,,,1973,-19.6,20.5,,0.208,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Kipsigis,,,,1981,-0.37,35.28,,0.3115,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Ache,,,,1982,-24.3,-55.8,,0.295,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Hadza,,,,1982,-3.83,35,,0.10266,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Datoga,,,,1987,-4.3,35.03,,0.344,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Pimbwe,,,,1995,-6.34,31.07,,0.103,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Sangu,,,,1997,-8.75,34.25,,0.957,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Meriam,,,,1998,-9.92,144.05,,0.088,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Tsimane,,,,2002,-14.86,-66.75,,0.186125,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Juhaina Arabs,,,,2003,24.09,38.06,,0.535,https://pubmed.ncbi.nlm.nih.gov/19900925/
+Lamalera,,,,2006,-8.55,123.51,,0.168,https://pubmed.ncbi.nlm.nih.gov/19900925/
+,,,Roman Empire,14,41.9,12.5,0.378,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Byzantium,1000,41.01,28.98,0.411,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,England and Wales,1290,51.51,-0.13,0.393,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Tuscany,1427,43.77,11.26,0.407,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,South Serbia,1455,43.32,21.89,0.205,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Holland,1561,52.37,4.9,0.56,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Levant,1596,33.51,36.29,0.419,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Holland,1732,52.37,4.9,0.61,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Moghul India,1750,28.61,77.21,0.438,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Old Castille,1752,42.34,-3.7,0.525,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,England & Wales,1759,51.51,-0.13,0.459,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,France,1788,48.86,2.35,0.55,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Nueva España,1790,19.43,-99.13,0.635,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,England & Wales,1801,51.51,-0.13,0.512,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Bihar (India),1807,25.59,85.14,0.331,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Netherlands,1808,52.37,4.9,0.565,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Naples,1811,40.85,14.27,0.285,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Chile,1861,-33.45,-70.67,0.636,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Brazil,1872,-15.79,-47.88,0.432,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Peru,1876,-12.04,-77.03,0.477,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,China,1880,39.9,116.41,0.234,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Java,1880,-6.2,106.82,0.394,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Japan,1886,35.68,139.76,0.397,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Java,1924,-6.2,106.82,0.325,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,Siam,1929,13.76,100.52,0.466,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,British India,1947,28.61,77.21,0.487,,https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf
+,,,England & Wales,1688,51.51,-0.13,0.47,0.94,"https://scholar.harvard.edu/files/jwilliamson/files/ancient_inequality_june-2008.pdf , https://ies.keio.ac.jp/upload/20190712appliedpaper.pdf"
+,Cayonu,,,-9850,38.23,40.24,,0.14,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Gilgal,,,-9250,32,35.46,,0.15,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Cayonu,,,-8585,38.23,40.24,,0.09,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Asikli Hoyuk,,,-7750,38.35,34.23,,0.25,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Nahal Oren,,,-7750,32.71,34.98,,0.24,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Canhasan,,,-7125,37.2,33.25,,0.21,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Cayonu,,,-6850,38.23,40.24,,0.15,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Bouqras,,,-6800,35.03,40.35,,0.17,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6650,37.67,32.83,,0.11,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Cayonu,,,-6650,38.23,40.24,,0.42,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6550,37.67,32.83,,0.24,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6475,37.67,32.83,,0.32,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6425,37.67,32.83,,0.31,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6350,37.67,32.83,,0.35,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Cayonu,,,-6350,38.23,40.24,,0.39,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6250,37.67,32.83,,0.24,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Catalhoyuk,,,-6150,37.67,32.83,,0.3,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Beidha,,,-5750,30.38,35.45,,0.14,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell es-Sawwan,,,-5292,34.1,43.88,,0.09,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Khirokitia,,,-5150,34.8,33.34,,0.23,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tepe Gawra,,,-4400,36.48,43.26,,0.36,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Gabuba Kabira,,,-3500,36.14,38.12,,0.35,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Sidon-Dakerman,,,-3300,33.55,35.37,,0.22,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Yiftahel,,,-3300,32.75,35.23,,0.33,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell al-Raqa'i,,,-2750,36.44,40.79,,0.23,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Asmar,,,-2350,33.75,44.75,,0.46,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Taya,,,-2350,36.18,42.67,,0.17,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Halawa,,,-2250,36.03,38.17,,0.18,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Selenkahiye,,,-2250,36.05,38.13,,0.31,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Asmar,,,-2200,33.75,44.75,,0.37,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Marki Alonia,,,-2125,35.01,33.32,,0.22,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Be'er Resisim,,,-2100,30.9,34.62,,0.37,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Marki Alonia,,,-2050,35.01,33.32,,0.22,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Marki Alonia,,,-2025,35.01,33.32,,0.26,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Marki Alonia,,,-1925,35.01,33.32,,0.34,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Marki Alonia,,,-1900,35.01,33.32,,0.31,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Kultepe-Kanesh,,,-1863.5,38.85,35.64,,0.64,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Ur,,,-1791.5,30.96,46.1,,0.61,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Haradum,,,-1648,34.33,42.14,,0.37,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Nuzi,,,-1450,35.37,44.25,,0.67,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Ugarit,,,-1205,35.6,35.78,,0.61,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Sabi Abyad,,,-1189,36.53,38.97,,0.38,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Kerkenes Dag,,,-1178,39.75,35.08,,0.48,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Khirbet al-Lahun,,,-1150,31.48,35.8,,0.29,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Masos,,,-1100,31.21,34.96,,0.18,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell el-Far'ah,,,-950,32.29,35.33,,0.13,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell en-Nasbeh,,,-935,31.88,35.22,,0.23,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Beer-Sheba,,,-850,31.24,34.84,,0.21,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Beer-Sheba,,,-850,31.24,34.84,,0.2,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Zincirli Hoyuk,,,-775,37.1,36.68,,0.75,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Beer-Sheba,,,-757.5,31.24,34.84,,0.3,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell es Sa'idyeh,,,-727.5,32.27,35.61,,0.02,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Beer-Sheba,,,-710.5,31.24,34.84,,0.33,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+,Tell Beit Mirsim,,,-700,31.46,34.91,,0.2,https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/abs/wealth-inequality-in-the-ancient-near-east-a-preliminary-assessment-using-gini-coefficients-and-household-size/26E4D7CF79B5CEAEE7CDE5ED9C75E8ED
+Jerf el Ahmar,,,,-9000,36.44,38.18,,0.22,https://www.nature.com/articles/nature24646
+Çatalhöyük,,,,-6500,37.67,32.83,,0.3,https://www.nature.com/articles/nature24646
+Zhaobaogou,,,,-6000,42.27,119.5,,0.28,https://www.nature.com/articles/nature24646
+Nantanzi,,,,-5000,40.23,114.67,,0.22,https://www.nature.com/articles/nature24646
+Homstad-Homle 1A,,,,-4000,59.3,11.1,,0.26,https://www.nature.com/articles/nature24646
+Tepe Gawra,,,,-4000,36.48,43.26,,0.36,https://www.nature.com/articles/nature24646
+Jianxi,,,,-3000,34.65,112.4,,0.35,https://www.nature.com/articles/nature24646
+,,,S. Mesopotamia Early Dyn,-2800,31.32,45.63,,0.45,https://www.nature.com/articles/nature24646
+Bayinchanghan,,,,-2500,43.6,118.05,,0.32,https://www.nature.com/articles/nature24646
+Yinjiacheng,,,,-2500,35.65,117.27,,0.26,https://www.nature.com/articles/nature24646
+,,,Old Babylonian,-1800,32.54,44.42,,0.55,https://www.nature.com/articles/nature24646
+San Jose Mogote,,,,-1200,17.17,-96.81,,0.38,https://www.nature.com/articles/nature24646
+Bridge River 2,,,,-1000,50.72,-121.93,,0.23,https://www.nature.com/articles/nature24646
+Dadwan,,,,-1000,35.01,105.92,,0.48,https://www.nature.com/articles/nature24646
+Kung San,,,,-1000,-19.96,21.36,,0.22,https://www.nature.com/articles/nature24646
+Heuneburg (Va1),,,,-600,48.05,9.41,,0.38,https://www.nature.com/articles/nature24646
+Pompeii,,,,100,40.75,14.49,,0.58,https://www.nature.com/articles/nature24646
+Caracol,,,,500,16.76,-89.12,,0.42,https://www.nature.com/articles/nature24646
+CMV PII,,,,500,37.25,-108.49,,0.48,https://www.nature.com/articles/nature24646
+Grewe EP,,,,500,32.99,-111.53,,0.47,https://www.nature.com/articles/nature24646
+Ozette,,,,500,48.15,-124.73,,0.2,https://www.nature.com/articles/nature24646
+Teotihuacan,,,,500,19.69,-98.84,,0.35,https://www.nature.com/articles/nature24646
+Tikal,,,,500,17.22,-89.62,,0.55,https://www.nature.com/articles/nature24646
+,,,Cahokia-Stirling,1000,38.65,-90.06,,0.58,https://www.nature.com/articles/nature24646
+,,Classic Oaxaca,,1500,17.04,-96.77,,0.5,https://www.nature.com/articles/nature24646
+Tenochtitlan,,,,1500,19.43,-99.13,,0.55,https://www.nature.com/articles/nature24646
+Cuexcomate,,,,1800,18.81,-99.05,,0.5,https://www.nature.com/articles/nature24646
+Kahun,,,,1800,29.23,30.97,,0.65,https://www.nature.com/articles/nature24646
+,"Achiotal ""polity""",,,-150,17.58,-90.15,,0.63,https://www.cambridge.org/core/journals/ancient-mesoamerica/article/gini-coefficient-at-la-corona-the-impacts-of-variation-in-analytical-unit-and-aggregation-scale/33DAA551C4B8C8E08D1288C96338A977
+,"La Corona ""monumental core""",,,750,17.52,-90.04,,0.61,https://www.cambridge.org/core/journals/ancient-mesoamerica/article/gini-coefficient-at-la-corona-the-impacts-of-variation-in-analytical-unit-and-aggregation-scale/33DAA551C4B8C8E08D1288C96338A977
+,"La Corona ""polity""",,,750,17.52,-90.04,,0.54,https://www.cambridge.org/core/journals/ancient-mesoamerica/article/gini-coefficient-at-la-corona-the-impacts-of-variation-in-analytical-unit-and-aggregation-scale/33DAA551C4B8C8E08D1288C96338A977
+,"La Corona ""rural community""",,,750,17.52,-90.04,,0.56,https://www.cambridge.org/core/journals/ancient-mesoamerica/article/gini-coefficient-at-la-corona-the-impacts-of-variation-in-analytical-unit-and-aggregation-scale/33DAA551C4B8C8E08D1288C96338A977
+,Quedlinburg,,,1300,51.79,11.14,,0.45,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Überlingen,,,1300,47.77,9.16,,0.44,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1350,51.16,10.45,,0.66,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Daasdorf (Buttelst.),,,1350,51.07,11.35,,0.72,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Esslingen,,,1350,48.74,9.31,,0.75,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Frankfurt a. M.,,,1350,50.11,8.68,,0.72,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Lübeck,,,1350,53.87,10.69,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,München,,,1350,48.14,11.58,,0.65,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schwäbisch Hall,,,1350,49.11,9.74,,0.78,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1400,51.16,10.45,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Konstanz,,,1400,47.66,9.18,,0.74,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Mühlhausen Suburbs,,,1400,51.21,10.45,,0.58,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Neustadt (Meckl.),,,1400,53.38,11.58,,0.29,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Überlingen,,,1400,47.77,9.16,,0.4,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1450,51.16,10.45,,0.56,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Boizenburg (Meckl.),,,1450,53.37,10.72,,0.23,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Esslingen,,,1450,48.74,9.31,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Flensburg,,,1450,54.78,9.44,,0.5,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Frankfurt a. M.,,,1450,50.11,8.68,,0.75,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Gadebusch (Meckl.),,,1450,53.7,11.12,,0.3,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1450,50.3,10.47,,0.5,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Lübeck,,,1450,53.87,10.69,,0.58,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Mühlhausen Suburbs,,,1450,51.21,10.45,,0.63,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,München,,,1450,48.14,11.58,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Neustadt (Meckl.),,,1450,53.38,11.58,,0.28,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Quedlinburg,,,1450,51.79,11.14,,0.4,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Rostock,,,1450,54.09,12.13,,0.63,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schötmar (Lippe),,,1450,52.07,8.76,,0.44,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schwäbisch Hall,,,1450,49.11,9.74,,0.78,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1500,51.16,10.45,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Augsburg,,,1500,48.37,10.9,,0.48,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Boizenburg (Meckl.),,,1500,53.37,10.72,,0.2,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Deuchelried,,,1500,47.7,9.85,,0.45,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Gadebusch (Meckl.),,,1500,53.7,11.12,,0.35,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1500,50.3,10.47,,0.53,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Mühlhausen Suburbs,,,1500,51.21,10.45,,0.65,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Neustadt (Meckl.),,,1500,53.38,11.58,,0.26,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schötmar (Lippe),,,1500,52.07,8.76,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wangen,,,1500,47.68,9.83,,0.5,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1550,51.16,10.45,,0.64,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Boizenburg (Meckl.),,,1550,53.37,10.72,,0.28,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Deuchelried,,,1550,47.7,9.85,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Esslingen,,,1550,48.74,9.31,,0.78,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Flensburg,,,1550,54.78,9.44,,0.65,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Frankfurt a. M.,,,1550,50.11,8.68,,0.75,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Gadebusch (Meckl.),,,1550,53.7,11.12,,0.38,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1550,50.3,10.47,,0.58,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Konstanz,,,1550,47.66,9.18,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Lübeck,,,1550,53.87,10.69,,0.67,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Mühlhausen Suburbs,,,1550,51.21,10.45,,0.8,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,München,,,1550,48.14,11.58,,0.65,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Neustadt (Meckl.),,,1550,53.38,11.58,,0.27,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Quedlinburg,,,1550,51.79,11.14,,0.53,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Rostock,,,1550,54.09,12.13,,0.62,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schötmar (Lippe),,,1550,52.07,8.76,,0.65,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schwäbisch Hall,,,1550,49.11,9.74,,0.77,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Überlingen,,,1550,47.77,9.16,,0.53,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1600,51.16,10.45,,0.68,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Augsburg,,,1600,48.37,10.9,,0.85,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Boizenburg (Meckl.),,,1600,53.37,10.72,,0.5,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Cappeln (Teckl.),,,1600,52.32,7.88,,0.43,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Deuchelried,,,1600,47.7,9.85,,0.65,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Gadebusch (Meckl.),,,1600,53.7,11.12,,0.4,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1600,50.3,10.47,,0.63,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Neustadt (Meckl.),,,1600,53.38,11.58,,0.29,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Quedlinburg,,,1600,51.79,11.14,,0.4,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schötmar (Lippe),,,1600,52.07,8.76,,0.75,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wangen,,,1600,47.68,9.83,,0.58,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wildberg,,,1600,48.62,8.75,,0.63,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1650,51.16,10.45,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Cappeln (Teckl.),,,1650,52.32,7.88,,0.4,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Deuchelried,,,1650,47.7,9.85,,0.63,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Esslingen,,,1650,48.74,9.31,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Flensburg,,,1650,54.78,9.44,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Frankfurt a. M.,,,1650,50.11,8.68,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1650,50.3,10.47,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Konstanz,,,1650,47.66,9.18,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Lübeck,,,1650,53.87,10.69,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,München,,,1650,48.14,11.58,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Rostock,,,1650,54.09,12.13,,0.62,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schwäbisch Hall,,,1650,49.11,9.74,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Überlingen,,,1650,47.77,9.16,,0.45,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wildberg,,,1650,48.62,8.75,,0.53,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1700,51.16,10.45,,0.58,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Augsburg,,,1700,48.37,10.9,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Cappeln (Teckl.),,,1700,52.32,7.88,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Deuchelried,,,1700,47.7,9.85,,0.3,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1700,50.3,10.47,,0.58,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schötmar (Lippe),,,1700,52.07,8.76,,0.68,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wangen,,,1700,47.68,9.83,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wildberg,,,1700,48.62,8.75,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1750,51.16,10.45,,0.57,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Esslingen,,,1750,48.74,9.31,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Flensburg,,,1750,54.78,9.44,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Frankfurt a. M.,,,1750,50.11,8.68,,0.72,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Hasloch (Wertheim),,,1750,49.8,9.5,,0.35,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Konstanz,,,1750,47.66,9.18,,0.73,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Lübeck,,,1750,53.87,10.69,,0.5,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schwäbisch Hall,,,1750,49.11,9.74,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,,,Germany,1800,51.16,10.45,,0.59,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Augsburg,,,1800,48.37,10.9,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Cappeln (Teckl.),,,1800,52.32,7.88,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Deuchelried,,,1800,47.7,9.85,,0.55,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Frankfurt a. M.,,,1800,50.11,8.68,,0.7,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Hasloch (Wertheim),,,1800,49.8,9.5,,0.5,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Königshofen,,,1800,50.3,10.47,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Schötmar (Lippe),,,1800,52.07,8.76,,0.73,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Wangen,,,1800,47.68,9.83,,0.6,https://www.cambridge.org/core/journals/journal-of-economic-history/article/economic-inequality-in-preindustrial-germany-ca-13001850/9552F32E3BCEA8FEED2B7B42734FC234
+,Kaditshwene,,,1750,-25.33,26.18,,0.661,https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5EF11426C5B6721CB9B067DBB4720E24/S0003598X23001941a.pdf/inequality-or-insecurity-the-case-of-pre-colonial-farming-communities-in-southern-africa.pdf
+,Marothodi,,,1750,-25.29,27.08,,0.4013,https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5EF11426C5B6721CB9B067DBB4720E24/S0003598X23001941a.pdf/inequality-or-insecurity-the-case-of-pre-colonial-farming-communities-in-southern-africa.pdf
+,Molokwane,,,1750,-25.68,27.2,,0.4805,https://www.cambridge.org/core/services/aop-cambridge-core/content/view/5EF11426C5B6721CB9B067DBB4720E24/S0003598X23001941a.pdf/inequality-or-insecurity-the-case-of-pre-colonial-farming-communities-in-southern-africa.pdf
+,Farmana,,,-2250,29.02,76.28,,0.496,https://www.heritageuniversityofkerala.com/JournalPDF/Volume10/1.pdf
+,Kalibangan,,,-2250,29.47,74.13,,0.498,https://www.heritageuniversityofkerala.com/JournalPDF/Volume10/1.pdf
+,Lothal,,,-2250,22.52,72.25,,0.769,https://www.heritageuniversityofkerala.com/JournalPDF/Volume10/1.pdf
+,Rakhigarhi,,,-2250,29.27,76.11,,0.465,https://www.heritageuniversityofkerala.com/JournalPDF/Volume10/1.pdf
+,,American Southwest,,800,34.5,-111.5,,0.52,https://www.journals.uchicago.edu/doi/abs/10.1086/687982
+,,Bingzhou (north-central),,2,37.87,112.55,0.537,,https://www.nature.com/articles/s41467-025-58581-0
+,,Jiaozhi (far south),,2,21.03,105.85,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Jingzhou,,2,30.33,112.23,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Jizhou,,2,36.31,114.39,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Liangzhou (northwest),,2,37.93,102.64,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Qingzhou,,2,36.83,118.31,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Shuzhou (Sichuan region),,2,30.66,104.06,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,"Sili (central, capital)",,2,34.66,112.44,0.612,,https://www.nature.com/articles/s41467-025-58581-0
+,,Xuzhou,,2,34.26,117.18,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Yangzhou,,2,32.39,119.42,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Yanzhou,,2,35.34,115.57,0.462,,https://www.nature.com/articles/s41467-025-58581-0
+,,Yongzhou (central-west),,2,34.27,108.94,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Yuzhou,,2,34.03,113.82,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Achaea,,165,37.94,22.93,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Aegyptus,,165,31.2,29.92,0.462,,https://www.nature.com/articles/s41467-025-58581-0
+,,Africa Proconsularis,,165,36.85,10.33,0.462,,https://www.nature.com/articles/s41467-025-58581-0
+,,Asia,,165,37.94,27.34,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Bithynia et Pontus,,165,40.76,29.92,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Britannia,,165,51.51,-0.13,0.312,,https://www.nature.com/articles/s41467-025-58581-0
+,,Cappadocia,,165,38.73,35.48,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Cilicia,,165,36.92,34.9,0.387,,https://www.nature.com/articles/s41467-025-58581-0
+,,Cyrenaica,,165,32.82,21.86,0.462,,https://www.nature.com/articles/s41467-025-58581-0
+,,Galatia,,165,39.93,32.86,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Gallia,,165,45.76,4.83,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Germania,,165,50.94,6.96,0.337,,https://www.nature.com/articles/s41467-025-58581-0
+,,Hispania,,165,41.12,1.25,0.387,,https://www.nature.com/articles/s41467-025-58581-0
+,,Illyricum,,165,43.54,16.48,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Italia,,165,41.9,12.5,0.587,,https://www.nature.com/articles/s41467-025-58581-0
+,,Judaea,,165,32.5,34.9,0.387,,https://www.nature.com/articles/s41467-025-58581-0
+,,Macedonia,,165,40.64,22.94,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,,Mauretania Caesariensis,,165,36.61,2.19,0.462,,https://www.nature.com/articles/s41467-025-58581-0
+,,Mauretania Tingitana,,165,35.76,-5.8,0.387,,https://www.nature.com/articles/s41467-025-58581-0
+,,Syria,,165,36.2,36.16,0.387,,https://www.nature.com/articles/s41467-025-58581-0
+,,Thracia,,165,42.15,24.75,0.412,,https://www.nature.com/articles/s41467-025-58581-0
+,Aşıklı Höyük,,,-7800,38.35,34.23,,0.252,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Canhasan III,,,-6250,37.2,33.25,,0.271,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Jiangzhai,,,-4000,34.38,109.21,,0.14,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Nebelivka,,,-3800,48.62,30.58,,0.232,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Arad,,,-3000,31.28,35.12,,0.488,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Caral,,,-2500,-10.89,-77.52,,0.413,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Mohenjo-daro,,,-2250,27.33,68.13,,0.459,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Mohenjo-daro,,,-2250,27.33,68.13,,0.227,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell al-Raqā‘i,,,-2250,36.44,40.79,,0.231,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Ur,,,-2050,30.96,46.1,,0.703,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell Asmar,,,-1950,33.75,44.75,,0.489,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Haradum,,,-1800,34.33,42.14,,0.311,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell Halawa A,,,-1800,36.03,38.17,,0.379,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-46, Canada (BC)",,,-1500,54.24,-130.38,,0.16,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-78, Canada (BC)",,,-1500,54.31,-130.46,,0.113,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gc-To-9, Canada (BC)",,,-1500,54.33,-130.35,,0.065,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Nuzi,,,-1425,35.37,44.25,,0.272,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Ugarit,,,-1300,35.6,35.78,,0.282,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell Bazi,,,-1250,36.43,38.28,,0.282,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell Masos,,,-1100,31.21,34.97,,0.197,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-89, Canada (BC)",,,-1000,54.33,-130.46,,0.137,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-9, Canada (BC)",,,-1000,54.33,-130.35,,0.078,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gc-To-52, Canada (BC)",,,-1000,54.36,-130.47,,0.091,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"SAS 35, Alaska (USA)",,,-1000,57.1,-153.24,,0.158,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"SAS 9, Alaska (USA)",,,-1000,57.1,-153.24,,0.105,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Daepyeongni,,,-900,35.22,127.96,,0.216,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Gwanchangni,,,-900,36.38,126.58,,0.28,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Assur,,,-750,35.46,43.26,,0.49,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Beer-Sheba,,,-750,31.24,34.84,,0.334,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell Beit Mirsim,,,-750,31.46,34.91,,0.179,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell en-Nasbeh,,,-750,31.89,35.22,,0.197,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tell Mastuma,,,-750,35.88,36.63,,0.304,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Khonkho,,,-500,-16.81,-68.67,,0.133,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Wankane,,,-500,-16.81,-68.67,,0.117,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Pompeii, Italy",,,100,40.75,14.49,,0.607,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"St Albans Early, Great Britain",,,100,51.75,-0.36,,0,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"St Albans Initial, Great Britain",,,100,51.75,-0.36,,0,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Camp Ground, Great Britain",,,250,52.38,0.02,,0.462,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Cirencester (Middle), Great Britain",,,250,51.71,-1.96,,0.125,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Ostia, Italy",,,250,41.76,12.29,,0.266,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Silchester, Great Britain",,,250,51.36,-1.08,,0.328,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Cirencester (Late), Great Britain",,,350,51.71,-1.96,,0.272,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"St Albans Late, Great Britain",,,350,51.75,-0.36,,0.273,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"El Palmillo, Mexico",,,600,16.87,-96.36,,0.332,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Gallindo,,,600,-8.08,-78.91,,0.888,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Jach’a Pucara,,,700,-19.79,-67.72,,0.197,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Jirira,,,700,-19.85,-67.55,,0.198,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Loma Bajala,,,700,-19.82,-67.74,,0.171,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Murmuntani,,,700,-19.81,-67.75,,0.291,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Tastil,,,700,-24.45,-65.96,,0.224,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Colha, Belize",,,750,17.97,-88.37,,0.574,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"El Caoba, Honduras",,,750,16.47,-90.6,,0.317,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Sayil, Mexico",,,750,20.18,-89.65,,0.392,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Tikal, Guatemala",,,750,17.22,-89.62,,0.513,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Uxbenká, Belize",,,750,16.24,-89.07,,0.301,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Altar de Sacrificios, Guatemala",,,800,16.48,-90.52,,0.26,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"El Pabellon, Guatemala",,,800,16.47,-90.55,,0.371,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"El Trapiche, Guatemala",,,800,16.49,-90.54,,0.378,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Ix Kuku’il, Belize",,,800,16.27,-89.13,,0.356,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Ixcoche, Guatemala",,,800,16.48,-90.58,,0.406,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Los Peurquitos, Guatemala",,,800,16.46,-90.5,,0.254,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Mitla Fortress, Mexico",,,800,16.93,-96.18,,0.352,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Omo M12,,,800,-17.24,-70.98,,0.337,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Vega de la Pista, Mexico",,,800,16.5,-90.61,,0.333,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Xochicalco, Mexico",,,800,18.8,-99.3,,0.277,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"CA1030, United States",,,970,43.55,-105.29,,0.198,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"5 mi. W of Big Bead, USA",,,1000,35.49,-107.31,,0.12,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"CA89, United States",,,1000,43.92,-105.42,,0.158,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"John H. Faust (Moorehead), USA",,,1000,38.54,-89.82,,0.039,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Sican,,,1000,-6.47,-79.79,,0.523,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Big Bead Mesa, USA",,,1300,35.49,-107.22,,0.126,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Cerro Prieto, USA",,,1300,32.53,-111.42,,0.126,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"J. Sprague (Lohman), USA",,,1300,38.54,-89.82,,0.167,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"J. Sprague (Moorehead), USA",,,1300,38.54,-89.82,,0,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"John H. Faust (Stirling), USA",,,1300,38.54,-89.82,,0.044,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Meddler Point, USA",,,1300,33.63,-110.95,,0.203,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Orayvi, USA",,,1300,35.88,-110.64,,0.322,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Stirling, USA",,,1300,38.66,-90.06,,0.073,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Huanuco Pampa,,,1450,-9.87,-76.82,,0.524,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,La Huerta,,,1450,-23.46,-65.22,,0.358,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Ollantaytambo,,,1450,-13.26,-72.26,,0.196,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Pucara de Tilcara,,,1450,-23.59,-65.4,,0.301,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-28, Canada (BC)",,,1800,54.27,-130.37,,0.124,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-6, Canada (BC)",,,1800,54.33,-130.34,,0.13,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-7, Canada (BC)",,,1800,54.33,-130.41,,0.169,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gb-To-8, Canada (BC)",,,1800,54.33,-130.34,,0.104,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Gc-To-51, Canada (BC)",,,1800,54.36,-130.48,,0.16,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"Yangoru Boiken, Sima village, PNG",,,1800,-3.62,143.32,,0.15,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,"CO754, United States",,,Unknown,43.34,-106.05,,0.151,https://www.pnas.org/doi/10.1073/pnas.2400699121#supplementary-materials
+,Rostock,,,1410,54.09,12.13,,0.48,https://www.researchgate.net/figure/Long-term-trends-in-wealth-inequality-in-France-Germany-and-Spain-1300-1800_fig2_349907970
+,Rostock,,,1455,54.09,12.13,,0.56,https://www.researchgate.net/figure/Long-term-trends-in-wealth-inequality-in-France-Germany-and-Spain-1300-1800_fig2_349907970
+,Rostock,,,1480,54.09,12.13,,0.61,https://www.researchgate.net/figure/Long-term-trends-in-wealth-inequality-in-France-Germany-and-Spain-1300-1800_fig2_349907970
+,Rostock,,,1552,54.09,12.13,,0.63,https://www.researchgate.net/figure/Long-term-trends-in-wealth-inequality-in-France-Germany-and-Spain-1300-1800_fig2_349907970
+,Rostock,,,1565,54.09,12.13,,0.62,https://www.researchgate.net/figure/Long-term-trends-in-wealth-inequality-in-France-Germany-and-Spain-1300-1800_fig2_349907970
+,,,England and Wales,1801,51.51,-0.13,0.52,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,Bihar (India),,1807,25.59,85.14,0.34,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Netherlands,1808,52.37,4.9,0.57,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,Department of Kalisz,,1810.5,51.76,18.09,0.34,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Kingdom of Naples,1811,40.85,14.27,0.28,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,Warsaw,,,1833,52.23,21.01,0.59,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,United States,1850,38.91,-77.04,0.49,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Prussia,1852,52.52,13.4,0.38,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Chile,1860,-33.45,-70.67,0.47,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Brazil,1872,-15.79,-47.88,0.43,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Peru,1876,-12.04,-77.03,0.42,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,China,1880,39.9,116.41,0.25,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,Java,,1880,-6.2,106.82,0.4,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,Maghreb,,1880,36.75,3.06,0.57,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,European Russia,,1904,55.75,37.62,0.36,,https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906https://www.researchgate.net/figure/ncome-inequality-in-the-19th-century-Gini-index_fig2_357027906
+,,,Britain,-800,51.51,-0.13,,0.32,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Italy,-350,41.9,12.5,,0.5,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,0,41.9,12.5,0.2,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Britain,43,51.51,-0.13,,0.52,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,150,41.9,12.5,0.41,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,300,41.9,12.5,0.14,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,400,41.9,12.5,0.125,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,500,41.9,12.5,0.13,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,525,41.9,12.5,0.135,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,615,41.9,12.5,0.115,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Roman Empire,700,41.9,12.5,0.08,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Iraq,900,33.31,44.36,0.59,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Byzantine Empire,1000,41.01,28.98,0.42,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Britain,1066,51.51,-0.13,,0.4,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,England and Wales,1300,51.51,-0.13,,0.37,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1300,45.07,7.69,,0.71,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Chieri,,,1311,45.01,7.82,,0.715,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Toulouse,,,1311,43.6,1.44,,0.752,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Prato,,,1325,43.88,11.1,,0.703,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1338,43.47,11.15,,0.53,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1350,45.07,7.69,,0.66,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1360,43.47,11.15,,0.475,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1365,43.47,11.15,,0.395,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Prato,,,1372,43.88,11.1,,0.591,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1380,43.47,11.15,,0.465,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1395,43.47,11.15,,0.46,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1400,43.77,11.26,,0.65,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Lodeve,,,1400,43.73,3.32,,0.575,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1400,43.47,11.15,,0.53,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1400,45.07,7.69,,0.62,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1400,45.44,12.32,,0.63,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Cervera,,,1412,41.67,1.27,,0.53,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Chieri,,,1437,45.01,7.82,,0.669,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Toulouse,,,1437,43.6,1.44,,0.606,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1450,43.77,11.26,,0.625,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1450,45.07,7.69,,0.605,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1450,45.44,12.32,,0.65,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1460,43.47,11.15,,0.52,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1498,48.37,10.9,,0.69,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1500,52.37,4.9,,0.49,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1500,45.57,5.92,,0.61,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1500,43.77,11.26,,0.655,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1500,43.47,11.15,,0.57,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1500,45.07,7.69,,0.65,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1500,45.44,12.32,,0.62,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Cervera,,,1504,41.67,1.27,,0.64,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1515,48.37,10.9,,0.78,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Lodeve,,,1520,43.73,3.32,,0.65,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1525,48.37,10.9,,0.86,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1540,48.37,10.9,,0.87,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1540,43.47,11.15,,0.56,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Belgium,1550,50.85,4.35,,0.515,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1550,52.37,4.9,,0.56,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1550,45.57,5.92,,0.62,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1550,43.77,11.26,,0.66,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1550,45.07,7.69,,0.66,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1550,45.44,12.32,,0.71,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1555,48.37,10.9,,0.885,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1556,48.37,10.9,,0.91,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1568,43.47,11.15,,0.66,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1575,48.37,10.9,,0.9,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Lodeve,,,1580,43.73,3.32,,0.715,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1585,48.37,10.9,,0.905,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Belgium,1600,50.85,4.35,,0.53,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1600,52.37,4.9,,0.58,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1600,45.57,5.92,,0.67,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1600,43.77,11.26,,0.735,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,Apulia,,1600,41.13,16.85,,0.73,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1600,45.07,7.69,,0.675,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1600,45.44,12.32,,0.705,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1602,48.37,10.9,,0.907,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1620,48.37,10.9,,0.91,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1625,43.47,11.15,,0.66,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Lodeve,,,1626,43.73,3.32,,0.72,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1634,48.37,10.9,,0.885,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1648,48.37,10.9,,0.83,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Cervera,,,1648,41.67,1.27,,0.645,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Belgium,1650,50.85,4.35,,0.52,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1650,52.37,4.9,,0.595,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1650,45.57,5.92,,0.685,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1650,43.77,11.26,,0.755,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,Apulia,,1650,41.13,16.85,,0.735,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1650,45.07,7.69,,0.73,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1650,45.44,12.32,,0.73,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1655,48.37,10.9,,0.805,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1660,48.37,10.9,,0.81,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1675,48.37,10.9,,0.795,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Lodeve,,,1697,43.73,3.32,,0.62,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Belgium,1700,50.85,4.35,,0.55,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,England and Wales,1700,51.51,-0.13,,0.54,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1700,52.37,4.9,,0.62,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1700,45.57,5.92,,0.72,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1700,43.77,11.26,,0.82,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,Apulia,,1700,41.13,16.85,,0.775,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1700,45.07,7.69,,0.755,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1700,45.44,12.32,,0.77,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1701,48.37,10.9,,0.815,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1710,48.37,10.9,,0.81,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1710,43.47,11.15,,0.75,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Augsburg,,,1725,48.37,10.9,,0.84,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Lodeve,,,1730,43.73,3.32,,0.635,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Belgium,1750,50.85,4.35,,0.57,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,England and Wales,1750,51.51,-0.13,0.525,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1750,52.37,4.9,,0.63,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Poland,1750,52.23,21.01,,0.45,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1750,45.57,5.92,,0.75,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Tuscany,1750,43.77,11.26,,0.85,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,Apulia,,1750,41.13,16.85,,0.81,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,Palencia,,1750,42.01,-4.52,0.485,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1750,45.07,7.69,,0.75,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1750,45.44,12.32,,0.725,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Thirteen Colonies,1774,39.95,-75.16,0.441,,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Thirteen Colonies,1774,39.95,-75.16,,0.694,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Poggibonsi,,,1780,43.47,11.15,,0.755,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Belgium,1800,50.85,4.35,,0.59,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,England and Wales,1800,51.51,-0.13,,0.59,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Netherlands,1800,52.37,4.9,,0.63,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Poland,1800,52.23,21.01,,0.472,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,Savoy,1800,45.57,5.92,,0.78,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,,United States,1800,38.91,-77.04,,0.455,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Turin,,,1800,45.07,7.69,,0.78,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,Venice,,,1800,45.44,12.32,,0.74,https://www.researchgate.net/figure/ncome-inequality-in-the-Roman-Empire-14-700-Gini-indexes_fig1_349907970
+,,Voivodeship of Krakow,,1576,50.06,19.94,0.51,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Krakow,,,1576,50.06,19.94,0.48,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Czestochowa,,,1810.5,50.81,19.12,0.2699,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Kalisz,,,1810.5,51.76,18.09,0.5351,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Konin,,,1810.5,52.22,18.25,0.3012,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Odalanow,,,1810.5,51.57,17.67,0.2991,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Ostrzeszow,,,1810.5,51.41,17.92,0.2775,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Piotrkow,,,1810.5,51.4,19.7,0.347,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Radomsko,,,1810.5,51.07,19.44,0.2732,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Sieradz,,,1810.5,51.59,18.73,0.3071,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Szadek,,,1810.5,51.69,18.98,0.296,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Warta,,,1810.5,51.71,18.63,0.3608,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,Wielun,,,1810.5,51.22,18.57,0.32,,https://www.researchgate.net/profile/Marcin-Wronski-2/publication/357027906_Income_inequality_in_the_Duchy_of_Warsaw/links/638b9a712c563722f235825e/Income-inequality-in-the-Duchy-of-Warsaw.pdf?origin=publication_detail&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uRG93bmxvYWQiLCJwcmV2aW91c1BhZ2UiOiJwdWJsaWNhdGlvbiJ9fQ
+,,Carpathian Basin,,-6000,47.49,19.04,,0.33,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-5500,47.49,19.04,,0.28,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-5000,47.49,19.04,,0.3,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-4500,47.49,19.04,,0.32,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-4000,47.49,19.04,,0.38,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-3000,47.49,19.04,,0.34,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-2000,47.49,19.04,,0.3,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-1500,47.49,19.04,,0.32,https://www.researchsquare.com/article/rs-4844801/v1
+,,Carpathian Basin,,-1000,47.49,19.04,,0.35,https://www.researchsquare.com/article/rs-4844801/v1
+,,,Chile,1900,-33.45,-70.67,0.63,,Rodriguez Weber (2014)
+,,,Chile,1920,-33.45,-70.67,0.6,,Rodriguez Weber (2014)
+,,,Colombia,1870,4.71,-74.07,0.58,,Rodriguez Weber (2017)
+,,,Colombia,1910,4.71,-74.07,0.64,,Rodriguez Weber (2017)
+,,,Early Dynastic Ur,-2600,30.96,46.1,,0.8,Stone 2018
+,,,Akkadian Ur,-2300,30.96,46.1,,0.8,Stone 2018
+,,,Old Babylonian Ur,-1800,30.96,46.1,,0.88,Stone 2018
+,,,Neo Babylonian Ur,-600,30.96,46.1,,0.88,Stone 2018
+,,,Ivory Coast,1830,6.82,-5.28,0.52,,Tadei & Alfani (2019)
+,,,Ivory Coast,1860,6.82,-5.28,0.35,,Tadei & Alfani (2019)
+,,,Ivory Coast,1930,6.82,-5.28,0.52,,Tadei & Alfani (2019)
+,,,Senegal,1930,14.72,-17.47,0.36,,Tadei & Alfani (2019)
+,,,Ivory Coast,1940,6.82,-5.28,0.43,,Tadei & Alfani (2019)
