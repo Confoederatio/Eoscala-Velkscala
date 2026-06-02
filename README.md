@@ -109,7 +109,9 @@ Post-1800 Gini was sourced from [Gapminder Gini v3](https://www.gapminder.org/da
 
 ## Velkscala:
 
-Velkscala's file directories are contained within `./velkscala/`, and follow a HYDE naming scheme. Note that a `_number.png` prefix denotes a raw integer raster file, and `_percentage.png` denotes a relative percentage raster file, where the g channel contains percentile values in 0,5%-step resolution. 0AD is used in place of 1AD. Non-demographic land-use data is sourced from [HYDE3.3](https://geo.public.data.uu.nl/vault-hyde/HYDE%203.3[1710493486]/original/hyde33_c7_lower_mrt2023/zip/). Demographic data was based on city populations from Stadestér/Velkscala fallback modelling. For pre-Columbian population modelling in the Americas, see <ins>Project Centaur</ins>.
+Velkscala's file directories are contained within `./velkscala/`, and follow a HYDE naming scheme. Note that a `_number.png` prefix denotes a raw integer raster file, and `_percentage.png` denotes a relative percentage raster file, where the g channel contains percentile values in 0,5%-step resolution. 0AD is used in place of 1AD. 
+
+Non-demographic land-use data is sourced from [HYDE3.3](https://geo.public.data.uu.nl/vault-hyde/HYDE%203.3[1710493486]/original/hyde33_c7_lower_mrt2023/zip/). Demographic data was based on city populations from Stadestér/Velkscala fallback modelling. For pre-Columbian population modelling in the Americas, see <ins>Project Centaur</ins>.
 
 ALCC data was geometrically averaged over the domain of KK10/LUH2, and was used for demographic fallback modelling in HYDE outlier regions.
 
