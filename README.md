@@ -2,7 +2,7 @@
 
 ![](https://i.postimg.cc/P5ncBfd9/eoscala-gdp-ppp-1850-visualisation.png)
 
-### <div align = "center">Global Economic and Population Data, 10000BC-2023AD.</div>
+### <div align = "center">Global Economic and Population Data, 10000BC-2025AD.</div>
 <div align = "center">Figure 1. GDP (PPP) in FY2000 International Dollars, 100s in AD1850.</div>
 
 <div align = "center">-</div>
