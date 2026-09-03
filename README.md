@@ -29,14 +29,16 @@ This database is subject to future routine updates to improve model and data acc
 
 Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. In addition, the following variables have been modelled internally but have not yet been released, pending detailed methodology publications.
 
-- GDP Nominal
-- GDP per capita (nominal)
-- GDP per capita (PPP)
-- Gini, spatialised composite (weighted wealth/income Gini)
-- Net income
-  - Disposable income
-  - Discretionary income
-- Net wealth
+- `GDP_nominal`: GDP (nominal)
+- `GDP_pc`: GDP per capita (nominal)
+- `GDP_PPP_pc`: GDP per capita (PPP)
+- `gini`: Gini, spatialised composite (weighted wealth/income Gini)
+- `net_income`: Net income
+  - `disposable_income`: Disposable income
+  - `discretionary_income`: Discretionary income
+- `net_wealth`: Net wealth
+
+This includes both 5-arcmin. rasters and national/regional-level aggregates.
 
 **Data & Papers.**
 
