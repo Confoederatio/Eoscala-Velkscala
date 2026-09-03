@@ -23,7 +23,20 @@
 
 Eoscala/Velkscala are twin projects focusing on the global historical modelling of demographic and economic data overtime at a 5-arcminute resolution (4320x2160, WGS84 Equirectangular). These rasters are currently provided at 1000-year intervals from 10000BC to 1AD, at 100-year intervals from 1AD to 1700AD, at 10-year intervals from 1700AD to 1950AD, and at 1-year intervals from 1950AD to 2023AD. Eoscala's data is reliable to 2022AD, and Velkscala's data to 2023AD.
 
-This database is subject to future routine updates to improve model and data accuracy, as well as to expand the scope of available gridded raster data. Make sure to read each release paper for the full methodology. Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. So too are pre-releases for Eoscala 1.4, including GDP PPP, GDP Nominal, as well as Gini. These have been disaggregated and modelled at 5-arcmin resolution over the relevant study domain.
+This database is subject to future routine updates to improve model and data accuracy, as well as to expand the scope of available gridded raster data. Make sure to read each release paper for the full methodology. Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. 
+
+**Data Availability.**
+
+Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. In addition, the following variables have been modelled internally but have not yet been released, pending detailed methodology publications.
+
+- GDP Nominal
+- GDP per capita (nominal)
+- GDP per capita (PPP)
+- Gini, spatialised composite (weighted wealth/income Gini)
+- Net income
+  - Disposable income
+  - Discretionary income
+- Net wealth
 
 **Data & Papers.**
 
