@@ -27,7 +27,7 @@ This database is subject to future routine updates to improve model and data acc
 
 **Data Availability.**
 
-Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. In addition, the following variables have been modelled internally but have not yet been released, pending detailed methodology publications.
+Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. Similarly, the following variables have been modelled internally but have not yet been released, pending detailed methodology publications. Please ask a CRD member if you require them in the meantime.
 
 - `GDP_nominal`: GDP (nominal)
 - `GDP_pc`: GDP per capita (nominal)
