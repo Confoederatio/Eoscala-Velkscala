@@ -89,7 +89,7 @@ Due to different file formats, Gini files have been split into premodern (`gini_
  
 </details>
 <details>
- <summary>Pre-industrial Gini (21500BC-1800AD):</summary>
+ <summary>Pre-industrial Gini (21500BC-1800AD), GINI Project Database and 34 others:</summary>
 
 1. Aboagye & Bolt (2018): [https://doi.org/10.1016/j.eeh.2021.101405](https://doi.org/10.1016/j.eeh.2021.101405)
 2. Alfani (2021): [https://doi.org/10.1257/jel.20191449](https://doi.org/10.1257/jel.20191449)
