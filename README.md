@@ -164,7 +164,12 @@ Relevant model weighting data for Eoscala ML models, including the base OLS HYDE
 
 Regional subdivisions mentioned in papers may be found as follows as unique RGBA-coded ID rasters.
 - [Eoscala Regions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/regional_subdivisions.png)
+- HMD Subdivisions
+- ISO2 Subdivisions
+- ISO3 Subdivisions
 - [McEvedy Subdivisions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/mcevedy_subdivisions.png)
+- SubNGini Subdivisions
 - [World Bank Subdivisions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/world_bank_subdivisions.png)
+- WID Subdivisions
 
 Note that custom subdivisions are currently unavailable, though you can script your own analysis and statistical visualisation functions. R statistical tie-ins are available on the main production repository at [https://github.com/Confoederatio/Eoscala-Velkscala-Production](https://github.com/Confoederatio/Eoscala-Velkscala-Production).
