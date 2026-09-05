@@ -75,7 +75,7 @@ Eoscala's file directories are divided into the following folders:
 - `./eoscala/gini` - Wealth/income Gini coefficients from 21500BC-2018AD. Formatted as geolocated/coded `.csv`.
 - `./eoscala/gdp_ppp_rasters` - Gridmaps reflecting actual GDP PPP per cell, in 100s of FY2000 International Dollars.
 
-In general, Eoscala's economic activity were informed by an OLS model over HYDE-SEDAC (Kummu-extended) stocks from 1990-2015, which were then dasymetrically backcalculated over HYDE for LU and Velkscala for population. Potential economic activity prior to 1800AD were scaled to Maddison and Nordhaus to form GDP PPP, whilst data was scaled to Gapminder post-1800.
+Eoscala's economic activity estimates are informed by bottom-up per capita predictions fitted to timeseries historical estimations from Maddison, Gapminder, WID, Nordhaus/G-Econ, and Kummu et al using a representative agent system. To preserve spatial variance, Turkey log-tail normalisation was used within regional bounds, with population gravity models determining the firmness of historical borders prior to 1800AD, when national data over modern subdivisions becomes consistent.
 
 <ins>Eoscala (Gini).</ins>
 
