@@ -37,12 +37,17 @@ Some input data has been omitted due to GitHub LFS limits; static development im
   - `disposable_income`: Disposable income [1]
   - `discretionary_income`: Discretionary income [1]
 - `net_wealth`: Net wealth [1]
+- Population pyramids: [4]
+  - `f/m_00`: 0-1 years of age, female/male cohorts
+  - `f/m_01`: 1-5 years of age, female/male cohorts
+  - `f/m_05-80`: 5-year incremental female/male age cohorts, ending cohort is `80+`.
 
 This includes both 5-arcmin. rasters and national/regional-level aggregates.
 
 1. Calculated using OLS/interpolated backcalculation over the World Inequality Database, national accounts records, and related covariates with dasymetric constraints.
 2. Calculated based on Nordhaus, Maddison, Gapminder, SEDAC, Kummu et al., and others. Composite series disaggregated using Regularised Least Squares on land use/demographic covariates (HYDE/Velkscala).
 3. Disaggregated from the GINI Project Database, Gapminder/World Inequality Database, SubNGini, and others.
+4. Modelled based on WorldPop, UNWPP, HMD, and Clio-Infra, then backcalculated using multinomial logit.
 
 **Data & Papers.**
 
