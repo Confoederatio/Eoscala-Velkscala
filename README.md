@@ -129,7 +129,7 @@ Due to different file formats, Gini files have been split into premodern (`gini_
 
 </details>
 
-Post-1800 Gini was sourced from [Gapminder Gini v3](https://www.gapminder.org/data/documentation/gini/) and relies on geocoded national extents.
+Post-1800 Gini from 1800-1990 was sourced from [Gapminder Gini v3](https://www.gapminder.org/data/documentation/gini/) and relies on geocoded national extents. From 1990-2023, data from [SubNGini](https://www.nature.com/articles/s41893-025-01689-4) was disaggregated instead.
 
 ## Velkscala:
 
