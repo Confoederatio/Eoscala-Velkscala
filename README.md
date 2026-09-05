@@ -44,7 +44,7 @@ Some input data has been omitted due to GitHub LFS limits; static development im
 
 This includes both 5-arcmin. rasters and national/regional-level aggregates.
 
-1. Calculated using OLS/interpolated backcalculation over the World Inequality Database, national accounts records, and related covariates with dasymetric constraints.
+1. Calculated using rolling RLS and interpolation to the World Inequality Database, national accounts records, and related covariates with dasymetric constraints.
 2. Calculated based on Nordhaus, Maddison, Gapminder, SEDAC, Kummu et al., and others. Composite series disaggregated using Regularised Least Squares on land use/demographic covariates (HYDE/Velkscala).
 3. Disaggregated from the GINI Project Database, Gapminder/World Inequality Database, SubNGini, and others.
 4. Modelled based on WorldPop, UNWPP, HMD, and Clio-Infra, then backcalculated using multinomial logit.
@@ -71,7 +71,7 @@ For ease-of-use, Eoscala/Velkscala uses GeoPNG for its export rasters. These are
 
 Negative years represent BC, and postive years represent AD. 0 is used in place of 1AD.<br>
 Eoscala's file directories are divided into the following folders:
-- `./eoscala/economic_activity_rasters` - Organically modelled OLS-based proxies for potential economic activity at each time interval.
+- `./eoscala/economic_activity_rasters` - Organically modelled RLS-based proxies for potential economic activity at each time interval.
 - `./eoscala/gini` - Wealth/income Gini coefficients from 21500BC-2018AD. Formatted as geolocated/coded `.csv`.
 - `./eoscala/gdp_ppp_rasters` - Gridmaps reflecting actual GDP PPP per cell, in 100s of FY2000 International Dollars.
 
@@ -160,7 +160,7 @@ ALCC data was geometrically averaged over the domain of KK10/LUH2, and was used 
 - `uopp_`: Built-Up Area (km^2/cell)
 - `urbc_`: Urban Population (pop/cell)
 
-Relevant model weighting data for Eoscala ML models, including the base OLS HYDE-SEDAC model, may be found in the `./models/` folder.
+Relevant model weighting data for Eoscala ML models, including the legacy OLS HYDE-SEDAC model, may be found in the `./models/` folder.
 
 Regional subdivisions mentioned in papers may be found as follows as unique RGBA-coded ID rasters.
 - [Eoscala Regions](https://github.com/Confoederatio/Eoscala-Velkscala/blob/main/subdivisions/regional_subdivisions.png)
