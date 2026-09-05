@@ -14,7 +14,7 @@
 - E-mail: [vf@confoederatio.org](mailto:vf@confoederatio.org)
 
 > [!NOTE]
-> De-facto polity extents: [Atlas 0.5 (GeoJSON)](https://confoederatio.org/data/atlas_0.5b.json) | [Atlas 0.5 (Webview)](https://confoederatio.org/pages/dataview). De jure polity extents: [C-Shapes 2.0](https://icr.ethz.ch/data/cshapes/).<br>
+> De-facto polity extents: [Atlas 0.5 (GeoJSON)](https://confoederatio.org/data/atlas_0.5b.json) | [Atlas 0.5 (Webview)](https://confoederatio.org/pages/dataview). De jure polity extents: [C-Shapes 2.0](https://icr.ethz.ch/data/cshapes/). Daily resolutions and diplomatic relations available from 3500BC-2025AD for community members.<br>
 > City extents, names, and populations are available at [Stadestér 1.0 (JSON/Raster)](https://doi.org/10.5281/zenodo.17180328).
 >
 > Map editing tools can be installed from [Naissance](https://github.com/ConfoederatioVF/Naissance).
