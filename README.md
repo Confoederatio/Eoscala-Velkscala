@@ -65,7 +65,7 @@ Eoscala 1.0/Velkscala 0.5.
  
 **Decoding and Encoding.**
 
-RGBA rasters can be decoded as follows for each pixel: `((r << 24) | (g << 16) | (b << 8) | a) >>> 0`, where the resultant integer contains the given cell value (i.e. population/GDP PPP, 100s). RGBA rasters may be encoded via an inverse function: `r = (number >> 24) & 0xFF, g = (number >> 16) & 0xFF, b = (number >> 8) & 0xFF, number & 0xFF`. Make sure to use these methods when interpreting pixel values.
+For ease-of-use, Eoscala/Velkscala uses GeoPNG for its export rasters. These are equivalent to single-band GeoTIFFs (either int32/float32), but in PNG format for viewing, compatibility, and interoperability reasons. Please see https://confoederatio.org/Vercengen/GeoPNG for implementation details and documentation.
 
 ## Eoscala:
 
