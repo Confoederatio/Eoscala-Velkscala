@@ -27,7 +27,7 @@ This database is subject to future routine updates to improve model and data acc
 
 **Data Availability.**
 
-Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. Similarly, the following variables have been modelled internally but have not yet been released, pending detailed methodology publications. Please ask a CRD member if you require them in the meantime.
+Some input data has been omitted due to GitHub LFS limits; static development images are available upon request. If you require access to the following rasters, please ask a member of CRD over Confoederatio Element or Discord.
 
 - `GDP_nominal`: GDP (nominal) [2]
 - `GDP_pc`: GDP per capita (nominal) [2]
@@ -41,6 +41,13 @@ Some input data has been omitted due to GitHub LFS limits; static development im
   - `f/m_00`: 0-1 years of age, female/male cohorts
   - `f/m_01`: 1-5 years of age, female/male cohorts
   - `f/m_05-80`: 5-year incremental female/male age cohorts, ending cohort is `80+`.
+  - `births`: Crude births, aggregate
+  - `female_deaths`: Crude female deaths, aggregate
+  - `female_net_migration`: Net migration, female, aggregate
+  - `male_deaths`: Crude male deaths, aggregate
+  - `male_net_migration`: Net migration, male, aggregate
+  - `net_migration`: Net migration, both genders
+  - Life tables are available by ISO3-geocode from 1750-2025.
 
 This includes both 5-arcmin. rasters and national/regional-level aggregates.
 
