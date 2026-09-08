@@ -54,7 +54,7 @@ This includes both 5-arcmin. rasters and national/regional-level aggregates.
 1. Calculated using rolling RLS and interpolation to the World Inequality Database, national accounts records, and related covariates with dasymetric constraints.
 2. Calculated based on Nordhaus, Maddison, Gapminder, SEDAC, Kummu et al., and others. Composite series disaggregated using Regularised Least Squares on land use/demographic covariates (HYDE/Velkscala).
 3. Disaggregated from the GINI Project Database, Gapminder/World Inequality Database, SubNGini, and others.
-4. Modelled based on WorldPop, UNWPP, HMD, and Clio-Infra, then backcalculated using multinomial logit.
+4. Modelled based on WorldPop, UNWPP, HMD, and Clio-Infra, then backcalculated using multinomial logit. Migration rasters calculated based on additional research from Niva et al.
 
 **Data & Papers.**
 
